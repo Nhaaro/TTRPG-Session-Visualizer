@@ -12,29 +12,29 @@ interface TabsProps {
 const Tabs = (props: TabsProps) => {
   const { items } = props;
 
-  const [activeTab, setActiveTab] = useState<Tab>(items[0]);
+  const [activeTab, setActiveTab] = useState<number>(0);
 
-  const handleClick = (tab: Tab) => () => setActiveTab(tab);
+  const handleClick = (index: number) => () => setActiveTab(index);
+
+  const ActiveComponent = items[activeTab].Component;
 
   return (
     <>
-      <TabsContainer>
-        {items.map((item) => (
-          <Tab active={activeTab.label === item.label} key={item.label}>
-            <button onClick={handleClick(item)}>{item.label}</button>
-          </Tab>
+      <TabList>
+        {items.map((item, index) => (
+          <TabListItem active={activeTab === index} key={item.label}>
+            <button onClick={handleClick(index)}>{item.label}</button>
+          </TabListItem>
         ))}
-      </TabsContainer>
-      <TabContent>
-        <activeTab.Component />
-      </TabContent>
+      </TabList>
+      <TabContent>{ActiveComponent && <ActiveComponent />}</TabContent>
     </>
   );
 };
 
 export default Tabs;
 
-const TabsContainer = styled.ul`
+const TabList = styled.ul`
   display: flex;
   flex-wrap: wrap;
   padding-left: 0;
@@ -43,7 +43,7 @@ const TabsContainer = styled.ul`
   border-bottom: 1px solid #2f2f2f;
   margin: 0;
 `;
-const Tab = styled.li<{ active?: boolean }>`
+const TabListItem = styled.li<{ active: boolean }>`
   margin-bottom: -1px;
 
   > button {
@@ -55,8 +55,8 @@ const Tab = styled.li<{ active?: boolean }>`
       border-color: #2f2f2f #2f2f2f #2f2f2f;
     }
 
-    ${(props) =>
-      props.active
+    ${({ active }) =>
+      active
         ? css`
             background-color: #1e1e1e;
             border-color: #2f2f2f #2f2f2f #1e1e1e;
