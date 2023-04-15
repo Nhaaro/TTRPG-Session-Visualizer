@@ -1,0 +1,4999 @@
+[
+  {
+    "timestamp": 1668318010635,
+    "name": "Vickyan's status effects:",
+    "flavor": "",
+    "content": "<div class=\"dice-roll\">\n                <div class=\"dice-result\">\n                    <div class=\"dice-total statuseffect-message\">\n                        <ul>\n                <li><img src=\"systems/pf2e/icons/conditions/encumbered.webp\" title=\"You're carrying more weight than you can manage.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Encumbered </span>\n                        <div class=\"statuseffect-rules\"><h2>Encumbered</h2><p>You are carrying more weight than you can manage. While you're encumbered, you're @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} and take a 10-foot penalty to all your Speeds. As with all penalties to your Speed, this can't reduce your Speed below 5 feet.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/clumsy.webp\" title=\"You can't move as easily or gracefully as usual.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Clumsy 1</span>\n                        <div class=\"statuseffect-rules\"><h2>Clumsy</h2><p>Your movements become clumsy and inexact. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based checks and DCs, including AC, Reflex saves, ranged attack rolls, and skill checks using Acrobatics, Stealth, and Thievery.</p></div>\n                    </span>\n                </li></ul>\n                    </div>\n                </div>\n            </div>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Vickyan's status effects:",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318031560,
+    "name": "Drakronos",
+    "flavor": "<div class=\"pf2e-pd-card\">\n    <strong>Recovery Check: Persistent Acid DC15</strong>\n    <div>\n        <span class=\"flat-check-success\">Success</span>\n    </div>\n</div>",
+    "content": "18",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318049416,
+    "name": "Vickyan",
+    "flavor": "<div class=\"pf2e chat-card pf2e-pd-card\" data-actor-id=\"8TBzQIm6SXUT7MeW\" data-effect-id=\"lFltlqcwWqFdhv62\">\n    <div class=\"persistent-header\">\n        <div>\n            <div>Persistent Acid damage</div>\n        </div>\n    </div>\n        <div class=\"card-buttons\">\n            <button data-action=\"check\" data-check=\"flat\" data-dc=\"15\" data-visibility=\"owner\">Recovery Check DC 15</button>\n        </div>\n</div>",
+    "content": null,
+    "roll": null,
+    "flags": {
+      "persistent": {
+        "damageType": "acid",
+        "dc": 15,
+        "value": "1d6"
+      },
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Vickyan",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Vickyan",
+          "image": "characters/PCs/Vickyan/Vickyan.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Vickyan",
+          "image": "characters/PCs/Vickyan/Vickyan.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1668318049536,
+    "name": "Drakronos's status effects:",
+    "flavor": "",
+    "content": "<div class=\"dice-roll\">\n                <div class=\"dice-result\">\n                    <div class=\"dice-total statuseffect-message\">\n                        <ul>\n                <li><img src=\"systems/pf2e/icons/conditions/blinded.webp\" title=\"You're unable to see.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Blinded </span>\n                        <div class=\"statuseffect-rules\"><h2>Blinded</h2><p>You can't see. All normal terrain is difficult terrain to you. You can't detect anything using vision. You automatically critically fail Perception checks that require you to be able to see, and if vision is your only precise sense, you take a -4 status penalty to Perception checks. You are immune to visual effects. Blinded overrides @UUID[Compendium.pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled}.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/clumsy.webp\" title=\"You can't move as easily or gracefully as usual.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Clumsy 1</span>\n                        <div class=\"statuseffect-rules\"><h2>Clumsy</h2><p>Your movements become clumsy and inexact. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based checks and DCs, including AC, Reflex saves, ranged attack rolls, and skill checks using Acrobatics, Stealth, and Thievery.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/dying.webp\" title=\"You're slipping closer to death.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Dying 1</span>\n                        <div class=\"statuseffect-rules\"><h2>Dying</h2><p>You are bleeding out or otherwise at death's door. While you have this condition, you are @UUID[Compendium.pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious}. Dying always includes a value, and if it ever reaches dying 4, you die. If you're dying, you must attempt a recovery check at the start of your turn each round to determine whether you get better or worse. Your dying condition increases by 1 if you take damage while dying, or by 2 if you take damage from an enemy's critical hit or a critical failure on your save.</p>\n<p>If you lose the dying condition by succeeding at a recovery check and are still at 0 Hit Points, you remain unconscious, but you can wake up as described in that condition. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more. Any time you lose the dying condition, you gain the @UUID[Compendium.pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Wounded 1} condition, or increase your wounded condition value by 1 if you already have that condition.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/encumbered.webp\" title=\"You're carrying more weight than you can manage.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Encumbered </span>\n                        <div class=\"statuseffect-rules\"><h2>Encumbered</h2><p>You are carrying more weight than you can manage. While you're encumbered, you're @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} and take a 10-foot penalty to all your Speeds. As with all penalties to your Speed, this can't reduce your Speed below 5 feet.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/flat-footed.webp\" title=\"You're unable to defend yourself to your full capability.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Flat-Footed </span>\n                        <div class=\"statuseffect-rules\"><h2>Flat-Footed</h2><p>You're distracted or otherwise unable to focus your full attention on defense. You take a -2 circumstance penalty to AC. Some effects give you the flat-footed condition only to certain creatures or against certain attacks. Others-especially conditions-can make you universally flat-footed against everything. If a rule doesn't specify that the condition applies only to certain circumstances, it applies to all of them; for example, many effects simply say \"The target is flat-footed.\"</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/prone.webp\" title=\"You're lying on the ground and are easier to attack.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Prone </span>\n                        <div class=\"statuseffect-rules\"><h2>Prone</h2><p>You're lying on the ground. You are @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} and take a -2 circumstance penalty to attack rolls. The only move actions you can use while you're prone are @UUID[Compendium.pf2e.actionspf2e.Tj055UcNm6UEgtCg]{Crawl} and @UUID[Compendium.pf2e.actionspf2e.OdIUybJ3ddfL7wzj]{Stand}. Standing up ends the prone condition. You can @UUID[Compendium.pf2e.actionspf2e.ust1jJSCZQUhBZIz]{Take Cover} while prone to hunker down and gain cover against ranged attacks, even if you don't have an object to get behind, gaining a +4 circumstance bonus to AC against ranged attacks (but you remain flat-footed).</p>\n<p>If you would be knocked prone while you're @UUID[Compendium.pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climbing} or @UUID[Compendium.pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Flying}, you fall. You can't be knocked prone when @UUID[Compendium.pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Swimming}.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/unconscious.webp\" title=\"You're asleep or knocked out.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Unconscious </span>\n                        <div class=\"statuseffect-rules\"><h2>Unconscious</h2><p>You're sleeping, or you've been knocked out. You can't act. You take a -4 status penalty to AC, Perception, and Reflex saves, and you have the @UUID[Compendium.pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} and @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} conditions. When you gain this condition, you fall @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]{Prone} and drop items you are wielding or holding unless the effect states otherwise or the GM determines you're in a position in which you wouldn't.</p>\n<p>If you're unconscious because you're @UUID[Compendium.pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Dying}, you can't wake up while you have 0 Hit Points. If you are restored to 1 Hit Point or more via healing, you lose the dying and unconscious conditions and can act normally on your next turn.</p>\n<p>If you are unconscious and at 0 Hit Points, but not dying, you naturally return to 1 Hit Point and awaken after sufficient time passes. The GM determines how long you remain unconscious, from a minimum of 10 minutes to several hours. If you receive healing during this time, you lose the unconscious condition and can act normally on your next turn.</p>\n<p>If you're unconscious and have more than 1 Hit Point (typically because you are asleep or unconscious due to an effect), you wake up in one of the following ways. Each causes you to lose the unconscious condition.</p>\n<ul>\n<li>You take damage, provided the damage doesn't reduce you to 0 Hit Points. If the damage reduces you to 0 Hit Points, you remain unconscious and gain the dying condition as normal.</li>\n<li>You receive healing, other than the natural healing you get from resting.</li>\n<li>Someone shakes you awake with an @UUID[Compendium.pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interact} action.</li>\n<li>There's loud noise going on around you-though this isn't automatic. At the start of your turn, you automatically attempt a Perception check against the noise's DC (or the lowest DC if there is more than one noise), waking up if you succeed. If creatures are attempting to stay quiet around you, this Perception check uses their Stealth DCs. Some magical effects make you sleep so deeply that they don't allow you to attempt this Perception check.</li>\n<li>If you are simply asleep, the GM decides you wake up either because you have had a restful night's sleep or something disrupted that rest.</li>\n</ul></div>\n                    </span>\n                </li></ul>\n                    </div>\n                </div>\n            </div>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos's status effects:",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318049537,
+    "name": "",
+    "flavor": "Round 3",
+    "content": null,
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "monks-little-details": {
+        "roundmarker": true
+      }
+    }
+  },
+  {
+    "timestamp": 1668318054768,
+    "name": "Vickyan",
+    "flavor": "<div class=\"pf2e-pd-card\">\n    <strong>Recovery Check: Persistent Acid DC15</strong>\n    <div>\n        <span class=\"flat-check-failure\">Failure</span>\n    </div>\n</div>",
+    "content": "3",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Vickyan",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Vickyan",
+          "image": "characters/PCs/Vickyan/Vickyan.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Vickyan",
+          "image": "characters/PCs/Vickyan/Vickyan.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318060379,
+    "name": "Vickyan's status effects:",
+    "flavor": "",
+    "content": "<div class=\"dice-roll\">\n                <div class=\"dice-result\">\n                    <div class=\"dice-total statuseffect-message\">\n                        <ul>\n                <li><img src=\"systems/pf2e/icons/conditions/encumbered.webp\" title=\"You're carrying more weight than you can manage.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Encumbered </span>\n                        <div class=\"statuseffect-rules\"><h2>Encumbered</h2><p>You are carrying more weight than you can manage. While you're encumbered, you're @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} and take a 10-foot penalty to all your Speeds. As with all penalties to your Speed, this can't reduce your Speed below 5 feet.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/clumsy.webp\" title=\"You can't move as easily or gracefully as usual.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Clumsy 1</span>\n                        <div class=\"statuseffect-rules\"><h2>Clumsy</h2><p>Your movements become clumsy and inexact. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based checks and DCs, including AC, Reflex saves, ranged attack rolls, and skill checks using Acrobatics, Stealth, and Thievery.</p></div>\n                    </span>\n                </li></ul>\n                    </div>\n                </div>\n            </div>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Vickyan's status effects:",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318060973,
+    "name": "Vickyan",
+    "flavor": "<div class=\"pf2e chat-card pf2e-pd-card\" data-actor-id=\"8TBzQIm6SXUT7MeW\" data-effect-id=\"lFltlqcwWqFdhv62\">\n    <div class=\"persistent-header\">\n        <div>\n            <div>Persistent Acid damage</div>\n        </div>\n    </div>\n        <div class=\"card-buttons\">\n            <button data-action=\"check\" data-check=\"flat\" data-dc=\"15\" data-visibility=\"owner\">Recovery Check DC 15</button>\n        </div>\n</div>",
+    "content": null,
+    "roll": null,
+    "flags": {
+      "persistent": {
+        "damageType": "acid",
+        "dc": 15,
+        "value": "1d6"
+      },
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Vickyan",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Vickyan",
+          "image": "characters/PCs/Vickyan/Vickyan.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Vickyan",
+          "image": "characters/PCs/Vickyan/Vickyan.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1668318062020,
+    "name": "Drakronos's status effects:",
+    "flavor": "",
+    "content": "<div class=\"dice-roll\">\n                <div class=\"dice-result\">\n                    <div class=\"dice-total statuseffect-message\">\n                        <ul>\n                <li><img src=\"systems/pf2e/icons/conditions/blinded.webp\" title=\"You're unable to see.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Blinded </span>\n                        <div class=\"statuseffect-rules\"><h2>Blinded</h2><p>You can't see. All normal terrain is difficult terrain to you. You can't detect anything using vision. You automatically critically fail Perception checks that require you to be able to see, and if vision is your only precise sense, you take a -4 status penalty to Perception checks. You are immune to visual effects. Blinded overrides @UUID[Compendium.pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled}.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/clumsy.webp\" title=\"You can't move as easily or gracefully as usual.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Clumsy 1</span>\n                        <div class=\"statuseffect-rules\"><h2>Clumsy</h2><p>Your movements become clumsy and inexact. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based checks and DCs, including AC, Reflex saves, ranged attack rolls, and skill checks using Acrobatics, Stealth, and Thievery.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/dying.webp\" title=\"You're slipping closer to death.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Dying 1</span>\n                        <div class=\"statuseffect-rules\"><h2>Dying</h2><p>You are bleeding out or otherwise at death's door. While you have this condition, you are @UUID[Compendium.pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious}. Dying always includes a value, and if it ever reaches dying 4, you die. If you're dying, you must attempt a recovery check at the start of your turn each round to determine whether you get better or worse. Your dying condition increases by 1 if you take damage while dying, or by 2 if you take damage from an enemy's critical hit or a critical failure on your save.</p>\n<p>If you lose the dying condition by succeeding at a recovery check and are still at 0 Hit Points, you remain unconscious, but you can wake up as described in that condition. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more. Any time you lose the dying condition, you gain the @UUID[Compendium.pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Wounded 1} condition, or increase your wounded condition value by 1 if you already have that condition.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/encumbered.webp\" title=\"You're carrying more weight than you can manage.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Encumbered </span>\n                        <div class=\"statuseffect-rules\"><h2>Encumbered</h2><p>You are carrying more weight than you can manage. While you're encumbered, you're @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} and take a 10-foot penalty to all your Speeds. As with all penalties to your Speed, this can't reduce your Speed below 5 feet.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/flat-footed.webp\" title=\"You're unable to defend yourself to your full capability.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Flat-Footed </span>\n                        <div class=\"statuseffect-rules\"><h2>Flat-Footed</h2><p>You're distracted or otherwise unable to focus your full attention on defense. You take a -2 circumstance penalty to AC. Some effects give you the flat-footed condition only to certain creatures or against certain attacks. Others-especially conditions-can make you universally flat-footed against everything. If a rule doesn't specify that the condition applies only to certain circumstances, it applies to all of them; for example, many effects simply say \"The target is flat-footed.\"</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/prone.webp\" title=\"You're lying on the ground and are easier to attack.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Prone </span>\n                        <div class=\"statuseffect-rules\"><h2>Prone</h2><p>You're lying on the ground. You are @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} and take a -2 circumstance penalty to attack rolls. The only move actions you can use while you're prone are @UUID[Compendium.pf2e.actionspf2e.Tj055UcNm6UEgtCg]{Crawl} and @UUID[Compendium.pf2e.actionspf2e.OdIUybJ3ddfL7wzj]{Stand}. Standing up ends the prone condition. You can @UUID[Compendium.pf2e.actionspf2e.ust1jJSCZQUhBZIz]{Take Cover} while prone to hunker down and gain cover against ranged attacks, even if you don't have an object to get behind, gaining a +4 circumstance bonus to AC against ranged attacks (but you remain flat-footed).</p>\n<p>If you would be knocked prone while you're @UUID[Compendium.pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climbing} or @UUID[Compendium.pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Flying}, you fall. You can't be knocked prone when @UUID[Compendium.pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Swimming}.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/unconscious.webp\" title=\"You're asleep or knocked out.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Unconscious </span>\n                        <div class=\"statuseffect-rules\"><h2>Unconscious</h2><p>You're sleeping, or you've been knocked out. You can't act. You take a -4 status penalty to AC, Perception, and Reflex saves, and you have the @UUID[Compendium.pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} and @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} conditions. When you gain this condition, you fall @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]{Prone} and drop items you are wielding or holding unless the effect states otherwise or the GM determines you're in a position in which you wouldn't.</p>\n<p>If you're unconscious because you're @UUID[Compendium.pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Dying}, you can't wake up while you have 0 Hit Points. If you are restored to 1 Hit Point or more via healing, you lose the dying and unconscious conditions and can act normally on your next turn.</p>\n<p>If you are unconscious and at 0 Hit Points, but not dying, you naturally return to 1 Hit Point and awaken after sufficient time passes. The GM determines how long you remain unconscious, from a minimum of 10 minutes to several hours. If you receive healing during this time, you lose the unconscious condition and can act normally on your next turn.</p>\n<p>If you're unconscious and have more than 1 Hit Point (typically because you are asleep or unconscious due to an effect), you wake up in one of the following ways. Each causes you to lose the unconscious condition.</p>\n<ul>\n<li>You take damage, provided the damage doesn't reduce you to 0 Hit Points. If the damage reduces you to 0 Hit Points, you remain unconscious and gain the dying condition as normal.</li>\n<li>You receive healing, other than the natural healing you get from resting.</li>\n<li>Someone shakes you awake with an @UUID[Compendium.pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interact} action.</li>\n<li>There's loud noise going on around you-though this isn't automatic. At the start of your turn, you automatically attempt a Perception check against the noise's DC (or the lowest DC if there is more than one noise), waking up if you succeed. If creatures are attempting to stay quiet around you, this Perception check uses their Stealth DCs. Some magical effects make you sleep so deeply that they don't allow you to attempt this Perception check.</li>\n<li>If you are simply asleep, the GM decides you wake up either because you have had a restful night's sleep or something disrupted that rest.</li>\n</ul></div>\n                    </span>\n                </li></ul>\n                    </div>\n                </div>\n            </div>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos's status effects:",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318062022,
+    "name": "",
+    "flavor": "Round 4",
+    "content": null,
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "monks-little-details": {
+        "roundmarker": true
+      }
+    }
+  },
+  {
+    "timestamp": 1668318067867,
+    "name": "Vickyan",
+    "flavor": "",
+    "content": "<p>Vickyan takes 1 damage.</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Vickyan",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318069601,
+    "name": "Vickyan",
+    "flavor": "<div class=\"pf2e-pd-card\">\n    <strong>Recovery Check: Persistent Acid DC15</strong>\n    <div>\n        <span class=\"flat-check-failure\">Failure</span>\n    </div>\n</div>",
+    "content": "8",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Vickyan",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Vickyan",
+          "image": "characters/PCs/Vickyan/Vickyan.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Vickyan",
+          "image": "characters/PCs/Vickyan/Vickyan.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318074145,
+    "name": "Vickyan's status effects:",
+    "flavor": "",
+    "content": "<div class=\"dice-roll\">\n                <div class=\"dice-result\">\n                    <div class=\"dice-total statuseffect-message\">\n                        <ul>\n                <li><img src=\"systems/pf2e/icons/conditions/encumbered.webp\" title=\"You're carrying more weight than you can manage.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Encumbered </span>\n                        <div class=\"statuseffect-rules\"><h2>Encumbered</h2><p>You are carrying more weight than you can manage. While you're encumbered, you're @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} and take a 10-foot penalty to all your Speeds. As with all penalties to your Speed, this can't reduce your Speed below 5 feet.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/clumsy.webp\" title=\"You can't move as easily or gracefully as usual.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Clumsy 1</span>\n                        <div class=\"statuseffect-rules\"><h2>Clumsy</h2><p>Your movements become clumsy and inexact. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based checks and DCs, including AC, Reflex saves, ranged attack rolls, and skill checks using Acrobatics, Stealth, and Thievery.</p></div>\n                    </span>\n                </li></ul>\n                    </div>\n                </div>\n            </div>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Vickyan's status effects:",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318076167,
+    "name": "Vickyan",
+    "flavor": "<div class=\"pf2e chat-card pf2e-pd-card\" data-actor-id=\"8TBzQIm6SXUT7MeW\" data-effect-id=\"lFltlqcwWqFdhv62\">\n    <div class=\"persistent-header\">\n        <div>\n            <div>Persistent Acid damage</div>\n        </div>\n    </div>\n        <div class=\"card-buttons\">\n            <button data-action=\"check\" data-check=\"flat\" data-dc=\"15\" data-visibility=\"owner\">Recovery Check DC 15</button>\n        </div>\n</div>",
+    "content": null,
+    "roll": null,
+    "flags": {
+      "persistent": {
+        "damageType": "acid",
+        "dc": 15,
+        "value": "1d6"
+      },
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Vickyan",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Vickyan",
+          "image": "characters/PCs/Vickyan/Vickyan.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Vickyan",
+          "image": "characters/PCs/Vickyan/Vickyan.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1668318076283,
+    "name": "Drakronos's status effects:",
+    "flavor": "",
+    "content": "<div class=\"dice-roll\">\n                <div class=\"dice-result\">\n                    <div class=\"dice-total statuseffect-message\">\n                        <ul>\n                <li><img src=\"systems/pf2e/icons/conditions/blinded.webp\" title=\"You're unable to see.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Blinded </span>\n                        <div class=\"statuseffect-rules\"><h2>Blinded</h2><p>You can't see. All normal terrain is difficult terrain to you. You can't detect anything using vision. You automatically critically fail Perception checks that require you to be able to see, and if vision is your only precise sense, you take a -4 status penalty to Perception checks. You are immune to visual effects. Blinded overrides @UUID[Compendium.pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled}.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/clumsy.webp\" title=\"You can't move as easily or gracefully as usual.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Clumsy 1</span>\n                        <div class=\"statuseffect-rules\"><h2>Clumsy</h2><p>Your movements become clumsy and inexact. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based checks and DCs, including AC, Reflex saves, ranged attack rolls, and skill checks using Acrobatics, Stealth, and Thievery.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/dying.webp\" title=\"You're slipping closer to death.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Dying 1</span>\n                        <div class=\"statuseffect-rules\"><h2>Dying</h2><p>You are bleeding out or otherwise at death's door. While you have this condition, you are @UUID[Compendium.pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious}. Dying always includes a value, and if it ever reaches dying 4, you die. If you're dying, you must attempt a recovery check at the start of your turn each round to determine whether you get better or worse. Your dying condition increases by 1 if you take damage while dying, or by 2 if you take damage from an enemy's critical hit or a critical failure on your save.</p>\n<p>If you lose the dying condition by succeeding at a recovery check and are still at 0 Hit Points, you remain unconscious, but you can wake up as described in that condition. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more. Any time you lose the dying condition, you gain the @UUID[Compendium.pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Wounded 1} condition, or increase your wounded condition value by 1 if you already have that condition.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/encumbered.webp\" title=\"You're carrying more weight than you can manage.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Encumbered </span>\n                        <div class=\"statuseffect-rules\"><h2>Encumbered</h2><p>You are carrying more weight than you can manage. While you're encumbered, you're @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} and take a 10-foot penalty to all your Speeds. As with all penalties to your Speed, this can't reduce your Speed below 5 feet.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/flat-footed.webp\" title=\"You're unable to defend yourself to your full capability.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Flat-Footed </span>\n                        <div class=\"statuseffect-rules\"><h2>Flat-Footed</h2><p>You're distracted or otherwise unable to focus your full attention on defense. You take a -2 circumstance penalty to AC. Some effects give you the flat-footed condition only to certain creatures or against certain attacks. Others-especially conditions-can make you universally flat-footed against everything. If a rule doesn't specify that the condition applies only to certain circumstances, it applies to all of them; for example, many effects simply say \"The target is flat-footed.\"</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/prone.webp\" title=\"You're lying on the ground and are easier to attack.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Prone </span>\n                        <div class=\"statuseffect-rules\"><h2>Prone</h2><p>You're lying on the ground. You are @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} and take a -2 circumstance penalty to attack rolls. The only move actions you can use while you're prone are @UUID[Compendium.pf2e.actionspf2e.Tj055UcNm6UEgtCg]{Crawl} and @UUID[Compendium.pf2e.actionspf2e.OdIUybJ3ddfL7wzj]{Stand}. Standing up ends the prone condition. You can @UUID[Compendium.pf2e.actionspf2e.ust1jJSCZQUhBZIz]{Take Cover} while prone to hunker down and gain cover against ranged attacks, even if you don't have an object to get behind, gaining a +4 circumstance bonus to AC against ranged attacks (but you remain flat-footed).</p>\n<p>If you would be knocked prone while you're @UUID[Compendium.pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climbing} or @UUID[Compendium.pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Flying}, you fall. You can't be knocked prone when @UUID[Compendium.pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Swimming}.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/unconscious.webp\" title=\"You're asleep or knocked out.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Unconscious </span>\n                        <div class=\"statuseffect-rules\"><h2>Unconscious</h2><p>You're sleeping, or you've been knocked out. You can't act. You take a -4 status penalty to AC, Perception, and Reflex saves, and you have the @UUID[Compendium.pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} and @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} conditions. When you gain this condition, you fall @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]{Prone} and drop items you are wielding or holding unless the effect states otherwise or the GM determines you're in a position in which you wouldn't.</p>\n<p>If you're unconscious because you're @UUID[Compendium.pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Dying}, you can't wake up while you have 0 Hit Points. If you are restored to 1 Hit Point or more via healing, you lose the dying and unconscious conditions and can act normally on your next turn.</p>\n<p>If you are unconscious and at 0 Hit Points, but not dying, you naturally return to 1 Hit Point and awaken after sufficient time passes. The GM determines how long you remain unconscious, from a minimum of 10 minutes to several hours. If you receive healing during this time, you lose the unconscious condition and can act normally on your next turn.</p>\n<p>If you're unconscious and have more than 1 Hit Point (typically because you are asleep or unconscious due to an effect), you wake up in one of the following ways. Each causes you to lose the unconscious condition.</p>\n<ul>\n<li>You take damage, provided the damage doesn't reduce you to 0 Hit Points. If the damage reduces you to 0 Hit Points, you remain unconscious and gain the dying condition as normal.</li>\n<li>You receive healing, other than the natural healing you get from resting.</li>\n<li>Someone shakes you awake with an @UUID[Compendium.pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interact} action.</li>\n<li>There's loud noise going on around you-though this isn't automatic. At the start of your turn, you automatically attempt a Perception check against the noise's DC (or the lowest DC if there is more than one noise), waking up if you succeed. If creatures are attempting to stay quiet around you, this Perception check uses their Stealth DCs. Some magical effects make you sleep so deeply that they don't allow you to attempt this Perception check.</li>\n<li>If you are simply asleep, the GM decides you wake up either because you have had a restful night's sleep or something disrupted that rest.</li>\n</ul></div>\n                    </span>\n                </li></ul>\n                    </div>\n                </div>\n            </div>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos's status effects:",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318076286,
+    "name": "",
+    "flavor": "Round 5",
+    "content": null,
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "monks-little-details": {
+        "roundmarker": true
+      }
+    }
+  },
+  {
+    "timestamp": 1668318077804,
+    "name": "Beemiw",
+    "flavor": "",
+    "content": "<div class=\"pf2e chat-card item-card\" data-spell-lvl=\"2\" data-cast-level=\"2\" data-actor-id=\"03SvNXj3zpKgsxnP\" data-item-id=\"eNCkzGFpSQxFmZIw\">\n    <header class=\"card-header flexrow\">\n        <img src=\"systems/pf2e/icons/spells/stabelize.webp\" title=\"Stabilize\" width=\"36\" height=\"36\" />\n        <h3>Stabilize</h3>\n        <h4>Cantrip 2</h4>\n    </header>\n\n    <section class=\"item-properties tags\">                <span class=\"tag\" data-trait=\"concentrate\" data-description=\"PF2E.TraitDescriptionConcentrate\">Concentrate</span>\n                <span class=\"tag\" data-trait=\"manipulate\" data-description=\"PF2E.TraitDescriptionManipulate\">Manipulate</span>\n            <hr class=\"vr\" />            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionCantrip\">Cantrip</span>\n            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionHealing\">Healing</span>\n            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionNecromancy\">Necromancy</span>\n            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionPositive\">Positive</span>\n            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionPrimal\">Primal</span>\n    </section>\n\n    <section class=\"card-content\">\n        <p>Positive energy shuts death's door. The target loses the <a class=\"content-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-uuid=\"Compendium.pf2e.conditionitems.yZRUzMqrMmfLu0V1\" data-id=\"yZRUzMqrMmfLu0V1\"><i class=\"fas fa-suitcase\"></i>Dying</a> condition, though it remains <a class=\"content-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-uuid=\"Compendium.pf2e.conditionitems.fBnFDH2MTzgFijKf\" data-id=\"fBnFDH2MTzgFijKf\"><i class=\"fas fa-suitcase\"></i>Unconscious</a> at 0 Hit Points.</p>\n    </section>\n\n    <section class=\"card-buttons\">\n    </section>\n\n    <footer class=\"card-footer\">\n            <span>Base: 1st</span>\n            <span>Heightened: +1</span>\n            <span>Components: SV</span>\n            <span>Range: 30 feet</span>\n            <span>Targets: 1 dying creature</span>\n            <span>Cast Time: 2</span>\n    </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "origin": {
+          "uuid": "Actor.03SvNXj3zpKgsxnP.Item.eNCkzGFpSQxFmZIw",
+          "type": "spell"
+        },
+        "casting": {
+          "id": "plZHuXSFcIUZzQKJ",
+          "level": 2,
+          "tradition": "primal"
+        },
+        "isFromConsumable": false
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Beemiw",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318120725,
+    "name": "Vickyan's status effects:",
+    "flavor": "",
+    "content": "<div class=\"dice-roll\">\n                <div class=\"dice-result\">\n                    <div class=\"dice-total statuseffect-message\">\n                        <ul>\n                <li><img src=\"systems/pf2e/icons/conditions/encumbered.webp\" title=\"You're carrying more weight than you can manage.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Encumbered </span>\n                        <div class=\"statuseffect-rules\"><h2>Encumbered</h2><p>You are carrying more weight than you can manage. While you're encumbered, you're @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} and take a 10-foot penalty to all your Speeds. As with all penalties to your Speed, this can't reduce your Speed below 5 feet.</p></div>\n                    </span>\n                </li>\n                <li><img src=\"systems/pf2e/icons/conditions/clumsy.webp\" title=\"You can't move as easily or gracefully as usual.\" />\n                    <span class=\"statuseffect-li\">\n                        <span class=\"statuseffect-li-text\">Clumsy 1</span>\n                        <div class=\"statuseffect-rules\"><h2>Clumsy</h2><p>Your movements become clumsy and inexact. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based checks and DCs, including AC, Reflex saves, ranged attack rolls, and skill checks using Acrobatics, Stealth, and Thievery.</p></div>\n                    </span>\n                </li></ul>\n                    </div>\n                </div>\n            </div>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Vickyan's status effects:",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318126113,
+    "name": "Vickyan",
+    "flavor": "",
+    "content": "<p>Vickyan takes 2 damage.</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Vickyan",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318128987,
+    "name": "Vickyan",
+    "flavor": "<div class=\"pf2e-pd-card\">\n    <strong>Recovery Check: Persistent Acid DC15</strong>\n    <div>\n        <span class=\"flat-check-success\">Success</span>\n    </div>\n</div>",
+    "content": "15",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Vickyan",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Vickyan",
+          "image": "characters/PCs/Vickyan/Vickyan.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Vickyan",
+          "image": "characters/PCs/Vickyan/Vickyan.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318145142,
+    "name": "",
+    "flavor": "Round End",
+    "content": null,
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "monks-little-details": {
+        "roundmarker": true
+      }
+    }
+  },
+  {
+    "timestamp": 1668318175130,
+    "name": "Drakronos",
+    "flavor": "Uses Elixir of Life (Minor)",
+    "content": "2",
+    "roll": null,
+    "flags": {
+      "pf2e": {
+        "origin": {
+          "sourceId": "Compendium.pf2e.equipment-srd.hDLbR56Id2OtU318",
+          "uuid": "Actor.thDArS7JBQT9Mp2k.Item.a1vKuohO3ocGqrqZ",
+          "type": "consumable"
+        }
+      },
+      "core": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318185375,
+    "name": "Drakronos",
+    "flavor": "",
+    "content": "<p>Drakronos is healed for 2 damage.</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1668318251917,
+    "name": "Beemiw",
+    "flavor": "<h4 class=\"action\">Skill Check: Medicine</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +4</span><span class=\"tag tag_transparent\" data-slug=\"trained\">Trained +5</span></div>",
+    "content": "11",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "03SvNXj3zpKgsxnP",
+          "domains": [
+            "all",
+            "skill-check",
+            "medicine",
+            "wis-based",
+            "wis-skill-check"
+          ],
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "ability:cha:score:10",
+            "ability:con:score:14",
+            "ability:dex:score:12",
+            "ability:int:score:14",
+            "ability:str:score:12",
+            "ability:wis:score:18",
+            "armor:id:qHlR7VxJSUYgOpXu",
+            "attack:advanced:rank:0",
+            "attack:martial:rank:0",
+            "attack:simple:rank:1",
+            "attack:unarmed:rank:1",
+            "class:druid",
+            "defense:heavy:rank:0",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:ancestral-paragon",
+            "feat:arcane-tattoos",
+            "feat:assurance-medicine",
+            "feat:dubious-knowledge",
+            "feat:fiend-wings",
+            "feat:fiendish-wings",
+            "feat:nestling-fall",
+            "feat:reanimator-dedication",
+            "feat:relentless-wings",
+            "feat:shield-block",
+            "feat:storm-born",
+            "feat:widen-spell",
+            "feature:alertness",
+            "feature:anathema-druid",
+            "feature:druidic-language",
+            "feature:druidic-order",
+            "feature:great-fortitude",
+            "feature:primal-spellcasting",
+            "feature:shield-block",
+            "feature:storm-order",
+            "feature:wild-empathy",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "hp-percent:100",
+            "perception:rank:2",
+            "proficiency:trained",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:1",
+            "save:will:rank:2",
+            "self:ancestry:cambion",
+            "self:armor:strength-requirement-met",
+            "self:armored",
+            "self:caster",
+            "self:condition:clumsy",
+            "self:condition:clumsy:1",
+            "self:condition:encumbered",
+            "self:heritage:tiefling",
+            "self:level:3",
+            "self:mode:living",
+            "self:size:2",
+            "self:size:medium",
+            "self:trait:evil",
+            "self:trait:fiend",
+            "self:trait:humanoid",
+            "self:trait:tiefling",
+            "self:type:character",
+            "skill:acr:rank:1",
+            "skill:arc:rank:1",
+            "skill:ath:rank:1",
+            "skill:cra:rank:1",
+            "skill:dec:rank:0",
+            "skill:dip:rank:0",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:1",
+            "skill:occ:rank:1",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:0",
+            "skill:sur:rank:0",
+            "skill:thi:rank:0",
+            "target:ancestry:human",
+            "target:armored",
+            "target:condition:clumsy",
+            "target:condition:clumsy:1",
+            "target:condition:encumbered",
+            "target:condition:wounded",
+            "target:condition:wounded:1",
+            "target:heritage:half-elf",
+            "target:level:3",
+            "target:mode:living",
+            "target:shield:equipped",
+            "target:size:2",
+            "target:size:medium",
+            "target:trait:elf",
+            "target:trait:half-elf",
+            "target:trait:human",
+            "target:trait:humanoid",
+            "target:type:character"
+          ],
+          "type": "skill-check",
+          "secret": false,
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [
+            {
+              "slug": "assurance",
+              "label": "Assurance",
+              "value": 10,
+              "predicate": [],
+              "ignored": true,
+              "effectType": "fortune"
+            }
+          ],
+          "rollMode": "publicroll",
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Skill Check: Medicine</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +4</span><span class=\"tag tag_transparent\" data-slug=\"trained\">Trained +5</span></div>",
+        "modifierName": "Skill Check: Medicine",
+        "modifiers": [
+          {
+            "label": "Wisdom",
+            "slug": "wis",
+            "modifier": 4,
+            "type": "ability",
+            "ability": "wis",
+            "force": false,
+            "adjustments": [
+              {
+                "slug": null,
+                "predicate": [
+                  "substitute:assurance",
+                  {
+                    "not": "bonus:type:proficiency"
+                  }
+                ],
+                "suppress": true,
+                "getNewValue": {},
+                "getDamageType": {}
+              }
+            ],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null
+          },
+          {
+            "label": "Trained",
+            "slug": "trained",
+            "modifier": 5,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [
+              {
+                "slug": null,
+                "predicate": [
+                  "substitute:assurance",
+                  {
+                    "not": "bonus:type:proficiency"
+                  }
+                ],
+                "suppress": true,
+                "getNewValue": {},
+                "getDamageType": {}
+              }
+            ],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null
+          },
+          {
+            "label": "Staff of Whithering (identify necromancy magic)",
+            "slug": "staff-of-whithering-identify-necromancy-magic",
+            "modifier": 2,
+            "type": "circumstance",
+            "ability": null,
+            "force": false,
+            "adjustments": [
+              {
+                "slug": null,
+                "predicate": [
+                  "substitute:assurance",
+                  {
+                    "not": "bonus:type:proficiency"
+                  }
+                ],
+                "suppress": true,
+                "getNewValue": {},
+                "getDamageType": {}
+              }
+            ],
+            "enabled": false,
+            "ignored": true,
+            "custom": false,
+            "source": "Actor.03SvNXj3zpKgsxnP.Item.0QAwQ4CEIwyPIZIm",
+            "predicate": [
+              "action:identify-magic",
+              "necromancy"
+            ],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Beemiw",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      },
+      "pf2e-target-damage": {
+        "targets": [
+          {
+            "id": "nvE9t6hL0HkCzgvo",
+            "name": "Drakronos",
+            "uuid": "Scene.MskOLD7c0OwBnLvD.Token.nvE9t6hL0HkCzgvo",
+            "img": "characters/PCs/Drakronos/Drakronos.png",
+            "hasPlayerOwner": true,
+            "playersCanSeeName": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": 1668318364862,
+    "name": "Drakronos",
+    "flavor": "",
+    "content": "Drakronos awakens well-rested.\n<ul><li>9 hit points restored.</li><li>Stamina points restored.</li><li>Temporary items removed.</li></ul>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      }
+    }
+  },
+  {
+    "timestamp": 1678583578121,
+    "name": "",
+    "flavor": "",
+    "content": "GM has requested Exploration Activities",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      }
+    }
+  },
+  {
+    "timestamp": 1678583607840,
+    "name": "Mako's Familiar",
+    "flavor": "<h4 class=\"action\">\n    <strong>Exploration Activity</strong>\n</h4>\n<hr class=\"action-divider\" />",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/actions/Empty.webp\" />I will do nothing in particular</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Mako's Familiar",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Mako's Familiar",
+          "image": "characters/PCs/Mako/Familiar.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Mako's Familiar",
+          "image": "characters/PCs/Mako/Familiar.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678583729809,
+    "name": "Aketo",
+    "flavor": "<h4 class=\"action\">\n    <strong>Exploration Activity</strong>\n</h4>\n<hr class=\"action-divider\" />",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/actions/Empty.webp\" />I will do nothing in particular</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Aketo",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Aketo",
+          "image": "characters/PCs/Goblin%20Alchemist%20with%20shadow.png",
+          "type": "token",
+          "scale": 0.8,
+          "isSmall": true
+        },
+        "actorAvatar": {
+          "name": "Aketo",
+          "image": "characters/PCs/Goblin%20Alchemist%20with%20shadow.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678583737059,
+    "name": "Mako",
+    "flavor": "<h4 class=\"action\">\n    <strong>Exploration Activity</strong>\n</h4>\n<hr class=\"action-divider\" />",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/actions/Empty.webp\" />I will do nothing in particular</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Mako",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Mako",
+          "image": "characters/PCs/Mako/iconos_dnd_mako.png",
+          "type": "token",
+          "scale": 0.8,
+          "isSmall": true
+        },
+        "actorAvatar": {
+          "name": "Mako",
+          "image": "characters/PCs/Mako/iconos_dnd_mako.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678583761629,
+    "name": "Beemiw",
+    "flavor": "<h4 class=\"action\">\n    <strong>Exploration Activity</strong>\n</h4>\n<hr class=\"action-divider\" />",
+    "content": "<p class=\"action-content\"><img src=\"icons/tools/navigation/map-marked-red.webp\" />@Compendium[pf2e.actionspf2e.kV3XM0YJeS2KCSOb]{Scout}</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Beemiw",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678584103714,
+    "name": "Riding Drake Companion",
+    "flavor": "<h4 class=\"action\">\n    <strong>Exploration Activity</strong>\n</h4>\n<hr class=\"action-divider\" />",
+    "content": "<p class=\"action-content\"><img src=\"icons/skills/movement/feet-winged-boots-brown.webp\" />@Compendium[pf2e.actionspf2e.JuqmIAnkL9hVGai8]{Hustle}</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Riding Drake Companion",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Riding Drake Companion",
+          "image": "systems/pf2e/icons/default-icons/character.svg",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Riding Drake Companion",
+          "image": "systems/pf2e/icons/default-icons/character.svg",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678584111373,
+    "name": "Riding Drake Companion",
+    "flavor": "<h4 class=\"action\">\n    <strong>Exploration Activity</strong>\n</h4>\n<hr class=\"action-divider\" />",
+    "content": "<p class=\"action-content\"><img src=\"icons/skills/movement/feet-winged-boots-brown.webp\" />@Compendium[pf2e.actionspf2e.JuqmIAnkL9hVGai8]{Hustle}</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Riding Drake Companion",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Riding Drake Companion",
+          "image": "systems/pf2e/icons/default-icons/character.svg",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Riding Drake Companion",
+          "image": "systems/pf2e/icons/default-icons/character.svg",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678584126364,
+    "name": "Drakronos",
+    "flavor": "<h4 class=\"action\">\n    <strong>Exploration Activity</strong>\n</h4>\n<hr class=\"action-divider\" />",
+    "content": "<p class=\"action-content\"><img src=\"icons/skills/movement/feet-winged-boots-brown.webp\" />@Compendium[pf2e.actionspf2e.JuqmIAnkL9hVGai8]{Hustle}</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678584262514,
+    "name": "Vickyan",
+    "flavor": "<h4 class=\"action\">\n    <strong>Exploration Activity</strong>\n</h4>\n<hr class=\"action-divider\" />",
+    "content": "<p class=\"action-content\"><img src=\"icons/tools/scribal/magnifying-glass.webp\" />@Compendium[pf2e.actionspf2e.EwgTZBWsc8qKaViP]{Investigate}</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Vickyan",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Vickyan",
+          "image": "characters/PCs/Vickyan/Vickyan.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Vickyan",
+          "image": "characters/PCs/Vickyan/Vickyan.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678584505034,
+    "name": "Aketo",
+    "flavor": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom -1</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Trained +5</span></div>",
+    "content": "7",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "XT4XGKmPMtDwlVbT",
+          "type": "perception-check",
+          "options": [
+            "ability:cha:score:14",
+            "ability:con:score:18",
+            "ability:dex:score:12",
+            "ability:int:score:19",
+            "ability:str:score:8",
+            "ability:wis:score:8",
+            "armor:base:studded-leather-armor",
+            "armor:category:light",
+            "armor:group:leather",
+            "armor:id:tlah852zqgdp0ti9",
+            "attack:advanced:rank:0",
+            "attack:martial:rank:0",
+            "attack:simple:rank:1",
+            "attack:unarmed:rank:1",
+            "class:alchemist",
+            "crafting:entry:alchemist",
+            "crafting:entry:herbalist",
+            "defense:heavy:rank:0",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:alchemical-crafting",
+            "feat:alchemical-savant",
+            "feat:encouraging-words",
+            "feat:herbalist-dedication",
+            "feat:junk-tinker",
+            "feat:natural-medicine",
+            "feat:poison-resistance",
+            "feat:specialty-crafting-alchemy",
+            "feature:advanced-alchemy",
+            "feature:alchemy",
+            "feature:chirurgeon",
+            "feature:formula-book",
+            "feature:infused-reagents",
+            "feature:quick-alchemy",
+            "feature:research-field",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:irongut-goblin",
+            "hp-percent:100",
+            "perception:rank:1",
+            "proficiency:trained",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:1",
+            "self:ancestry:goblin",
+            "self:armored",
+            "self:effect:loaded-alchemical-crossbow-bolts",
+            "self:heritage:irongut-goblin",
+            "self:level:3",
+            "self:mode:living",
+            "self:size:1",
+            "self:size:small",
+            "self:trait:chaotic",
+            "self:trait:goblin",
+            "self:trait:good",
+            "self:trait:humanoid",
+            "self:type:character",
+            "skill:acr:rank:0",
+            "skill:arc:rank:1",
+            "skill:ath:rank:0",
+            "skill:cra:rank:2",
+            "skill:dec:rank:0",
+            "skill:dip:rank:1",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:2",
+            "skill:occ:rank:1",
+            "skill:prf:rank:0",
+            "skill:rank:1",
+            "skill:rel:rank:0",
+            "skill:soc:rank:1",
+            "skill:ste:rank:1",
+            "skill:sur:rank:1",
+            "skill:thi:rank:0",
+            "speed:land",
+            "undefined"
+          ],
+          "dc": null,
+          "rollTwice": false,
+          "notes": [],
+          "dosAdjustments": {},
+          "skipDialog": false,
+          "createMessage": true,
+          "rollMode": "roll",
+          "token": null,
+          "domains": [],
+          "target": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "substitutions": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom -1</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Trained +5</span></div>",
+        "modifierName": "Perception Check",
+        "modifiers": [
+          {
+            "label": "Wisdom",
+            "slug": "wis",
+            "modifier": -1,
+            "type": "ability",
+            "ability": "wis",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Trained",
+            "slug": "proficiency",
+            "modifier": 5,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Aketo",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Aketo",
+          "image": "characters/PCs/Goblin%20Alchemist%20with%20shadow.png",
+          "type": "token",
+          "scale": 0.8,
+          "isSmall": true
+        },
+        "actorAvatar": {
+          "name": "Aketo",
+          "image": "characters/PCs/Goblin%20Alchemist%20with%20shadow.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678584520241,
+    "name": "Beemiw",
+    "flavor": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +4</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+    "content": "24",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "03SvNXj3zpKgsxnP",
+          "type": "perception-check",
+          "options": [
+            "ability:cha:score:10",
+            "ability:con:score:14",
+            "ability:dex:score:12",
+            "ability:int:score:14",
+            "ability:str:score:12",
+            "ability:wis:score:18",
+            "armor:base:studded-leather-armor",
+            "armor:category:light",
+            "armor:group:leather",
+            "armor:id:qHlR7VxJSUYgOpXu",
+            "armor:rune:potency:1",
+            "attack:advanced:rank:0",
+            "attack:martial:rank:0",
+            "attack:simple:rank:1",
+            "attack:unarmed:rank:1",
+            "class:druid",
+            "defense:heavy:rank:0",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:ancestral-paragon",
+            "feat:arcane-tattoos",
+            "feat:assurance-medicine",
+            "feat:dubious-knowledge",
+            "feat:fiend-wings",
+            "feat:fiendish-wings",
+            "feat:nestling-fall",
+            "feat:reanimator-dedication",
+            "feat:relentless-wings",
+            "feat:shield-block",
+            "feat:storm-born",
+            "feat:widen-spell",
+            "feature:alertness",
+            "feature:anathema-druid",
+            "feature:druidic-language",
+            "feature:druidic-order",
+            "feature:great-fortitude",
+            "feature:primal-spellcasting",
+            "feature:shield-block",
+            "feature:storm-order",
+            "feature:wild-empathy",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:tiefling",
+            "hp-percent:100",
+            "perception:rank:2",
+            "proficiency:expert",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:1",
+            "save:will:rank:2",
+            "self:ancestry:cambion",
+            "self:armored",
+            "self:caster",
+            "self:effect:scout",
+            "self:effect:scouting",
+            "self:heritage:tiefling",
+            "self:level:3",
+            "self:mode:living",
+            "self:size:2",
+            "self:size:medium",
+            "self:trait:evil",
+            "self:trait:fiend",
+            "self:trait:humanoid",
+            "self:trait:tiefling",
+            "self:type:character",
+            "skill:acr:rank:1",
+            "skill:arc:rank:1",
+            "skill:ath:rank:1",
+            "skill:cra:rank:1",
+            "skill:dec:rank:0",
+            "skill:dip:rank:0",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:1",
+            "skill:occ:rank:1",
+            "skill:prf:rank:0",
+            "skill:rank:2",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:0",
+            "skill:sur:rank:0",
+            "skill:thi:rank:0",
+            "speed:fly",
+            "speed:land"
+          ],
+          "dc": null,
+          "rollTwice": false,
+          "notes": [],
+          "dosAdjustments": {},
+          "skipDialog": false,
+          "createMessage": true,
+          "rollMode": "roll",
+          "token": null,
+          "domains": [],
+          "target": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "substitutions": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +4</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+        "modifierName": "Perception Check",
+        "modifiers": [
+          {
+            "label": "Wisdom",
+            "slug": "wis",
+            "modifier": 4,
+            "type": "ability",
+            "ability": "wis",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Expert",
+            "slug": "proficiency",
+            "modifier": 7,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Beemiw",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678584723951,
+    "name": "Beemiw",
+    "flavor": "<h4 class=\"action\">Skill Check: Arcana</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"int\">Intelligence +2</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Trained +5</span></div>",
+    "content": "20",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "03SvNXj3zpKgsxnP",
+          "domains": [
+            "all",
+            "skill-check",
+            "arcana",
+            "int-based",
+            "int-skill-check"
+          ],
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "ability:cha:score:10",
+            "ability:con:score:14",
+            "ability:dex:score:12",
+            "ability:int:score:14",
+            "ability:str:score:12",
+            "ability:wis:score:18",
+            "armor:base:studded-leather-armor",
+            "armor:category:light",
+            "armor:group:leather",
+            "armor:id:qHlR7VxJSUYgOpXu",
+            "armor:rune:potency:1",
+            "attack:advanced:rank:0",
+            "attack:martial:rank:0",
+            "attack:simple:rank:1",
+            "attack:unarmed:rank:1",
+            "class:druid",
+            "defense:heavy:rank:0",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:ancestral-paragon",
+            "feat:arcane-tattoos",
+            "feat:assurance-medicine",
+            "feat:dubious-knowledge",
+            "feat:fiend-wings",
+            "feat:fiendish-wings",
+            "feat:nestling-fall",
+            "feat:reanimator-dedication",
+            "feat:relentless-wings",
+            "feat:shield-block",
+            "feat:storm-born",
+            "feat:widen-spell",
+            "feature:alertness",
+            "feature:anathema-druid",
+            "feature:druidic-language",
+            "feature:druidic-order",
+            "feature:great-fortitude",
+            "feature:primal-spellcasting",
+            "feature:shield-block",
+            "feature:storm-order",
+            "feature:wild-empathy",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:tiefling",
+            "hp-percent:100",
+            "perception:rank:2",
+            "proficiency:trained",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:1",
+            "save:will:rank:2",
+            "self:ancestry:cambion",
+            "self:armor:strength-requirement-met",
+            "self:armored",
+            "self:caster",
+            "self:effect:scout",
+            "self:effect:scouting",
+            "self:heritage:tiefling",
+            "self:level:3",
+            "self:mode:living",
+            "self:size:2",
+            "self:size:medium",
+            "self:trait:evil",
+            "self:trait:fiend",
+            "self:trait:humanoid",
+            "self:trait:tiefling",
+            "self:type:character",
+            "skill:acr:rank:1",
+            "skill:arc:rank:1",
+            "skill:ath:rank:1",
+            "skill:cra:rank:1",
+            "skill:dec:rank:0",
+            "skill:dip:rank:0",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:1",
+            "skill:occ:rank:1",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:0",
+            "skill:sur:rank:0",
+            "skill:thi:rank:0",
+            "speed:fly",
+            "speed:land"
+          ],
+          "type": "skill-check",
+          "rollMode": "roll",
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [],
+          "dosAdjustments": {},
+          "traits": [],
+          "createMessage": true,
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Skill Check: Arcana</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"int\">Intelligence +2</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Trained +5</span></div>",
+        "modifierName": "Skill Check: Arcana",
+        "modifiers": [
+          {
+            "label": "Intelligence",
+            "slug": "int",
+            "modifier": 2,
+            "type": "ability",
+            "ability": "int",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Trained",
+            "slug": "proficiency",
+            "modifier": 5,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          },
+          {
+            "label": "Staff of Whithering (identify necromancy magic)",
+            "slug": "staff-of-whithering-identify-necromancy-magic",
+            "modifier": 2,
+            "type": "circumstance",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": false,
+            "ignored": true,
+            "custom": false,
+            "source": "Actor.03SvNXj3zpKgsxnP.Item.0QAwQ4CEIwyPIZIm",
+            "predicate": [
+              "action:identify-magic",
+              "necromancy"
+            ],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Beemiw",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678585166671,
+    "name": "Drakronos",
+    "flavor": "<h4 class=\"action\">Skill Check: Society</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"int\">Intelligence +1</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Untrained +0</span></div>",
+    "content": "20",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "thDArS7JBQT9Mp2k",
+          "domains": [
+            "all",
+            "skill-check",
+            "society",
+            "int-based",
+            "int-skill-check"
+          ],
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "ability:cha:score:12",
+            "ability:con:score:16",
+            "ability:dex:score:18",
+            "ability:int:score:12",
+            "ability:str:score:14",
+            "ability:wis:score:10",
+            "armor:base:breastplate",
+            "armor:category:medium",
+            "armor:group:plate",
+            "armor:id:1nMRnzQ2Lv2VYZGF",
+            "attack:advanced:rank:1",
+            "attack:martial:rank:2",
+            "attack:simple:rank:2",
+            "attack:unarmed:rank:2",
+            "class:fighter",
+            "defense:heavy:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:beastmaster-dedication",
+            "feat:elven-weapon-familiarity",
+            "feat:gorum-minor-boon",
+            "feat:intimidating-glare",
+            "feat:point-blank-shot",
+            "feat:ranger-dedication",
+            "feat:shield-block",
+            "feat:survey-wildlife",
+            "feat:train-animal",
+            "feature:attack-of-opportunity",
+            "feature:bravery",
+            "feature:shield-block",
+            "grants-hunt-prey",
+            "grants-hunt-prey:1",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:half-elf",
+            "hp-percent:47",
+            "hunted-prey",
+            "perception:rank:2",
+            "proficiency:untrained",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:2",
+            "self:ancestry:human",
+            "self:armored",
+            "self:condition:clumsy",
+            "self:condition:clumsy:1",
+            "self:condition:encumbered",
+            "self:effect:hustle",
+            "self:heritage:half-elf",
+            "self:level:3",
+            "self:mode:living",
+            "self:shield:equipped",
+            "self:size:2",
+            "self:size:medium",
+            "self:trait:elf",
+            "self:trait:half-elf",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "self:type:character",
+            "skill:acr:rank:2",
+            "skill:arc:rank:0",
+            "skill:ath:rank:1",
+            "skill:cra:rank:0",
+            "skill:dec:rank:0",
+            "skill:dip:rank:1",
+            "skill:itm:rank:1",
+            "skill:med:rank:0",
+            "skill:nat:rank:1",
+            "skill:occ:rank:0",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:1",
+            "skill:sur:rank:1",
+            "skill:thi:rank:0",
+            "speed:land"
+          ],
+          "type": "skill-check",
+          "rollMode": "roll",
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [],
+          "dosAdjustments": {},
+          "traits": [],
+          "createMessage": true,
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Skill Check: Society</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"int\">Intelligence +1</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Untrained +0</span></div>",
+        "modifierName": "Skill Check: Society",
+        "modifiers": [
+          {
+            "label": "Intelligence",
+            "slug": "int",
+            "modifier": 1,
+            "type": "ability",
+            "ability": "int",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Untrained",
+            "slug": "proficiency",
+            "modifier": 0,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678585442924,
+    "name": "Drakronos",
+    "flavor": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +0</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+    "content": "11",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "thDArS7JBQT9Mp2k",
+          "type": "perception-check",
+          "options": [
+            "ability:cha:score:12",
+            "ability:con:score:16",
+            "ability:dex:score:18",
+            "ability:int:score:12",
+            "ability:str:score:14",
+            "ability:wis:score:10",
+            "armor:base:breastplate",
+            "armor:category:medium",
+            "armor:group:plate",
+            "armor:id:1nMRnzQ2Lv2VYZGF",
+            "attack:advanced:rank:1",
+            "attack:martial:rank:2",
+            "attack:simple:rank:2",
+            "attack:unarmed:rank:2",
+            "class:fighter",
+            "defense:heavy:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:beastmaster-dedication",
+            "feat:elven-weapon-familiarity",
+            "feat:gorum-minor-boon",
+            "feat:intimidating-glare",
+            "feat:point-blank-shot",
+            "feat:ranger-dedication",
+            "feat:shield-block",
+            "feat:survey-wildlife",
+            "feat:train-animal",
+            "feature:attack-of-opportunity",
+            "feature:bravery",
+            "feature:shield-block",
+            "grants-hunt-prey",
+            "grants-hunt-prey:1",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:half-elf",
+            "hp-percent:47",
+            "hunted-prey",
+            "perception:rank:2",
+            "proficiency:expert",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:2",
+            "self:ancestry:human",
+            "self:armored",
+            "self:condition:clumsy",
+            "self:condition:clumsy:1",
+            "self:condition:encumbered",
+            "self:effect:hustle",
+            "self:heritage:half-elf",
+            "self:level:3",
+            "self:mode:living",
+            "self:shield:equipped",
+            "self:size:2",
+            "self:size:medium",
+            "self:trait:elf",
+            "self:trait:half-elf",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "self:type:character",
+            "skill:acr:rank:2",
+            "skill:arc:rank:0",
+            "skill:ath:rank:1",
+            "skill:cra:rank:0",
+            "skill:dec:rank:0",
+            "skill:dip:rank:1",
+            "skill:itm:rank:1",
+            "skill:med:rank:0",
+            "skill:nat:rank:1",
+            "skill:occ:rank:0",
+            "skill:prf:rank:0",
+            "skill:rank:2",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:1",
+            "skill:sur:rank:1",
+            "skill:thi:rank:0",
+            "speed:land"
+          ],
+          "dc": null,
+          "rollTwice": false,
+          "notes": [],
+          "dosAdjustments": {},
+          "skipDialog": false,
+          "createMessage": true,
+          "rollMode": "roll",
+          "token": null,
+          "domains": [],
+          "target": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "substitutions": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +0</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+        "modifierName": "Perception Check",
+        "modifiers": [
+          {
+            "label": "Wisdom",
+            "slug": "wis",
+            "modifier": 0,
+            "type": "ability",
+            "ability": "wis",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Expert",
+            "slug": "proficiency",
+            "modifier": 7,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          },
+          {
+            "label": "To Seek hunted prey",
+            "slug": "to-seek-hunted-prey",
+            "modifier": 2,
+            "type": "circumstance",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": false,
+            "ignored": true,
+            "custom": false,
+            "source": "Actor.thDArS7JBQT9Mp2k.Item.fxbtpa3gNvVP7y9n",
+            "predicate": [
+              "action:seek",
+              "hunted-prey"
+            ],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678585507115,
+    "name": "Mako",
+    "flavor": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +0</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+    "content": "24",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "6F6kxetBGIktwz6W",
+          "type": "perception-check",
+          "options": [
+            "ability:cha:score:12",
+            "ability:con:score:14",
+            "ability:dex:score:18",
+            "ability:int:score:14",
+            "ability:str:score:12",
+            "ability:wis:score:10",
+            "armor:base:studded-leather-armor",
+            "armor:category:light",
+            "armor:group:leather",
+            "armor:id:R4JRE4pBhF18qPUi",
+            "attack:advanced:rank:0",
+            "attack:martial:rank:0",
+            "attack:simple:rank:1",
+            "attack:unarmed:rank:1",
+            "class:rogue",
+            "defense:heavy:rank:0",
+            "defense:light:rank:1",
+            "defense:medium:rank:0",
+            "defense:unarmored:rank:1",
+            "feat:acrobat-dedication",
+            "feat:cat-fall",
+            "feat:experienced-smuggler",
+            "feat:general-training",
+            "feat:quick-draw",
+            "feat:skill-training",
+            "feat:streetwise",
+            "feat:toughness",
+            "feat:tumble-behind-rogue",
+            "feat:underwater-marauder",
+            "feat:witch-dedication",
+            "feature:deny-advantage",
+            "feature:eldritch-trickster",
+            "feature:ocean-patron",
+            "feature:patron",
+            "feature:rogues-racket",
+            "feature:sneak-attack",
+            "feature:surprise-attack",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:skilled-heritage",
+            "hp-percent:100",
+            "perception:rank:2",
+            "proficiency:expert",
+            "save:fortitude:rank:1",
+            "save:reflex:rank:2",
+            "save:will:rank:2",
+            "self:ancestry:human",
+            "self:armored",
+            "self:caster",
+            "self:effect:loaded-crossbow",
+            "self:has-familiar",
+            "self:heritage:skilled-heritage",
+            "self:level:3",
+            "self:mode:living",
+            "self:size:1",
+            "self:size:small",
+            "self:trait:amphibious",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "self:type:character",
+            "skill:acr:rank:2",
+            "skill:arc:rank:1",
+            "skill:ath:rank:1",
+            "skill:cra:rank:1",
+            "skill:dec:rank:1",
+            "skill:dip:rank:1",
+            "skill:itm:rank:1",
+            "skill:med:rank:1",
+            "skill:nat:rank:1",
+            "skill:occ:rank:1",
+            "skill:prf:rank:1",
+            "skill:rank:2",
+            "skill:rel:rank:0",
+            "skill:soc:rank:1",
+            "skill:ste:rank:2",
+            "skill:sur:rank:1",
+            "skill:thi:rank:2",
+            "speed:land"
+          ],
+          "dc": null,
+          "rollTwice": false,
+          "notes": [],
+          "dosAdjustments": {},
+          "skipDialog": false,
+          "createMessage": true,
+          "rollMode": "roll",
+          "token": null,
+          "domains": [],
+          "target": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "substitutions": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +0</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+        "modifierName": "Perception Check",
+        "modifiers": [
+          {
+            "label": "Wisdom",
+            "slug": "wis",
+            "modifier": 0,
+            "type": "ability",
+            "ability": "wis",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Expert",
+            "slug": "proficiency",
+            "modifier": 7,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Mako",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Mako",
+          "image": "characters/PCs/Mako/iconos_dnd_mako.png",
+          "type": "token",
+          "scale": 0.8,
+          "isSmall": true
+        },
+        "actorAvatar": {
+          "name": "Mako",
+          "image": "characters/PCs/Mako/iconos_dnd_mako.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678585518623,
+    "name": "Aketo",
+    "flavor": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom -1</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Trained +5</span></div>",
+    "content": "6",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "XT4XGKmPMtDwlVbT",
+          "type": "perception-check",
+          "options": [
+            "ability:cha:score:14",
+            "ability:con:score:18",
+            "ability:dex:score:12",
+            "ability:int:score:19",
+            "ability:str:score:8",
+            "ability:wis:score:8",
+            "armor:base:studded-leather-armor",
+            "armor:category:light",
+            "armor:group:leather",
+            "armor:id:tlah852zqgdp0ti9",
+            "attack:advanced:rank:0",
+            "attack:martial:rank:0",
+            "attack:simple:rank:1",
+            "attack:unarmed:rank:1",
+            "class:alchemist",
+            "crafting:entry:alchemist",
+            "crafting:entry:herbalist",
+            "defense:heavy:rank:0",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:alchemical-crafting",
+            "feat:alchemical-savant",
+            "feat:encouraging-words",
+            "feat:herbalist-dedication",
+            "feat:junk-tinker",
+            "feat:natural-medicine",
+            "feat:poison-resistance",
+            "feat:specialty-crafting-alchemy",
+            "feature:advanced-alchemy",
+            "feature:alchemy",
+            "feature:chirurgeon",
+            "feature:formula-book",
+            "feature:infused-reagents",
+            "feature:quick-alchemy",
+            "feature:research-field",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:irongut-goblin",
+            "hp-percent:100",
+            "perception:rank:1",
+            "proficiency:trained",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:1",
+            "self:ancestry:goblin",
+            "self:armored",
+            "self:effect:loaded-alchemical-crossbow-bolts",
+            "self:heritage:irongut-goblin",
+            "self:level:3",
+            "self:mode:living",
+            "self:size:1",
+            "self:size:small",
+            "self:trait:chaotic",
+            "self:trait:goblin",
+            "self:trait:good",
+            "self:trait:humanoid",
+            "self:type:character",
+            "skill:acr:rank:0",
+            "skill:arc:rank:1",
+            "skill:ath:rank:0",
+            "skill:cra:rank:2",
+            "skill:dec:rank:0",
+            "skill:dip:rank:1",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:2",
+            "skill:occ:rank:1",
+            "skill:prf:rank:0",
+            "skill:rank:1",
+            "skill:rel:rank:0",
+            "skill:soc:rank:1",
+            "skill:ste:rank:1",
+            "skill:sur:rank:1",
+            "skill:thi:rank:0",
+            "speed:land",
+            "undefined"
+          ],
+          "dc": null,
+          "rollTwice": false,
+          "notes": [],
+          "dosAdjustments": {},
+          "skipDialog": false,
+          "createMessage": true,
+          "rollMode": "roll",
+          "token": null,
+          "domains": [],
+          "target": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "substitutions": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom -1</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Trained +5</span></div>",
+        "modifierName": "Perception Check",
+        "modifiers": [
+          {
+            "label": "Wisdom",
+            "slug": "wis",
+            "modifier": -1,
+            "type": "ability",
+            "ability": "wis",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Trained",
+            "slug": "proficiency",
+            "modifier": 5,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Aketo",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Aketo",
+          "image": "characters/PCs/Goblin%20Alchemist%20with%20shadow.png",
+          "type": "token",
+          "scale": 0.8,
+          "isSmall": true
+        },
+        "actorAvatar": {
+          "name": "Aketo",
+          "image": "characters/PCs/Goblin%20Alchemist%20with%20shadow.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678585653450,
+    "name": "Drakronos",
+    "flavor": "",
+    "content": "18",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678586014114,
+    "name": "Aketo",
+    "flavor": "<h4 class=\"action\">Skill Check: Crafting</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"int\">Intelligence +4</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+    "content": "27",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "XT4XGKmPMtDwlVbT",
+          "domains": [
+            "all",
+            "skill-check",
+            "crafting",
+            "int-based",
+            "int-skill-check"
+          ],
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "ability:cha:score:14",
+            "ability:con:score:18",
+            "ability:dex:score:12",
+            "ability:int:score:19",
+            "ability:str:score:8",
+            "ability:wis:score:8",
+            "armor:base:studded-leather-armor",
+            "armor:category:light",
+            "armor:group:leather",
+            "armor:id:tlah852zqgdp0ti9",
+            "attack:advanced:rank:0",
+            "attack:martial:rank:0",
+            "attack:simple:rank:1",
+            "attack:unarmed:rank:1",
+            "class:alchemist",
+            "crafting:entry:alchemist",
+            "crafting:entry:herbalist",
+            "defense:heavy:rank:0",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:alchemical-crafting",
+            "feat:alchemical-savant",
+            "feat:encouraging-words",
+            "feat:herbalist-dedication",
+            "feat:junk-tinker",
+            "feat:natural-medicine",
+            "feat:poison-resistance",
+            "feat:specialty-crafting-alchemy",
+            "feature:advanced-alchemy",
+            "feature:alchemy",
+            "feature:chirurgeon",
+            "feature:formula-book",
+            "feature:infused-reagents",
+            "feature:quick-alchemy",
+            "feature:research-field",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:irongut-goblin",
+            "hp-percent:100",
+            "perception:rank:1",
+            "proficiency:expert",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:1",
+            "self:ancestry:goblin",
+            "self:armored",
+            "self:effect:loaded-alchemical-crossbow-bolts",
+            "self:heritage:irongut-goblin",
+            "self:level:3",
+            "self:mode:living",
+            "self:size:1",
+            "self:size:small",
+            "self:trait:chaotic",
+            "self:trait:goblin",
+            "self:trait:good",
+            "self:trait:humanoid",
+            "self:type:character",
+            "skill:acr:rank:0",
+            "skill:arc:rank:1",
+            "skill:ath:rank:0",
+            "skill:cra:rank:2",
+            "skill:dec:rank:0",
+            "skill:dip:rank:1",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:2",
+            "skill:occ:rank:1",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:1",
+            "skill:ste:rank:1",
+            "skill:sur:rank:1",
+            "skill:thi:rank:0",
+            "speed:land",
+            "undefined"
+          ],
+          "type": "skill-check",
+          "rollMode": "roll",
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [],
+          "dosAdjustments": {},
+          "traits": [],
+          "createMessage": true,
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Skill Check: Crafting</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"int\">Intelligence +4</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+        "modifierName": "Skill Check: Crafting",
+        "modifiers": [
+          {
+            "label": "Intelligence",
+            "slug": "int",
+            "modifier": 4,
+            "type": "ability",
+            "ability": "int",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Expert",
+            "slug": "proficiency",
+            "modifier": 7,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          },
+          {
+            "label": "Alchemical Savant (identify alchemical items with formula)",
+            "slug": "alchemical-savant-identify-alchemical-items-with-formula",
+            "modifier": 2,
+            "type": "circumstance",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": false,
+            "ignored": true,
+            "custom": false,
+            "source": "Actor.XT4XGKmPMtDwlVbT.Item.bbhRcFLtIAcWPh3P",
+            "predicate": [
+              "action:identify-alchemy",
+              "have-formula"
+            ],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          },
+          {
+            "label": "Specialty Crafting (Alchemy)",
+            "slug": "specialty-crafting-alchemy",
+            "modifier": 1,
+            "type": "circumstance",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": false,
+            "ignored": true,
+            "custom": false,
+            "source": "Actor.XT4XGKmPMtDwlVbT.Item.a647Loo6TxDpYA4N",
+            "predicate": [
+              "action:craft",
+              "alchemy"
+            ],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Aketo",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Aketo",
+          "image": "characters/PCs/Goblin%20Alchemist%20with%20shadow.png",
+          "type": "token",
+          "scale": 0.8,
+          "isSmall": true
+        },
+        "actorAvatar": {
+          "name": "Aketo",
+          "image": "characters/PCs/Goblin%20Alchemist%20with%20shadow.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678586159041,
+    "name": "Mako",
+    "flavor": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +0</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+    "content": "8",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "6F6kxetBGIktwz6W",
+          "type": "perception-check",
+          "options": [
+            "ability:cha:score:12",
+            "ability:con:score:14",
+            "ability:dex:score:18",
+            "ability:int:score:14",
+            "ability:str:score:12",
+            "ability:wis:score:10",
+            "armor:base:studded-leather-armor",
+            "armor:category:light",
+            "armor:group:leather",
+            "armor:id:R4JRE4pBhF18qPUi",
+            "attack:advanced:rank:0",
+            "attack:martial:rank:0",
+            "attack:simple:rank:1",
+            "attack:unarmed:rank:1",
+            "class:rogue",
+            "defense:heavy:rank:0",
+            "defense:light:rank:1",
+            "defense:medium:rank:0",
+            "defense:unarmored:rank:1",
+            "feat:acrobat-dedication",
+            "feat:cat-fall",
+            "feat:experienced-smuggler",
+            "feat:general-training",
+            "feat:quick-draw",
+            "feat:skill-training",
+            "feat:streetwise",
+            "feat:toughness",
+            "feat:tumble-behind-rogue",
+            "feat:underwater-marauder",
+            "feat:witch-dedication",
+            "feature:deny-advantage",
+            "feature:eldritch-trickster",
+            "feature:ocean-patron",
+            "feature:patron",
+            "feature:rogues-racket",
+            "feature:sneak-attack",
+            "feature:surprise-attack",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:skilled-heritage",
+            "hp-percent:100",
+            "perception:rank:2",
+            "proficiency:expert",
+            "save:fortitude:rank:1",
+            "save:reflex:rank:2",
+            "save:will:rank:2",
+            "self:ancestry:human",
+            "self:armored",
+            "self:caster",
+            "self:effect:loaded-crossbow",
+            "self:has-familiar",
+            "self:heritage:skilled-heritage",
+            "self:level:3",
+            "self:mode:living",
+            "self:size:1",
+            "self:size:small",
+            "self:trait:amphibious",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "self:type:character",
+            "skill:acr:rank:2",
+            "skill:arc:rank:1",
+            "skill:ath:rank:1",
+            "skill:cra:rank:1",
+            "skill:dec:rank:1",
+            "skill:dip:rank:1",
+            "skill:itm:rank:1",
+            "skill:med:rank:1",
+            "skill:nat:rank:1",
+            "skill:occ:rank:1",
+            "skill:prf:rank:1",
+            "skill:rank:2",
+            "skill:rel:rank:0",
+            "skill:soc:rank:1",
+            "skill:ste:rank:2",
+            "skill:sur:rank:1",
+            "skill:thi:rank:2",
+            "speed:land"
+          ],
+          "dc": null,
+          "rollTwice": false,
+          "notes": [],
+          "dosAdjustments": {},
+          "skipDialog": false,
+          "createMessage": true,
+          "rollMode": "roll",
+          "token": null,
+          "domains": [],
+          "target": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "substitutions": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +0</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+        "modifierName": "Perception Check",
+        "modifiers": [
+          {
+            "label": "Wisdom",
+            "slug": "wis",
+            "modifier": 0,
+            "type": "ability",
+            "ability": "wis",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Expert",
+            "slug": "proficiency",
+            "modifier": 7,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Mako",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Mako",
+          "image": "characters/PCs/Mako/iconos_dnd_mako.png",
+          "type": "token",
+          "scale": 0.8,
+          "isSmall": true
+        },
+        "actorAvatar": {
+          "name": "Mako",
+          "image": "characters/PCs/Mako/iconos_dnd_mako.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678586616629,
+    "name": "Wolf Companion",
+    "flavor": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +1</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Trained +4</span></div>",
+    "content": "24",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "o6dZlJIyQGv8hpXa",
+          "type": "perception-check",
+          "options": [
+            "ability:cha:score:10",
+            "ability:con:score:14",
+            "ability:dex:score:16",
+            "ability:int:score:2",
+            "ability:str:score:14",
+            "ability:wis:score:12",
+            "attack:advanced:rank:0",
+            "attack:martial:rank:0",
+            "attack:simple:rank:0",
+            "attack:unarmed:rank:1",
+            "class:animal-companion",
+            "defense:heavy:rank:0",
+            "defense:light:rank:0",
+            "defense:medium:rank:0",
+            "defense:unarmored:rank:1",
+            "hands-free:2",
+            "hands-free:but-really:2",
+            "hp-percent:83",
+            "perception:rank:1",
+            "proficiency:trained",
+            "save:fortitude:rank:1",
+            "save:reflex:rank:1",
+            "save:will:rank:1",
+            "self:ancestry:wolf",
+            "self:effect:hunters-edge-flurry",
+            "self:level:2",
+            "self:mode:living",
+            "self:size:1",
+            "self:size:small",
+            "self:trait:animal",
+            "self:trait:minion",
+            "self:type:character",
+            "skill:acr:rank:1",
+            "skill:arc:rank:0",
+            "skill:ath:rank:1",
+            "skill:cra:rank:0",
+            "skill:dec:rank:0",
+            "skill:dip:rank:0",
+            "skill:itm:rank:0",
+            "skill:med:rank:0",
+            "skill:nat:rank:0",
+            "skill:occ:rank:0",
+            "skill:prf:rank:0",
+            "skill:rank:1",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:0",
+            "skill:sur:rank:1",
+            "skill:thi:rank:0",
+            "speed:land"
+          ],
+          "dc": null,
+          "rollTwice": false,
+          "notes": [],
+          "dosAdjustments": {},
+          "skipDialog": false,
+          "createMessage": true,
+          "rollMode": "gmroll",
+          "token": null,
+          "domains": [],
+          "target": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "substitutions": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +1</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Trained +4</span></div>",
+        "modifierName": "Perception Check",
+        "modifiers": [
+          {
+            "label": "Wisdom",
+            "slug": "wis",
+            "modifier": 1,
+            "type": "ability",
+            "ability": "wis",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Trained",
+            "slug": "proficiency",
+            "modifier": 4,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          },
+          {
+            "label": "To Seek hunted prey",
+            "slug": "to-seek-hunted-prey",
+            "modifier": 2,
+            "type": "circumstance",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": false,
+            "ignored": true,
+            "custom": false,
+            "source": "Actor.o6dZlJIyQGv8hpXa.Item.Pz8yNDIvC0YApNJz",
+            "predicate": [
+              "action:seek",
+              "hunted-prey"
+            ],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Wolf Companion",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Wolf Companion",
+          "image": "pdftofoundry/bestiary1/wolf.token.webp",
+          "type": "token",
+          "scale": 0.8,
+          "isSmall": true
+        },
+        "actorAvatar": {
+          "name": "Wolf Companion",
+          "image": "pdftofoundry/bestiary1/wolf.actor.webp",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678587207384,
+    "name": "Beemiw",
+    "flavor": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +4</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+    "content": "31",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "03SvNXj3zpKgsxnP",
+          "type": "perception-check",
+          "options": [
+            "ability:cha:score:10",
+            "ability:con:score:14",
+            "ability:dex:score:12",
+            "ability:int:score:14",
+            "ability:str:score:12",
+            "ability:wis:score:18",
+            "armor:base:studded-leather-armor",
+            "armor:category:light",
+            "armor:group:leather",
+            "armor:id:qHlR7VxJSUYgOpXu",
+            "armor:rune:potency:1",
+            "attack:advanced:rank:0",
+            "attack:martial:rank:0",
+            "attack:simple:rank:1",
+            "attack:unarmed:rank:1",
+            "class:druid",
+            "defense:heavy:rank:0",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:ancestral-paragon",
+            "feat:arcane-tattoos",
+            "feat:assurance-medicine",
+            "feat:dubious-knowledge",
+            "feat:fiend-wings",
+            "feat:fiendish-wings",
+            "feat:nestling-fall",
+            "feat:reanimator-dedication",
+            "feat:relentless-wings",
+            "feat:shield-block",
+            "feat:storm-born",
+            "feat:widen-spell",
+            "feature:alertness",
+            "feature:anathema-druid",
+            "feature:druidic-language",
+            "feature:druidic-order",
+            "feature:great-fortitude",
+            "feature:primal-spellcasting",
+            "feature:shield-block",
+            "feature:storm-order",
+            "feature:wild-empathy",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:tiefling",
+            "hp-percent:100",
+            "perception:rank:2",
+            "proficiency:expert",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:1",
+            "save:will:rank:2",
+            "self:ancestry:cambion",
+            "self:armored",
+            "self:caster",
+            "self:effect:scout",
+            "self:effect:scouting",
+            "self:heritage:tiefling",
+            "self:level:3",
+            "self:mode:living",
+            "self:size:2",
+            "self:size:medium",
+            "self:trait:evil",
+            "self:trait:fiend",
+            "self:trait:humanoid",
+            "self:trait:tiefling",
+            "self:type:character",
+            "skill:acr:rank:1",
+            "skill:arc:rank:1",
+            "skill:ath:rank:1",
+            "skill:cra:rank:1",
+            "skill:dec:rank:0",
+            "skill:dip:rank:0",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:1",
+            "skill:occ:rank:1",
+            "skill:prf:rank:0",
+            "skill:rank:2",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:0",
+            "skill:sur:rank:0",
+            "skill:thi:rank:0",
+            "speed:fly",
+            "speed:land"
+          ],
+          "dc": null,
+          "rollTwice": false,
+          "notes": [],
+          "dosAdjustments": {},
+          "skipDialog": false,
+          "createMessage": true,
+          "rollMode": "roll",
+          "token": null,
+          "domains": [],
+          "target": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "substitutions": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +4</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+        "modifierName": "Perception Check",
+        "modifiers": [
+          {
+            "label": "Wisdom",
+            "slug": "wis",
+            "modifier": 4,
+            "type": "ability",
+            "ability": "wis",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Expert",
+            "slug": "proficiency",
+            "modifier": 7,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Beemiw",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678587496118,
+    "name": "Drakronos",
+    "flavor": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +0</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+    "content": "23",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "thDArS7JBQT9Mp2k",
+          "type": "perception-check",
+          "options": [
+            "ability:cha:score:12",
+            "ability:con:score:16",
+            "ability:dex:score:18",
+            "ability:int:score:12",
+            "ability:str:score:14",
+            "ability:wis:score:10",
+            "armor:base:breastplate",
+            "armor:category:medium",
+            "armor:group:plate",
+            "armor:id:1nMRnzQ2Lv2VYZGF",
+            "attack:advanced:rank:1",
+            "attack:martial:rank:2",
+            "attack:simple:rank:2",
+            "attack:unarmed:rank:2",
+            "class:fighter",
+            "defense:heavy:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:beastmaster-dedication",
+            "feat:elven-weapon-familiarity",
+            "feat:gorum-minor-boon",
+            "feat:intimidating-glare",
+            "feat:point-blank-shot",
+            "feat:ranger-dedication",
+            "feat:shield-block",
+            "feat:survey-wildlife",
+            "feat:train-animal",
+            "feature:attack-of-opportunity",
+            "feature:bravery",
+            "feature:shield-block",
+            "grants-hunt-prey",
+            "grants-hunt-prey:1",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:half-elf",
+            "hp-percent:47",
+            "hunted-prey",
+            "perception:rank:2",
+            "proficiency:expert",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:2",
+            "self:ancestry:human",
+            "self:armored",
+            "self:condition:clumsy",
+            "self:condition:clumsy:1",
+            "self:condition:encumbered",
+            "self:effect:hustle",
+            "self:heritage:half-elf",
+            "self:level:3",
+            "self:mode:living",
+            "self:shield:equipped",
+            "self:size:2",
+            "self:size:medium",
+            "self:trait:elf",
+            "self:trait:half-elf",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "self:type:character",
+            "skill:acr:rank:2",
+            "skill:arc:rank:0",
+            "skill:ath:rank:1",
+            "skill:cra:rank:0",
+            "skill:dec:rank:0",
+            "skill:dip:rank:1",
+            "skill:itm:rank:1",
+            "skill:med:rank:0",
+            "skill:nat:rank:1",
+            "skill:occ:rank:0",
+            "skill:prf:rank:0",
+            "skill:rank:2",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:1",
+            "skill:sur:rank:1",
+            "skill:thi:rank:0",
+            "speed:land"
+          ],
+          "dc": null,
+          "rollTwice": false,
+          "notes": [],
+          "dosAdjustments": {},
+          "skipDialog": false,
+          "createMessage": true,
+          "rollMode": "roll",
+          "token": null,
+          "domains": [],
+          "target": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "substitutions": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +0</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+        "modifierName": "Perception Check",
+        "modifiers": [
+          {
+            "label": "Wisdom",
+            "slug": "wis",
+            "modifier": 0,
+            "type": "ability",
+            "ability": "wis",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Expert",
+            "slug": "proficiency",
+            "modifier": 7,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          },
+          {
+            "label": "To Seek hunted prey",
+            "slug": "to-seek-hunted-prey",
+            "modifier": 2,
+            "type": "circumstance",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": false,
+            "ignored": true,
+            "custom": false,
+            "source": "Actor.thDArS7JBQT9Mp2k.Item.fxbtpa3gNvVP7y9n",
+            "predicate": [
+              "action:seek",
+              "hunted-prey"
+            ],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678587654289,
+    "name": "Drakronos",
+    "flavor": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +0</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+    "content": "14",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "thDArS7JBQT9Mp2k",
+          "type": "perception-check",
+          "options": [
+            "ability:cha:score:12",
+            "ability:con:score:16",
+            "ability:dex:score:18",
+            "ability:int:score:12",
+            "ability:str:score:14",
+            "ability:wis:score:10",
+            "armor:base:breastplate",
+            "armor:category:medium",
+            "armor:group:plate",
+            "armor:id:1nMRnzQ2Lv2VYZGF",
+            "attack:advanced:rank:1",
+            "attack:martial:rank:2",
+            "attack:simple:rank:2",
+            "attack:unarmed:rank:2",
+            "class:fighter",
+            "defense:heavy:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:beastmaster-dedication",
+            "feat:elven-weapon-familiarity",
+            "feat:gorum-minor-boon",
+            "feat:intimidating-glare",
+            "feat:point-blank-shot",
+            "feat:ranger-dedication",
+            "feat:shield-block",
+            "feat:survey-wildlife",
+            "feat:train-animal",
+            "feature:attack-of-opportunity",
+            "feature:bravery",
+            "feature:shield-block",
+            "grants-hunt-prey",
+            "grants-hunt-prey:1",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:half-elf",
+            "hp-percent:47",
+            "hunted-prey",
+            "perception:rank:2",
+            "proficiency:expert",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:2",
+            "self:ancestry:human",
+            "self:armored",
+            "self:condition:clumsy",
+            "self:condition:clumsy:1",
+            "self:condition:encumbered",
+            "self:effect:hustle",
+            "self:heritage:half-elf",
+            "self:level:3",
+            "self:mode:living",
+            "self:shield:equipped",
+            "self:size:2",
+            "self:size:medium",
+            "self:trait:elf",
+            "self:trait:half-elf",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "self:type:character",
+            "skill:acr:rank:2",
+            "skill:arc:rank:0",
+            "skill:ath:rank:1",
+            "skill:cra:rank:0",
+            "skill:dec:rank:0",
+            "skill:dip:rank:1",
+            "skill:itm:rank:1",
+            "skill:med:rank:0",
+            "skill:nat:rank:1",
+            "skill:occ:rank:0",
+            "skill:prf:rank:0",
+            "skill:rank:2",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:1",
+            "skill:sur:rank:1",
+            "skill:thi:rank:0",
+            "speed:land"
+          ],
+          "dc": null,
+          "rollTwice": false,
+          "notes": [],
+          "dosAdjustments": {},
+          "skipDialog": false,
+          "createMessage": true,
+          "rollMode": "roll",
+          "token": null,
+          "domains": [],
+          "target": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "substitutions": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +0</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+        "modifierName": "Perception Check",
+        "modifiers": [
+          {
+            "label": "Wisdom",
+            "slug": "wis",
+            "modifier": 0,
+            "type": "ability",
+            "ability": "wis",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Expert",
+            "slug": "proficiency",
+            "modifier": 7,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          },
+          {
+            "label": "To Seek hunted prey",
+            "slug": "to-seek-hunted-prey",
+            "modifier": 2,
+            "type": "circumstance",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": false,
+            "ignored": true,
+            "custom": false,
+            "source": "Actor.thDArS7JBQT9Mp2k.Item.fxbtpa3gNvVP7y9n",
+            "predicate": [
+              "action:seek",
+              "hunted-prey"
+            ],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678588003220,
+    "name": "Beemiw",
+    "flavor": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +4</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+    "content": "15",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "03SvNXj3zpKgsxnP",
+          "type": "perception-check",
+          "options": [
+            "ability:cha:score:10",
+            "ability:con:score:14",
+            "ability:dex:score:12",
+            "ability:int:score:14",
+            "ability:str:score:12",
+            "ability:wis:score:18",
+            "armor:base:studded-leather-armor",
+            "armor:category:light",
+            "armor:group:leather",
+            "armor:id:qHlR7VxJSUYgOpXu",
+            "armor:rune:potency:1",
+            "attack:advanced:rank:0",
+            "attack:martial:rank:0",
+            "attack:simple:rank:1",
+            "attack:unarmed:rank:1",
+            "class:druid",
+            "defense:heavy:rank:0",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:ancestral-paragon",
+            "feat:arcane-tattoos",
+            "feat:assurance-medicine",
+            "feat:dubious-knowledge",
+            "feat:fiend-wings",
+            "feat:fiendish-wings",
+            "feat:nestling-fall",
+            "feat:reanimator-dedication",
+            "feat:relentless-wings",
+            "feat:shield-block",
+            "feat:storm-born",
+            "feat:widen-spell",
+            "feature:alertness",
+            "feature:anathema-druid",
+            "feature:druidic-language",
+            "feature:druidic-order",
+            "feature:great-fortitude",
+            "feature:primal-spellcasting",
+            "feature:shield-block",
+            "feature:storm-order",
+            "feature:wild-empathy",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:tiefling",
+            "hp-percent:100",
+            "perception:rank:2",
+            "proficiency:expert",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:1",
+            "save:will:rank:2",
+            "self:ancestry:cambion",
+            "self:armored",
+            "self:caster",
+            "self:effect:scout",
+            "self:effect:scouting",
+            "self:heritage:tiefling",
+            "self:level:3",
+            "self:mode:living",
+            "self:size:2",
+            "self:size:medium",
+            "self:trait:evil",
+            "self:trait:fiend",
+            "self:trait:humanoid",
+            "self:trait:tiefling",
+            "self:type:character",
+            "skill:acr:rank:1",
+            "skill:arc:rank:1",
+            "skill:ath:rank:1",
+            "skill:cra:rank:1",
+            "skill:dec:rank:0",
+            "skill:dip:rank:0",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:1",
+            "skill:occ:rank:1",
+            "skill:prf:rank:0",
+            "skill:rank:2",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:0",
+            "skill:sur:rank:0",
+            "skill:thi:rank:0",
+            "speed:fly",
+            "speed:land"
+          ],
+          "dc": null,
+          "rollTwice": false,
+          "notes": [],
+          "dosAdjustments": {},
+          "skipDialog": false,
+          "createMessage": true,
+          "rollMode": "roll",
+          "token": null,
+          "domains": [],
+          "target": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "substitutions": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +4</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+        "modifierName": "Perception Check",
+        "modifiers": [
+          {
+            "label": "Wisdom",
+            "slug": "wis",
+            "modifier": 4,
+            "type": "ability",
+            "ability": "wis",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Expert",
+            "slug": "proficiency",
+            "modifier": 7,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Beemiw",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678588185945,
+    "name": "Beemiw",
+    "flavor": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +4</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+    "content": "22",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "03SvNXj3zpKgsxnP",
+          "type": "perception-check",
+          "options": [
+            "ability:cha:score:10",
+            "ability:con:score:14",
+            "ability:dex:score:12",
+            "ability:int:score:14",
+            "ability:str:score:12",
+            "ability:wis:score:18",
+            "armor:base:studded-leather-armor",
+            "armor:category:light",
+            "armor:group:leather",
+            "armor:id:qHlR7VxJSUYgOpXu",
+            "armor:rune:potency:1",
+            "attack:advanced:rank:0",
+            "attack:martial:rank:0",
+            "attack:simple:rank:1",
+            "attack:unarmed:rank:1",
+            "class:druid",
+            "defense:heavy:rank:0",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:ancestral-paragon",
+            "feat:arcane-tattoos",
+            "feat:assurance-medicine",
+            "feat:dubious-knowledge",
+            "feat:fiend-wings",
+            "feat:fiendish-wings",
+            "feat:nestling-fall",
+            "feat:reanimator-dedication",
+            "feat:relentless-wings",
+            "feat:shield-block",
+            "feat:storm-born",
+            "feat:widen-spell",
+            "feature:alertness",
+            "feature:anathema-druid",
+            "feature:druidic-language",
+            "feature:druidic-order",
+            "feature:great-fortitude",
+            "feature:primal-spellcasting",
+            "feature:shield-block",
+            "feature:storm-order",
+            "feature:wild-empathy",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:tiefling",
+            "hp-percent:100",
+            "perception:rank:2",
+            "proficiency:expert",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:1",
+            "save:will:rank:2",
+            "self:ancestry:cambion",
+            "self:armored",
+            "self:caster",
+            "self:effect:scout",
+            "self:effect:scouting",
+            "self:heritage:tiefling",
+            "self:level:3",
+            "self:mode:living",
+            "self:size:2",
+            "self:size:medium",
+            "self:trait:evil",
+            "self:trait:fiend",
+            "self:trait:humanoid",
+            "self:trait:tiefling",
+            "self:type:character",
+            "skill:acr:rank:1",
+            "skill:arc:rank:1",
+            "skill:ath:rank:1",
+            "skill:cra:rank:1",
+            "skill:dec:rank:0",
+            "skill:dip:rank:0",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:1",
+            "skill:occ:rank:1",
+            "skill:prf:rank:0",
+            "skill:rank:2",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:0",
+            "skill:sur:rank:0",
+            "skill:thi:rank:0",
+            "speed:fly",
+            "speed:land"
+          ],
+          "dc": null,
+          "rollTwice": false,
+          "notes": [],
+          "dosAdjustments": {},
+          "skipDialog": false,
+          "createMessage": true,
+          "rollMode": "roll",
+          "token": null,
+          "domains": [],
+          "target": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "substitutions": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Perception Check</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +4</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+        "modifierName": "Perception Check",
+        "modifiers": [
+          {
+            "label": "Wisdom",
+            "slug": "wis",
+            "modifier": 4,
+            "type": "ability",
+            "ability": "wis",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Expert",
+            "slug": "proficiency",
+            "modifier": 7,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Beemiw",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Beemiw",
+          "image": "characters/PCs/Beemiw/Token_Beemiw.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678588368691,
+    "name": "Drakronos",
+    "flavor": "<h4 class=\"action\">Skill Check: Survival</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +0</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Trained +5</span></div>",
+    "content": "23",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "thDArS7JBQT9Mp2k",
+          "domains": [
+            "all",
+            "skill-check",
+            "survival",
+            "wis-based",
+            "wis-skill-check"
+          ],
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "ability:cha:score:12",
+            "ability:con:score:16",
+            "ability:dex:score:18",
+            "ability:int:score:12",
+            "ability:str:score:14",
+            "ability:wis:score:10",
+            "armor:base:breastplate",
+            "armor:category:medium",
+            "armor:group:plate",
+            "armor:id:1nMRnzQ2Lv2VYZGF",
+            "attack:advanced:rank:1",
+            "attack:martial:rank:2",
+            "attack:simple:rank:2",
+            "attack:unarmed:rank:2",
+            "class:fighter",
+            "defense:heavy:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:beastmaster-dedication",
+            "feat:elven-weapon-familiarity",
+            "feat:gorum-minor-boon",
+            "feat:intimidating-glare",
+            "feat:point-blank-shot",
+            "feat:ranger-dedication",
+            "feat:shield-block",
+            "feat:survey-wildlife",
+            "feat:train-animal",
+            "feature:attack-of-opportunity",
+            "feature:bravery",
+            "feature:shield-block",
+            "grants-hunt-prey",
+            "grants-hunt-prey:1",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:half-elf",
+            "hp-percent:47",
+            "hunted-prey",
+            "perception:rank:2",
+            "proficiency:trained",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:2",
+            "self:ancestry:human",
+            "self:armored",
+            "self:condition:clumsy",
+            "self:condition:clumsy:1",
+            "self:condition:encumbered",
+            "self:effect:hustle",
+            "self:heritage:half-elf",
+            "self:level:3",
+            "self:mode:living",
+            "self:shield:equipped",
+            "self:size:2",
+            "self:size:medium",
+            "self:trait:elf",
+            "self:trait:half-elf",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "self:type:character",
+            "skill:acr:rank:2",
+            "skill:arc:rank:0",
+            "skill:ath:rank:1",
+            "skill:cra:rank:0",
+            "skill:dec:rank:0",
+            "skill:dip:rank:1",
+            "skill:itm:rank:1",
+            "skill:med:rank:0",
+            "skill:nat:rank:1",
+            "skill:occ:rank:0",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:1",
+            "skill:sur:rank:1",
+            "skill:thi:rank:0",
+            "speed:land"
+          ],
+          "type": "skill-check",
+          "rollMode": "roll",
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [],
+          "dosAdjustments": {},
+          "traits": [],
+          "createMessage": true,
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Skill Check: Survival</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"wis\">Wisdom +0</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Trained +5</span></div>",
+        "modifierName": "Skill Check: Survival",
+        "modifiers": [
+          {
+            "label": "Wisdom",
+            "slug": "wis",
+            "modifier": 0,
+            "type": "ability",
+            "ability": "wis",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Trained",
+            "slug": "proficiency",
+            "modifier": 5,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          },
+          {
+            "label": "To Track hunted prey",
+            "slug": "to-track-hunted-prey",
+            "modifier": 2,
+            "type": "circumstance",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": false,
+            "ignored": true,
+            "custom": false,
+            "source": "Actor.thDArS7JBQT9Mp2k.Item.fxbtpa3gNvVP7y9n",
+            "predicate": [
+              "action:track",
+              "hunted-prey"
+            ],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678588524073,
+    "name": "Benesek Troowlard",
+    "flavor": "Wisdom Check",
+    "content": "10",
+    "roll": null,
+    "flags": {
+      "pf2e": {
+        "context": {
+          "type": ""
+        },
+        "origin": null
+      },
+      "core": {},
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Benesek Troowlard",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Benesek Troowlard",
+          "image": "characters/NPCs/Benesek%20Troowlard/0724f931a84c471784291b5a2a5a9323.webp",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Benesek Troowlard",
+          "image": "characters/NPCs/Benesek%20Troowlard/0724f931a84c471784291b5a2a5a9323.webp",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678588578395,
+    "name": "Aketo",
+    "flavor": "<h4 class=\"action\">Fortitude Saving Throw</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"con\">Constitution +4</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+    "content": "29",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "XT4XGKmPMtDwlVbT",
+          "domains": [
+            "fortitude",
+            "con-based",
+            "saving-throw",
+            "all"
+          ],
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "ability:cha:score:14",
+            "ability:con:score:18",
+            "ability:dex:score:12",
+            "ability:int:score:19",
+            "ability:str:score:8",
+            "ability:wis:score:8",
+            "armor:base:studded-leather-armor",
+            "armor:category:light",
+            "armor:group:leather",
+            "armor:id:tlah852zqgdp0ti9",
+            "attack:advanced:rank:0",
+            "attack:martial:rank:0",
+            "attack:simple:rank:1",
+            "attack:unarmed:rank:1",
+            "class:alchemist",
+            "crafting:entry:alchemist",
+            "crafting:entry:herbalist",
+            "defense:heavy:rank:0",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:alchemical-crafting",
+            "feat:alchemical-savant",
+            "feat:encouraging-words",
+            "feat:herbalist-dedication",
+            "feat:junk-tinker",
+            "feat:natural-medicine",
+            "feat:poison-resistance",
+            "feat:specialty-crafting-alchemy",
+            "feature:advanced-alchemy",
+            "feature:alchemy",
+            "feature:chirurgeon",
+            "feature:formula-book",
+            "feature:infused-reagents",
+            "feature:quick-alchemy",
+            "feature:research-field",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:irongut-goblin",
+            "hp-percent:100",
+            "perception:rank:1",
+            "proficiency:expert",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:1",
+            "self:ancestry:goblin",
+            "self:armored",
+            "self:effect:loaded-alchemical-crossbow-bolts",
+            "self:heritage:irongut-goblin",
+            "self:level:3",
+            "self:mode:living",
+            "self:size:1",
+            "self:size:small",
+            "self:trait:chaotic",
+            "self:trait:goblin",
+            "self:trait:good",
+            "self:trait:humanoid",
+            "self:type:character",
+            "skill:acr:rank:0",
+            "skill:arc:rank:1",
+            "skill:ath:rank:0",
+            "skill:cra:rank:2",
+            "skill:dec:rank:0",
+            "skill:dip:rank:1",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:2",
+            "skill:occ:rank:1",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:1",
+            "skill:ste:rank:1",
+            "skill:sur:rank:1",
+            "skill:thi:rank:0",
+            "speed:land",
+            "undefined"
+          ],
+          "type": "saving-throw",
+          "rollMode": "roll",
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [],
+          "dosAdjustments": {},
+          "traits": [],
+          "createMessage": true,
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Fortitude Saving Throw</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"con\">Constitution +4</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+        "modifierName": "Fortitude Saving Throw",
+        "modifiers": [
+          {
+            "label": "Constitution",
+            "slug": "con",
+            "modifier": 4,
+            "type": "ability",
+            "ability": "con",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Expert",
+            "slug": "proficiency",
+            "modifier": 7,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          },
+          {
+            "label": "Irongut Goblin (vs. afflictions & sickened)",
+            "slug": "irongut-goblin-vs-afflictions-sickened",
+            "modifier": 2,
+            "type": "circumstance",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": false,
+            "ignored": true,
+            "custom": false,
+            "source": "Actor.XT4XGKmPMtDwlVbT.Item.6eETAjmeJFnTCxIZ",
+            "predicate": [
+              "ingested",
+              {
+                "or": [
+                  "affliction",
+                  "sickened"
+                ]
+              }
+            ],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          },
+          {
+            "label": "Poison Resistance (vs. poisons)",
+            "slug": "poison-resistance-vs-poisons",
+            "modifier": 1,
+            "type": "status",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": false,
+            "ignored": true,
+            "custom": false,
+            "source": "Actor.XT4XGKmPMtDwlVbT.Item.GP9Wj27TxflNzhGl",
+            "predicate": [
+              "poison"
+            ],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Aketo",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Aketo",
+          "image": "characters/PCs/Goblin%20Alchemist%20with%20shadow.png",
+          "type": "token",
+          "scale": 0.8,
+          "isSmall": true
+        },
+        "actorAvatar": {
+          "name": "Aketo",
+          "image": "characters/PCs/Goblin%20Alchemist%20with%20shadow.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  },
+  {
+    "timestamp": 1678588585642,
+    "name": "Drakronos",
+    "flavor": "<h4 class=\"action\">Fortitude Saving Throw</h4><div class=\"tags\"></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"con\">Constitution +3</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+    "content": "18",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "thDArS7JBQT9Mp2k",
+          "domains": [
+            "fortitude",
+            "con-based",
+            "saving-throw",
+            "all"
+          ],
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "ability:cha:score:12",
+            "ability:con:score:16",
+            "ability:dex:score:18",
+            "ability:int:score:12",
+            "ability:str:score:14",
+            "ability:wis:score:10",
+            "armor:base:breastplate",
+            "armor:category:medium",
+            "armor:group:plate",
+            "armor:id:1nMRnzQ2Lv2VYZGF",
+            "attack:advanced:rank:1",
+            "attack:martial:rank:2",
+            "attack:simple:rank:2",
+            "attack:unarmed:rank:2",
+            "class:fighter",
+            "defense:heavy:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:unarmored:rank:1",
+            "feat:beastmaster-dedication",
+            "feat:elven-weapon-familiarity",
+            "feat:gorum-minor-boon",
+            "feat:intimidating-glare",
+            "feat:point-blank-shot",
+            "feat:ranger-dedication",
+            "feat:shield-block",
+            "feat:survey-wildlife",
+            "feat:train-animal",
+            "feature:attack-of-opportunity",
+            "feature:bravery",
+            "feature:shield-block",
+            "grants-hunt-prey",
+            "grants-hunt-prey:1",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "heritage:half-elf",
+            "hp-percent:47",
+            "hunted-prey",
+            "perception:rank:2",
+            "proficiency:expert",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:2",
+            "self:ancestry:human",
+            "self:armored",
+            "self:condition:clumsy",
+            "self:condition:clumsy:1",
+            "self:condition:encumbered",
+            "self:effect:hustle",
+            "self:heritage:half-elf",
+            "self:level:3",
+            "self:mode:living",
+            "self:shield:equipped",
+            "self:size:2",
+            "self:size:medium",
+            "self:trait:elf",
+            "self:trait:half-elf",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "self:type:character",
+            "skill:acr:rank:2",
+            "skill:arc:rank:0",
+            "skill:ath:rank:1",
+            "skill:cra:rank:0",
+            "skill:dec:rank:0",
+            "skill:dip:rank:1",
+            "skill:itm:rank:1",
+            "skill:med:rank:0",
+            "skill:nat:rank:1",
+            "skill:occ:rank:0",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:1",
+            "skill:sur:rank:1",
+            "skill:thi:rank:0",
+            "speed:land"
+          ],
+          "type": "saving-throw",
+          "rollMode": "roll",
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [],
+          "dosAdjustments": {},
+          "traits": [],
+          "createMessage": true,
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Fortitude Saving Throw</h4><div class=\"tags\"></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"con\">Constitution +3</span><span class=\"tag tag_transparent\" data-slug=\"proficiency\">Expert +7</span></div>",
+        "modifierName": "Fortitude Saving Throw",
+        "modifiers": [
+          {
+            "label": "Constitution",
+            "slug": "con",
+            "modifier": 3,
+            "type": "ability",
+            "ability": "con",
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "modifier"
+          },
+          {
+            "label": "Expert",
+            "slug": "proficiency",
+            "modifier": 7,
+            "type": "proficiency",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null,
+            "kind": "bonus"
+          }
+        ],
+        "origin": null,
+        "strike": null
+      },
+      "pf2e-target-damage": {
+        "targets": []
+      },
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Drakronos",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "token",
+          "scale": 1,
+          "isSmall": false
+        },
+        "actorAvatar": {
+          "name": "Drakronos",
+          "image": "characters/PCs/Drakronos/Drakronos.png",
+          "type": "actor"
+        },
+        "wasTokenHidden": false
+      }
+    }
+  }
+]

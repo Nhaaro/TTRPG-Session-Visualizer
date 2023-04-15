@@ -1,0 +1,2136 @@
+[
+  {
+    "type": 5,
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Primeros Auxilios +3</div><div>Tiempo de Reacción Rápido (iniciativa automática, +2 a las Pruebas de Miedo) +2</div><div>Cruel -1</div> </div>",
+    "content": "<form>\n                                                <h2>Constitution Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"3\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%223%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A3%7D%5D%2C%22total%22%3A3%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>3</a></td>\n                                                            <td data-roll=\"modifier\">10</td>\n                                                            <td data-roll=\"dice-total\">13</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]}],\"total\":3,\"evaluated\":true}"
+    ],
+    "timestamp": 1672621391518,
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "QfLFryL3hce9BAx0"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Pistolas +2</div><div>Sentidos agudos (audición; +2 pruebas basadas en la audición) +2</div><div>Cruel -1</div> </div>",
+    "content": "<form>\n                                                <h2>Strength Roll [2]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"10\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%2210%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A10%7D%5D%2C%22total%22%3A10%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>10</a></td>\n                                                            <td data-roll=\"modifier\">7</td>\n                                                            <td data-roll=\"dice-total\">10</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    <h2 class=\"rule-of-chat-text\">Rule of 10!</h2>\n                                        <button type=\"button\" data-roll=\"roll-again\" class=\"rule-of-ten\">Roll Again</button>\n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]}],\"total\":10,\"evaluated\":true}"
+    ],
+    "timestamp": 1672621438729,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "2WonnSYBUNSibxjE"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Artes Marciales (Karate) +2</div> </div>",
+    "content": "<form>\n                                                <h2>Strength Roll [2]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"7\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%227%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A7%7D%5D%2C%22total%22%3A7%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>7</a></td>\n                                                            <td data-roll=\"modifier\">6</td>\n                                                            <td data-roll=\"dice-total\">13</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]}],\"total\":7,\"evaluated\":true}"
+    ],
+    "timestamp": 1672621477327,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "mkczNlr7TsgxleOL"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Pistolas +2</div><div>Resistencia (Enfermedad) (+3 para resistir enfermedad; incluye mordeduras de zombis) +3</div> </div>",
+    "content": "<form>\n                                                <h2>Strength Roll [2]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"10\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%2210%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A10%7D%5D%2C%22total%22%3A10%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>10</a></td>\n                                                            <td data-roll=\"modifier\">9</td>\n                                                            <td data-roll=\"dice-total\">10</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    <h2 class=\"rule-of-chat-text\">Rule of 10!</h2>\n                                        <button type=\"button\" data-roll=\"roll-again\" class=\"rule-of-ten\">Roll Again</button>\n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]}],\"total\":10,\"evaluated\":true}"
+    ],
+    "timestamp": 1672621513969,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "V33u0SQU0thDD4zv"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier +2</div><div>Tácticas +3</div><div>Nervios de Acero +4</div> </div>",
+    "content": "<form>\n                                                <h2>Strength Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"4\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%224%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A4%7D%5D%2C%22total%22%3A4%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>4</a></td>\n                                                            <td data-roll=\"modifier\">15</td>\n                                                            <td data-roll=\"dice-total\">19</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]}],\"total\":4,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623188236,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "U2r9PloKlsIpP4xs"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier -2</div><div>Tácticas +3</div><div>Nervios de Acero +4</div> </div>",
+    "content": "<form>\n                                                <h2>Strength Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"6\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%226%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A6%7D%5D%2C%22total%22%3A6%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>6</a></td>\n                                                            <td data-roll=\"modifier\">11</td>\n                                                            <td data-roll=\"dice-total\">17</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true}]}],\"total\":6,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623296676,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "9pHFKs0NcoI0wgeY"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier -2</div><div>Tácticas +3</div><div>Nervios de Acero +4</div> </div>",
+    "content": "<form>\n                                                <h2>Strength Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"1\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%221%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A1%7D%5D%2C%22total%22%3A1%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>1</a></td>\n                                                            <td data-roll=\"modifier\">11</td>\n                                                            <td data-roll=\"dice-total\">0</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    <h2 class=\"rule-of-chat-text\">Rule of 1!</h2>\n                                        <button type=\"button\" data-roll=\"roll-again\" class=\"rule-of-one\">Roll Again</button>\n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623337468,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "7LS8duBlc0fhlDwE"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier -2</div><div>Tácticas +3</div><div>Nervios de Acero +4</div> </div>",
+    "content": "<form>\n                                                <h2>Strength Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"10\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%2210%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A10%7D%5D%2C%22total%22%3A10%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>10</a></td>\n                                                            <td data-roll=\"modifier\">11</td>\n                                                            <td data-roll=\"dice-total\">10</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    <h2 class=\"rule-of-chat-text\">Rule of 10!</h2>\n                                        <button type=\"button\" data-roll=\"roll-again\" class=\"rule-of-ten\">Roll Again</button>\n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]}],\"total\":10,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623415903,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "PsQvOmtsi6m9I7Su"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier -1</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Strength Roll [2]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"4\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%224%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A4%7D%5D%2C%22total%22%3A4%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>4</a></td>\n                                                            <td data-roll=\"modifier\">-2</td>\n                                                            <td data-roll=\"dice-total\">2</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]}],\"total\":4,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623470951,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "bq9skYP0pKExixru"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier -2</div><div>Tácticas +3</div><div>Nervios de Acero +4</div> </div>",
+    "content": "<form>\n                                                <h2>Strength Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"9\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%229%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A9%7D%5D%2C%22total%22%3A9%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>9</a></td>\n                                                            <td data-roll=\"modifier\">11</td>\n                                                            <td data-roll=\"dice-total\">20</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":9,\"active\":true}]}],\"total\":9,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623517831,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "C0cSY3ghi2ZpIp64"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier -2</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Strength Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"7\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%227%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A7%7D%5D%2C%22total%22%3A7%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>7</a></td>\n                                                            <td data-roll=\"modifier\">-1</td>\n                                                            <td data-roll=\"dice-total\">6</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]}],\"total\":7,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623592878,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "1k0hsyoIwt2dShoT"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier -1</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Strength Roll [2]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"2\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%222%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A2%7D%5D%2C%22total%22%3A2%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>2</a></td>\n                                                            <td data-roll=\"modifier\">-2</td>\n                                                            <td data-roll=\"dice-total\">0</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]}],\"total\":2,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623623608,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "559kd4C29wN6jXXx"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier -2</div><div>Tácticas +3</div><div>Nervios de Acero +4</div> </div>",
+    "content": "<form>\n                                                <h2>Strength Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"9\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%229%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A9%7D%5D%2C%22total%22%3A9%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>9</a></td>\n                                                            <td data-roll=\"modifier\">11</td>\n                                                            <td data-roll=\"dice-total\">20</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":9,\"active\":true}]}],\"total\":9,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623629683,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "tMEhCvKwfaZDcDkN"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier -2</div><div>Tácticas +3</div><div>Nervios de Acero +4</div> </div>",
+    "content": "<form>\n                                                <h2>Strength Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"7\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%227%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A7%7D%5D%2C%22total%22%3A7%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>7</a></td>\n                                                            <td data-roll=\"modifier\">11</td>\n                                                            <td data-roll=\"dice-total\">18</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]}],\"total\":7,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623658955,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "fbTQzPPT9EUghmv1"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Medicine +4</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"5\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%225%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A5%7D%5D%2C%22total%22%3A5%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>5</a></td>\n                                                            <td data-roll=\"modifier\">7</td>\n                                                            <td data-roll=\"dice-total\">12</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":5,\"active\":true}]}],\"total\":5,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623713161,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "ZTZQq6f8FQ4kmBVr"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Perception Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"9\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%229%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A9%7D%5D%2C%22total%22%3A9%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>9</a></td>\n                                                            <td data-roll=\"modifier\">3</td>\n                                                            <td data-roll=\"dice-total\">12</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":9,\"active\":true}]}],\"total\":9,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623853366,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "iDTmafe84JReWvHg"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Alerta de Situaciones +2</div> </div>",
+    "content": "<form>\n                                                <h2>Perception Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"7\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%227%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A7%7D%5D%2C%22total%22%3A7%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>7</a></td>\n                                                            <td data-roll=\"modifier\">8</td>\n                                                            <td data-roll=\"dice-total\">15</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]}],\"total\":7,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623878779,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "QsW1sE7nGaV1fGsS"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Notice +3</div><div>Situational Awareness +2</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Perception Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"1\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%221%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A1%7D%5D%2C%22total%22%3A1%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>1</a></td>\n                                                            <td data-roll=\"modifier\">8</td>\n                                                            <td data-roll=\"dice-total\">0</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    <h2 class=\"rule-of-chat-text\">Rule of 1!</h2>\n                                        <button type=\"button\" data-roll=\"roll-again\" class=\"rule-of-one\">Roll Again</button>\n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623896533,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "WDnAZzBUjriYW7nx"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Alerta +3</div> </div>",
+    "content": "<form>\n                                                <h2>Perception Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"6\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%226%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A6%7D%5D%2C%22total%22%3A6%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>6</a></td>\n                                                            <td data-roll=\"modifier\">9</td>\n                                                            <td data-roll=\"dice-total\">15</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true}]}],\"total\":6,\"evaluated\":true}"
+    ],
+    "timestamp": 1672623968593,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "nWDDKRXhJYJ53AfW"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]}],\"total\":2,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "2",
+    "timestamp": 1672624329779,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "DWCiWC1jAFresRcU"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Difficult Test</div><div>Supervivencia Desierto +2</div> </div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [2]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"6\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%226%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A6%7D%5D%2C%22total%22%3A6%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>6</a></td>\n                                                            <td data-roll=\"modifier\">4</td>\n                                                            <td data-roll=\"dice-total\">10</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true}]}],\"total\":6,\"evaluated\":true}"
+    ],
+    "timestamp": 1672625280152,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "rYZxVQx5VCk8UAR8"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Difficult Test</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"10\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%2210%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A10%7D%5D%2C%22total%22%3A10%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>10</a></td>\n                                                            <td data-roll=\"modifier\">-1</td>\n                                                            <td data-roll=\"dice-total\">10</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    <h2 class=\"rule-of-chat-text\">Rule of 10!</h2>\n                                        <button type=\"button\" data-roll=\"roll-again\" class=\"rule-of-ten\">Roll Again</button>\n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]}],\"total\":10,\"evaluated\":true}"
+    ],
+    "timestamp": 1672625295055,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "P2Yc17qpRpCtZ4PY"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Difficult Test</div><div>Artesanía (Sastre) +3</div> </div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"3\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%223%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A3%7D%5D%2C%22total%22%3A3%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>3</a></td>\n                                                            <td data-roll=\"modifier\">7</td>\n                                                            <td data-roll=\"dice-total\">10</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]}],\"total\":3,\"evaluated\":true}"
+    ],
+    "timestamp": 1672625316601,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "3RGvc47ll9ejCM7Z"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Difficult Test</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [2]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"4\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%224%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A4%7D%5D%2C%22total%22%3A4%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>4</a></td>\n                                                            <td data-roll=\"modifier\">-3</td>\n                                                            <td data-roll=\"dice-total\">1</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]}],\"total\":4,\"evaluated\":true}"
+    ],
+    "timestamp": 1672625343127,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "TPUmq8GSl6BoxVBK"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier -2</div> </div>",
+    "content": "<form>\n                                                <h2>Strength Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"5\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%225%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A5%7D%5D%2C%22total%22%3A5%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>5</a></td>\n                                                            <td data-roll=\"modifier\">4</td>\n                                                            <td data-roll=\"dice-total\">9</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":5,\"active\":true}]}],\"total\":5,\"evaluated\":true}"
+    ],
+    "timestamp": 1672625519165,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "WQkrxoyAKQLzYx1U"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Instruction +2</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"6\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%226%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A6%7D%5D%2C%22total%22%3A6%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>6</a></td>\n                                                            <td data-roll=\"modifier\">5</td>\n                                                            <td data-roll=\"dice-total\">11</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true}]}],\"total\":6,\"evaluated\":true}"
+    ],
+    "timestamp": 1672625528120,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "2nceWFOOtgdIlIX1"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Craft (Woodworking) +1</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [2]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"9\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%229%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A9%7D%5D%2C%22total%22%3A9%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>9</a></td>\n                                                            <td data-roll=\"modifier\">0</td>\n                                                            <td data-roll=\"dice-total\">9</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":9,\"active\":true}]}],\"total\":9,\"evaluated\":true}"
+    ],
+    "timestamp": 1672625753925,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "hJT4YEUeAwRvByG6"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Difficult Test</div> </div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [2]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"10\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%2210%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A10%7D%5D%2C%22total%22%3A10%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>10</a></td>\n                                                            <td data-roll=\"modifier\">2</td>\n                                                            <td data-roll=\"dice-total\">10</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    <h2 class=\"rule-of-chat-text\">Rule of 10!</h2>\n                                        <button type=\"button\" data-roll=\"roll-again\" class=\"rule-of-ten\">Roll Again</button>\n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]}],\"total\":10,\"evaluated\":true}"
+    ],
+    "timestamp": 1672625762749,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "CRpvriUZTTp6bzG2"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Difficult Test</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"4\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%224%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A4%7D%5D%2C%22total%22%3A4%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>4</a></td>\n                                                            <td data-roll=\"modifier\">-1</td>\n                                                            <td data-roll=\"dice-total\">3</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]}],\"total\":4,\"evaluated\":true}"
+    ],
+    "timestamp": 1672625767426,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "neN6ZGrjMs1P3wbj"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Sigilo +3</div> </div>",
+    "content": "<form>\n                                                <h2>Dexterity Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"7\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%227%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A7%7D%5D%2C%22total%22%3A7%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>7</a></td>\n                                                            <td data-roll=\"modifier\">11</td>\n                                                            <td data-roll=\"dice-total\">18</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]}],\"total\":7,\"evaluated\":true}"
+    ],
+    "timestamp": 1672626184733,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "mSro27K4tZ0DGl0x"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Difficult Test</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Dexterity Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"10\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%2210%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A10%7D%5D%2C%22total%22%3A10%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>10</a></td>\n                                                            <td data-roll=\"modifier\">-1</td>\n                                                            <td data-roll=\"dice-total\">10</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    <h2 class=\"rule-of-chat-text\">Rule of 10!</h2>\n                                        <button type=\"button\" data-roll=\"roll-again\" class=\"rule-of-ten\">Roll Again</button>\n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]}],\"total\":10,\"evaluated\":true}"
+    ],
+    "timestamp": 1672626204246,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "asCWCxRmeMC7Htw6"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":9,\"active\":true}]}],\"total\":9,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "9",
+    "timestamp": 1672626267571,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "LTCKHF5BJDx93EGA"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true}]}],\"total\":6,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "6",
+    "timestamp": 1672626289855,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "IwkXn7AmoYrW0knU"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier -1</div> </div>",
+    "content": "<form>\n                                                <h2>Strength Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"9\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%229%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A9%7D%5D%2C%22total%22%3A9%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>9</a></td>\n                                                            <td data-roll=\"modifier\">5</td>\n                                                            <td data-roll=\"dice-total\">14</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":9,\"active\":true}]}],\"total\":9,\"evaluated\":true}"
+    ],
+    "timestamp": 1672626711282,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "Ie6gPFCNcmCTQ5aD"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier -2</div><div>Escalar +1</div> </div>",
+    "content": "<form>\n                                                <h2>Strength Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"2\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%222%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A2%7D%5D%2C%22total%22%3A2%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>2</a></td>\n                                                            <td data-roll=\"modifier\">5</td>\n                                                            <td data-roll=\"dice-total\">7</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]}],\"total\":2,\"evaluated\":true}"
+    ],
+    "timestamp": 1672626895410,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "95o6uB9ZJ3RlwkQ9"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]}],\"total\":3,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "3",
+    "timestamp": 1672627013228,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "Xr2a1AdQMPbjDwZM"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Sigilo +3</div> </div>",
+    "content": "<form>\n                                                <h2>Dexterity Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"7\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%227%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A7%7D%5D%2C%22total%22%3A7%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>7</a></td>\n                                                            <td data-roll=\"modifier\">11</td>\n                                                            <td data-roll=\"dice-total\">18</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]}],\"total\":7,\"evaluated\":true}"
+    ],
+    "timestamp": 1672627073559,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "hKuiyqtB4VqmhhSf"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier -2</div><div>Escalar +1</div> </div>",
+    "content": "<form>\n                                                <h2>Strength Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"7\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%227%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A7%7D%5D%2C%22total%22%3A7%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>7</a></td>\n                                                            <td data-roll=\"modifier\">5</td>\n                                                            <td data-roll=\"dice-total\">12</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]}],\"total\":7,\"evaluated\":true}"
+    ],
+    "timestamp": 1672627226703,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "iFq8p9O0olhozhvD"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Difficult Test</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Dexterity Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"1\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%221%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A1%7D%5D%2C%22total%22%3A1%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>1</a></td>\n                                                            <td data-roll=\"modifier\">-1</td>\n                                                            <td data-roll=\"dice-total\">0</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    <h2 class=\"rule-of-chat-text\">Rule of 1!</h2>\n                                        <button type=\"button\" data-roll=\"roll-again\" class=\"rule-of-one\">Roll Again</button>\n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+    ],
+    "timestamp": 1672627259225,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "6FfY1GpRCUe7N8kN"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Difficult Test</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Dexterity Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"8\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%228%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A8%7D%5D%2C%22total%22%3A8%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>8</a></td>\n                                                            <td data-roll=\"modifier\">-1</td>\n                                                            <td data-roll=\"dice-total\">7</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]}],\"total\":8,\"evaluated\":true}"
+    ],
+    "timestamp": 1672627285588,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "YZpXzF4WdJ9GD7NO"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]}],\"total\":3,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "3",
+    "timestamp": 1672627296997,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "JIu2o9OEaPkOYzlf"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]}],\"total\":7,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "7",
+    "timestamp": 1672627313976,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "5m1XRrl5zd3KN7NG"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]}],\"total\":3,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "3",
+    "timestamp": 1672627328969,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "u9PQmtTFf99qiYrA"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Alerta +3</div> </div>",
+    "content": "<form>\n                                                <h2>Perception Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"3\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%223%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A3%7D%5D%2C%22total%22%3A3%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>3</a></td>\n                                                            <td data-roll=\"modifier\">9</td>\n                                                            <td data-roll=\"dice-total\">12</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]}],\"total\":3,\"evaluated\":true}"
+    ],
+    "timestamp": 1672627377965,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "NKB1jO7W3pjfARI6"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]}],\"total\":4,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "4",
+    "timestamp": 1672627409887,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "gqFnilhneOmYBTUj"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"2d8\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":2,\"faces\":8,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true},{\"result\":7,\"active\":true}]}],\"total\":9,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "9",
+    "timestamp": 1672627621451,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "1VKAwtiHW7cPVCT6"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]}],\"total\":10,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "10",
+    "timestamp": 1672627880479,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "fdow9jvx7mCSKCpP"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":5,\"active\":true}]}],\"total\":5,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "5",
+    "timestamp": 1672627912730,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "1b3S2mxF3qiBjVaM"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Sigilo +3</div> </div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [2]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"10\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%2210%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A10%7D%5D%2C%22total%22%3A10%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>10</a></td>\n                                                            <td data-roll=\"modifier\">7</td>\n                                                            <td data-roll=\"dice-total\">10</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    <h2 class=\"rule-of-chat-text\">Rule of 10!</h2>\n                                        <button type=\"button\" data-roll=\"roll-again\" class=\"rule-of-ten\">Roll Again</button>\n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]}],\"total\":10,\"evaluated\":true}"
+    ],
+    "timestamp": 1672627963251,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "oU34OGAWtkQgEhO0"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"d4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":4,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]}],\"total\":2,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "2",
+    "timestamp": 1672627975899,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "emKK04dU8Ry1Nq22"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Nervios de Acero +4</div> </div>",
+    "content": "<form>\n                                                <h2>Willpower Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"8\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%228%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A8%7D%5D%2C%22total%22%3A8%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>8</a></td>\n                                                            <td data-roll=\"modifier\">10</td>\n                                                            <td data-roll=\"dice-total\">18</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]}],\"total\":8,\"evaluated\":true}"
+    ],
+    "timestamp": 1672628090425,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "np0GAE4wcQwpxrAl"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10 - 3 - 4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4}],\"total\":-4,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "-4",
+    "timestamp": 1672628139983,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "hEg0FoJj4aRoxSKP"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "1",
+    "timestamp": 1672628375108,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "cBVQ8FRjQGfsPEtd"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Sigilo +3</div><div>Nervios de Acero +4</div> </div>",
+    "content": "<form>\n                                                <h2>Dexterity Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"7\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%227%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A7%7D%5D%2C%22total%22%3A7%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>7</a></td>\n                                                            <td data-roll=\"modifier\">15</td>\n                                                            <td data-roll=\"dice-total\">22</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]}],\"total\":7,\"evaluated\":true}"
+    ],
+    "timestamp": 1672628381143,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "9jyfGAsQSU047mHK"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]}],\"total\":2,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "2",
+    "timestamp": 1672628417577,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "NdR2VSc2W0qh04yA"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1}],\"total\":2,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "2",
+    "timestamp": 1672628429635,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "7o9XwqTd5RjfEel6"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>User Modifier -1</div><div>Escalar +1</div> </div>",
+    "content": "<form>\n                                                <h2>Dexterity Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"5\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%225%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A5%7D%5D%2C%22total%22%3A5%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>5</a></td>\n                                                            <td data-roll=\"modifier\">8</td>\n                                                            <td data-roll=\"dice-total\">13</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":5,\"active\":true}]}],\"total\":5,\"evaluated\":true}"
+    ],
+    "timestamp": 1672628702533,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "9tjMVvNXFdhiUzox"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Sobrevivir Bosques +2</div> </div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [2]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"3\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%223%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A3%7D%5D%2C%22total%22%3A3%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>3</a></td>\n                                                            <td data-roll=\"modifier\">6</td>\n                                                            <td data-roll=\"dice-total\">9</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]}],\"total\":3,\"evaluated\":true}"
+    ],
+    "timestamp": 1672629117533,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "gH3lHmTWQMmoPN59"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"6\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%226%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A6%7D%5D%2C%22total%22%3A6%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>6</a></td>\n                                                            <td data-roll=\"modifier\">3</td>\n                                                            <td data-roll=\"dice-total\">9</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true}]}],\"total\":6,\"evaluated\":true}"
+    ],
+    "timestamp": 1672629122923,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "ahCEMx4DndcT8lP3"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Craft (Woodworking) +1</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [2]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"1\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%221%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A1%7D%5D%2C%22total%22%3A1%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>1</a></td>\n                                                            <td data-roll=\"modifier\">0</td>\n                                                            <td data-roll=\"dice-total\">0</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    <h2 class=\"rule-of-chat-text\">Rule of 1!</h2>\n                                        <button type=\"button\" data-roll=\"roll-again\" class=\"rule-of-one\">Roll Again</button>\n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+    ],
+    "timestamp": 1672629139966,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "ssgsrDsuwdyMLGVj"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Situational Awareness +2</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Perception Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"10\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%2210%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A10%7D%5D%2C%22total%22%3A10%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>10</a></td>\n                                                            <td data-roll=\"modifier\">5</td>\n                                                            <td data-roll=\"dice-total\">10</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    <h2 class=\"rule-of-chat-text\">Rule of 10!</h2>\n                                        <button type=\"button\" data-roll=\"roll-again\" class=\"rule-of-ten\">Roll Again</button>\n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]}],\"total\":10,\"evaluated\":true}"
+    ],
+    "timestamp": 1672629290199,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "qPfAmj1wBV7OqLNm"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Situational Awareness +2</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Perception Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"4\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%224%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A4%7D%5D%2C%22total%22%3A4%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>4</a></td>\n                                                            <td data-roll=\"modifier\">5</td>\n                                                            <td data-roll=\"dice-total\">9</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]}],\"total\":4,\"evaluated\":true}"
+    ],
+    "timestamp": 1672629309835,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "zlJARKhHIeUIFClb"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Alerta de Situaciones +2</div> </div>",
+    "content": "<form>\n                                                <h2>Perception Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"4\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%224%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A4%7D%5D%2C%22total%22%3A4%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>4</a></td>\n                                                            <td data-roll=\"modifier\">8</td>\n                                                            <td data-roll=\"dice-total\">12</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]}],\"total\":4,\"evaluated\":true}"
+    ],
+    "timestamp": 1672629314035,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "pmxZzPVoGavzB2YV"
+  },
+  {
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]}],\"total\":8,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "8",
+    "timestamp": 1672629359173,
+    "flavor": "",
+    "whisper": [],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "Tq3c3pUrR4XNXnRA"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Notice +3</div><div>Situational Awareness +2</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Perception Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"10\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%2210%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A10%7D%5D%2C%22total%22%3A10%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>10</a></td>\n                                                            <td data-roll=\"modifier\">8</td>\n                                                            <td data-roll=\"dice-total\">10</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    <h2 class=\"rule-of-chat-text\">Rule of 10!</h2>\n                                        <button type=\"button\" data-roll=\"roll-again\" class=\"rule-of-ten\">Roll Again</button>\n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]}],\"total\":10,\"evaluated\":true}"
+    ],
+    "timestamp": 1672629431677,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "tYN7fnjynLPYTNCs"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Alerta de Situaciones +2</div> </div>",
+    "content": "<form>\n                                                <h2>Perception Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"6\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%226%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A6%7D%5D%2C%22total%22%3A6%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>6</a></td>\n                                                            <td data-roll=\"modifier\">8</td>\n                                                            <td data-roll=\"dice-total\">14</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true}]}],\"total\":6,\"evaluated\":true}"
+    ],
+    "timestamp": 1672629451310,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "IckEzKQEPzW6FPly"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Sigilo +3</div> </div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [2]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"2\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%222%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A2%7D%5D%2C%22total%22%3A2%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>2</a></td>\n                                                            <td data-roll=\"modifier\">7</td>\n                                                            <td data-roll=\"dice-total\">9</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]}],\"total\":2,\"evaluated\":true}"
+    ],
+    "timestamp": 1672630047353,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "VwW8D2iTpI78Bib7"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Medicine +4</div> <div>Endurance Loss -2</div><div>Essence Loss -3</div></div>",
+    "content": "<form>\n                                                <h2>Perception Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"8\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%228%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A8%7D%5D%2C%22total%22%3A8%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>8</a></td>\n                                                            <td data-roll=\"modifier\">7</td>\n                                                            <td data-roll=\"dice-total\">15</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]}],\"total\":8,\"evaluated\":true}"
+    ],
+    "timestamp": 1672630677909,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "tMTHBOZAPcOGkZqt"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]}],\"total\":3,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "3",
+    "timestamp": 1672630910894,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "cOjjHkRQOALBRzq0"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Sigilo +3</div><div>Nervios de Acero +4</div> </div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [2]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"7\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%227%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A7%7D%5D%2C%22total%22%3A7%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>7</a></td>\n                                                            <td data-roll=\"modifier\">11</td>\n                                                            <td data-roll=\"dice-total\">18</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]}],\"total\":7,\"evaluated\":true}"
+    ],
+    "timestamp": 1672630922083,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "JTH7Wq4qstt9prFn"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]}],\"total\":8,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "8",
+    "timestamp": 1672630969785,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "w5cGe3f5FnGpfObZ"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":4,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]}],\"total\":3,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "3",
+    "timestamp": 1672630986507,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "AWZnzD1Rr5dhJyQa"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10 - 3\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3}],\"total\":5,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "5",
+    "timestamp": 1672631230928,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "ov2IR15ohyaLyp0X"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10 - 3\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3}],\"total\":-1,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "-1",
+    "timestamp": 1672631361459,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "0qc0yj1n9yMnnrzS"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10 - 4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4}],\"total\":3,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "3",
+    "timestamp": 1672631371552,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "lU1S1IiFsLQrSdMm"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div> </div>",
+    "content": "<form>\n                                                <h2>Dexterity Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"7\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%227%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A7%7D%5D%2C%22total%22%3A7%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>7</a></td>\n                                                            <td data-roll=\"modifier\">8</td>\n                                                            <td data-roll=\"dice-total\">15</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]}],\"total\":7,\"evaluated\":true}"
+    ],
+    "timestamp": 1672631394908,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "tUcmgOG5q9PEJzkc"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":4,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]}],\"total\":2,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "2",
+    "timestamp": 1672631468484,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "yNdyN2r8d5l0O9Oa"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":4,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "1",
+    "timestamp": 1672631473161,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "BodrT2wPllSo23tP"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "1",
+    "timestamp": 1672631610329,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "a523FaWgNQnxDFHM"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]}],\"total\":3,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "3",
+    "timestamp": 1672631615887,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "uvpEnGxDDjJrvgGw"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]}],\"total\":8,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "8",
+    "timestamp": 1672631633112,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "GARRaJIi0lfQIg6l"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1}],\"total\":11,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "11",
+    "timestamp": 1672631641313,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "Xa2r21BqM6iQzGdq"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":4,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]}],\"total\":4,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "4",
+    "timestamp": 1672631671114,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "k13D9qFCAc1VRsVO"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Notice +3</div><div>Situational Awareness +2</div> </div>",
+    "content": "<form>\n                                                <h2>Perception Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"2\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%222%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A2%7D%5D%2C%22total%22%3A2%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>2</a></td>\n                                                            <td data-roll=\"modifier\">13</td>\n                                                            <td data-roll=\"dice-total\">15</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]}],\"total\":2,\"evaluated\":true}"
+    ],
+    "timestamp": 1672631703453,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "Rprg5KLvSyvUXLH7"
+  },
+  {
+    "type": 5,
+    "user": "jBN4vcytYd5GgC8L",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Kiara y Nasho"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Acute Senses (Hearing) +2</div> </div>",
+    "content": "<form>\n                                                <h2>Perception Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"4\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%224%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A4%7D%5D%2C%22total%22%3A4%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>4</a></td>\n                                                            <td data-roll=\"modifier\">10</td>\n                                                            <td data-roll=\"dice-total\">14</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]}],\"total\":4,\"evaluated\":true}"
+    ],
+    "timestamp": 1672631720592,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "J7sW63LNAXNv4eQn"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Sentidos agudos (audición; +2 pruebas basadas en la audición) +2</div> </div>",
+    "content": "<form>\n                                                <h2>Intelligence Roll [4]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"9\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%229%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A9%7D%5D%2C%22total%22%3A9%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>9</a></td>\n                                                            <td data-roll=\"modifier\">10</td>\n                                                            <td data-roll=\"dice-total\">19</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    \n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":9,\"active\":true}]}],\"total\":9,\"evaluated\":true}"
+    ],
+    "timestamp": 1672631747953,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "g6BLhdJcr4iaS8Rq"
+  },
+  {
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d4 * 3\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":4,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"*\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3}],\"total\":9,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "9",
+    "timestamp": 1672632170263,
+    "flavor": "",
+    "whisper": [],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "IluldQnuZpH3ouPX"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true}]}],\"total\":6,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "6",
+    "timestamp": 1672632325312,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "PfTNKLKsaYxdvr4s"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10 + 5\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":5,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":5}],\"total\":10,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "10",
+    "timestamp": 1672632334388,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "mQXnhhphR43000LA"
+  },
+  {
+    "user": "wePbwQeb8bRVyYmR",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "type": 5,
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":4,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]}],\"total\":3,\"evaluated\":true}"
+    ],
+    "sound": "sounds/dice.wav",
+    "content": "3",
+    "timestamp": 1672632338239,
+    "flavor": "",
+    "whisper": [
+      "wePbwQeb8bRVyYmR",
+      "UJHh7ou2D3rDXALK",
+      "jBN4vcytYd5GgC8L"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "x5z2K0wL6WpDkuYa"
+  },
+  {
+    "type": 5,
+    "user": "UJHh7ou2D3rDXALK",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": "Jesus y Lupita"
+    },
+    "flavor": "<div class=\"afmbe-tags-flex-container\"><div>Simple Test</div><div>Alerta de Situaciones +2</div> </div>",
+    "content": "<form>\n                                                <h2>Perception Roll [3]</h2>\n\n                                                <table class=\"afmbe-chat-roll-table\">\n                                                    <thead>\n                                                        <tr>\n                                                            <th>Roll</th>\n                                                            <th>Modifier</th>\n                                                            <th>Result</th>\n                                                        </tr>\n                                                    </thead>\n                                                    <tbody>\n                                                        <tr>\n                                                            <td data-roll=\"dice-result\"><a class=\"inline-roll inline-result\" data-tooltip=\"1\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%221%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A1%7D%5D%2C%22total%22%3A1%2C%22evaluated%22%3Atrue%7D\"><i class=\"fas fa-dice-d20\"></i>1</a></td>\n                                                            <td data-roll=\"modifier\">8</td>\n                                                            <td data-roll=\"dice-total\">0</td>\n                                                        </tr>\n                                                    </tbody>\n                                                </table>\n\n                                                <div style=\"display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%\">\n                                                    <h2 class=\"rule-of-chat-text\">Rule of 1!</h2>\n                                        <button type=\"button\" data-roll=\"roll-again\" class=\"rule-of-one\">Roll Again</button>\n                                                </div>\n                                            </form>",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+    ],
+    "timestamp": 1672632678879,
+    "whisper": [],
+    "blind": false,
+    "sound": null,
+    "emote": false,
+    "flags": {},
+    "_id": "QJIiKuStkMMSm4M9"
+  }
+]

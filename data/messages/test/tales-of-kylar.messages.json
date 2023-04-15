@@ -1,0 +1,973 @@
+[
+  {
+    "type": 0,
+    "user": "sPsiPwiHafJVnEJl",
+    "timestamp": 1654819027361,
+    "flavor": "",
+    "content": "<div class=\"dice-so-nice\">\n    <p>It seems like you're using 3D dice for the first time in this world.</p>\n    <p>You can configure (or disable) your 3D dice by clicking this button:</p>\n    <p><button type=\"button\" class=\"dice-so-nice-btn-settings\" data-key=\"dice-so-nice.dice-so-nice\"><i class=\"fas fa-dice-d20\"></i> My Dice Settings</button></p>\n    <p>You can always change these settings later under 'Configure Settings &gt; Module Settings &gt; Dice So Nice!'</p>\n    <p>You won't see this message again. Happy rolling!</p>\n</div>",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": ""
+    },
+    "whisper": [
+      "sPsiPwiHafJVnEJl"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "2SC4u2lfaA4BDYyR",
+    "rolls": [],
+    "sound": null
+  },
+  {
+    "type": 0,
+    "user": "WVC37DsHp83fbTi9",
+    "timestamp": 1654986366242,
+    "flavor": "",
+    "content": "<div class=\"dice-so-nice\">\n    <p>It seems like you're using 3D dice for the first time in this world.</p>\n    <p>You can configure (or disable) your 3D dice by clicking this button:</p>\n    <p><button type=\"button\" class=\"dice-so-nice-btn-settings\" data-key=\"dice-so-nice.dice-so-nice\"><i class=\"fas fa-dice-d20\"></i> My Dice Settings</button></p>\n    <p>You can always change these settings later under 'Configure Settings &gt; Module Settings &gt; Dice So Nice!'</p>\n    <p>You won't see this message again. Happy rolling!</p>\n</div>",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": ""
+    },
+    "whisper": [
+      "WVC37DsHp83fbTi9"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "I2nt1Dwp3pnUvRfM",
+    "rolls": [],
+    "sound": null
+  },
+  {
+    "type": 0,
+    "user": "MfhgSxB0d8AkVDnv",
+    "timestamp": 1654988018903,
+    "flavor": "",
+    "content": "<div class=\"dice-so-nice\">\n    <p>It seems like you're using 3D dice for the first time in this world.</p>\n    <p>You can configure (or disable) your 3D dice by clicking this button:</p>\n    <p><button type=\"button\" class=\"dice-so-nice-btn-settings\" data-key=\"dice-so-nice.dice-so-nice\"><i class=\"fas fa-dice-d20\"></i> My Dice Settings</button></p>\n    <p>You can always change these settings later under 'Configure Settings &gt; Module Settings &gt; Dice So Nice!'</p>\n    <p>You won't see this message again. Happy rolling!</p>\n</div>",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": ""
+    },
+    "whisper": [
+      "MfhgSxB0d8AkVDnv"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "KrWZnSYClE0BAKzi",
+    "rolls": [],
+    "sound": null
+  },
+  {
+    "type": 0,
+    "user": "jraF8tCTmuTSNOex",
+    "timestamp": 1654988360828,
+    "flavor": "",
+    "content": "<div class=\"dice-so-nice\">\n    <p>It seems like you're using 3D dice for the first time in this world.</p>\n    <p>You can configure (or disable) your 3D dice by clicking this button:</p>\n    <p><button type=\"button\" class=\"dice-so-nice-btn-settings\" data-key=\"dice-so-nice.dice-so-nice\"><i class=\"fas fa-dice-d20\"></i> My Dice Settings</button></p>\n    <p>You can always change these settings later under 'Configure Settings &gt; Module Settings &gt; Dice So Nice!'</p>\n    <p>You won't see this message again. Happy rolling!</p>\n</div>",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": ""
+    },
+    "whisper": [
+      "jraF8tCTmuTSNOex"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "7VxsBflVPZosI4rH",
+    "rolls": [],
+    "sound": null
+  },
+  {
+    "type": 0,
+    "user": "ZIwJ6nxKgSIqkVa5",
+    "timestamp": 1654988365593,
+    "flavor": "",
+    "content": "<div class=\"dice-so-nice\">\n    <p>It seems like you're using 3D dice for the first time in this world.</p>\n    <p>You can configure (or disable) your 3D dice by clicking this button:</p>\n    <p><button type=\"button\" class=\"dice-so-nice-btn-settings\" data-key=\"dice-so-nice.dice-so-nice\"><i class=\"fas fa-dice-d20\"></i> My Dice Settings</button></p>\n    <p>You can always change these settings later under 'Configure Settings &gt; Module Settings &gt; Dice So Nice!'</p>\n    <p>You won't see this message again. Happy rolling!</p>\n</div>",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": ""
+    },
+    "whisper": [
+      "ZIwJ6nxKgSIqkVa5"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "f2Un8cjldy57OVpk",
+    "rolls": [],
+    "sound": null
+  },
+  {
+    "type": 0,
+    "user": "jrL3QH9t5yFyyvvJ",
+    "timestamp": 1654988765440,
+    "flavor": "",
+    "content": "<div class=\"dice-so-nice\">\n    <p>It seems like you're using 3D dice for the first time in this world.</p>\n    <p>You can configure (or disable) your 3D dice by clicking this button:</p>\n    <p><button type=\"button\" class=\"dice-so-nice-btn-settings\" data-key=\"dice-so-nice.dice-so-nice\"><i class=\"fas fa-dice-d20\"></i> My Dice Settings</button></p>\n    <p>You can always change these settings later under 'Configure Settings &gt; Module Settings &gt; Dice So Nice!'</p>\n    <p>You won't see this message again. Happy rolling!</p>\n</div>",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": ""
+    },
+    "whisper": [
+      "jrL3QH9t5yFyyvvJ"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "FynEzQPSiybl6NhY",
+    "rolls": [],
+    "sound": null
+  },
+  {
+    "type": 5,
+    "user": "jrL3QH9t5yFyyvvJ",
+    "timestamp": 1654991490524,
+    "flavor": "Uses Elixir of Life (Minor)",
+    "content": "1",
+    "speaker": {
+      "scene": "zE3l6RusZJwBrzdv",
+      "token": "5tm6GIsjxFSkfd0B",
+      "actor": "J0DY5IQjElyWZzEk",
+      "alias": "Beemiw"
+    },
+    "whisper": [],
+    "blind": false,
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "ESOlyyB5TcJMnWN3",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":6,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+    ]
+  },
+  {
+    "type": 5,
+    "user": "jrL3QH9t5yFyyvvJ",
+    "timestamp": 1654991498949,
+    "flavor": "Uses Elixir of Life (Minor)",
+    "content": "1",
+    "speaker": {
+      "scene": "zE3l6RusZJwBrzdv",
+      "token": "5tm6GIsjxFSkfd0B",
+      "actor": "J0DY5IQjElyWZzEk",
+      "alias": "Beemiw"
+    },
+    "whisper": [],
+    "blind": false,
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "jSlRC0hxundaZso8",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":6,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+    ]
+  },
+  {
+    "type": 3,
+    "user": "jrL3QH9t5yFyyvvJ",
+    "timestamp": 1654991524102,
+    "flavor": "",
+    "content": "<p>Beemiw is healed for 1 damage.</p>",
+    "speaker": {
+      "alias": "Beemiw",
+      "token": "5tm6GIsjxFSkfd0B",
+      "scene": null,
+      "actor": null
+    },
+    "whisper": [],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "r2vsMI3X9twjuvtB",
+    "rolls": [],
+    "sound": null
+  },
+  {
+    "type": 3,
+    "user": "jrL3QH9t5yFyyvvJ",
+    "timestamp": 1654991527552,
+    "flavor": "",
+    "content": "<p>Beemiw is healed for 1 damage.</p>",
+    "speaker": {
+      "alias": "Beemiw",
+      "token": "5tm6GIsjxFSkfd0B",
+      "scene": null,
+      "actor": null
+    },
+    "whisper": [],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "V705cxhsL69UhX5h",
+    "rolls": [],
+    "sound": null
+  },
+  {
+    "type": 5,
+    "user": "jrL3QH9t5yFyyvvJ",
+    "timestamp": 1654994433079,
+    "flavor": "<h4 class=\"action\">Reflex Saving Throw</h4><div class=\"tags\"><span class=\"tag tag_alt\">Dexterity +4</span><span class=\"tag tag_alt\">Expert +6</span></div>",
+    "content": "19",
+    "speaker": {
+      "scene": "zE3l6RusZJwBrzdv",
+      "token": "MOyNt2uzhwDfNk1g",
+      "actor": "6F6kxetBGIktwz6W",
+      "alias": "Mako"
+    },
+    "whisper": [],
+    "blind": false,
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "6F6kxetBGIktwz6W",
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "self:type:character",
+            "self:level:2",
+            "feature:rogues-racket",
+            "feature:sneak-attack",
+            "feature:surprise-attack",
+            "class:rogue",
+            "feature:eldritch-trickster",
+            "feat:witch-dedication",
+            "feature:patron",
+            "feature:ocean-patron",
+            "self:heritage:skilled-heritage",
+            "feat:experienced-smuggler",
+            "self:ancestry:human",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "feat:general-training",
+            "feat:streetwise",
+            "feat:tumble-behind-rogue",
+            "feat:quick-draw",
+            "feat:acrobat-dedication",
+            "feat:skill-training",
+            "feat:cat-fall",
+            "self:mode:living",
+            "perception:rank:2",
+            "ability:str:score:12",
+            "ability:dex:score:18",
+            "ability:con:score:14",
+            "ability:int:score:14",
+            "ability:wis:score:10",
+            "ability:cha:score:12",
+            "skill:acr:rank:2",
+            "skill:arc:rank:1",
+            "skill:ath:rank:1",
+            "skill:cra:rank:1",
+            "skill:dec:rank:1",
+            "skill:dip:rank:1",
+            "skill:itm:rank:1",
+            "skill:med:rank:1",
+            "skill:nat:rank:1",
+            "skill:occ:rank:1",
+            "skill:prf:rank:1",
+            "skill:rel:rank:0",
+            "skill:soc:rank:1",
+            "skill:ste:rank:2",
+            "skill:sur:rank:1",
+            "skill:thi:rank:1",
+            "defense:unarmored:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:0",
+            "defense:heavy:rank:0",
+            "attack:unarmed:rank:1",
+            "attack:simple:rank:1",
+            "attack:martial:rank:0",
+            "attack:advanced:rank:0",
+            "save:fortitude:rank:1",
+            "save:reflex:rank:2",
+            "save:will:rank:2",
+            "hands-free:1",
+            "hands-free:but-really:1",
+            "self:caster",
+            "self:armored",
+            "self:trait:amphibious",
+            "self:size:1",
+            "self:size:small",
+            "self:has-familiar",
+            "proficiency:expert"
+          ],
+          "type": "saving-throw",
+          "secret": false,
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [],
+          "rollMode": "publicroll",
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Reflex Saving Throw</h4><div class=\"tags\"><span class=\"tag tag_alt\">Dexterity +4</span><span class=\"tag tag_alt\">Expert +6</span></div>",
+        "modifierName": "Reflex Saving Throw",
+        "modifiers": [
+          {
+            "label": "Dexterity",
+            "slug": "dex",
+            "modifier": 4,
+            "type": "ability",
+            "ability": "dex",
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          },
+          {
+            "label": "Expert",
+            "slug": "expert",
+            "modifier": 6,
+            "type": "proficiency",
+            "ability": null,
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          }
+        ],
+        "origin": null
+      }
+    },
+    "_id": "gGMxo9Bw5MNIYJLK",
+    "rolls": [
+      "{\"class\":\"CheckRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":9,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":10}],\"total\":19,\"evaluated\":true,\"data\":{\"isReroll\":false,\"rollerId\":\"jrL3QH9t5yFyyvvJ\"}}"
+    ]
+  },
+  {
+    "type": 5,
+    "user": "jrL3QH9t5yFyyvvJ",
+    "timestamp": 1654995958449,
+    "flavor": "<h4 class=\"action\">Skill Check: Arcana</h4><div class=\"tags\"><span class=\"tag tag_alt\">Intelligence +2</span><span class=\"tag tag_alt\">Trained +4</span></div>",
+    "content": "26",
+    "speaker": {
+      "scene": "zE3l6RusZJwBrzdv",
+      "token": "5tm6GIsjxFSkfd0B",
+      "actor": "J0DY5IQjElyWZzEk",
+      "alias": "Beemiw"
+    },
+    "whisper": [],
+    "blind": false,
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "J0DY5IQjElyWZzEk",
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "self:type:character",
+            "self:level:2",
+            "self:ancestry:cambion",
+            "self:trait:fiend",
+            "self:trait:humanoid",
+            "feat:fiend-wings",
+            "feat:fiendish-wings",
+            "feat:relentless-wings",
+            "feature:druidic-order",
+            "feature:anathema-druid",
+            "feature:druidic-language",
+            "feature:primal-spellcasting",
+            "feature:shield-block",
+            "feature:wild-empathy",
+            "class:druid",
+            "feature:storm-order",
+            "feat:storm-born",
+            "feat:shield-block",
+            "self:heritage:tiefling",
+            "feat:dubious-knowledge",
+            "feat:widen-spell",
+            "feat:arcane-tattoos",
+            "feat:poisoner-dedication",
+            "feat:alchemical-crafting",
+            "feat:assurance-medicine",
+            "self:condition:encumbered",
+            "self:condition:clumsy",
+            "crafting:entry:poisoner",
+            "self:mode:living",
+            "perception:rank:1",
+            "ability:str:score:12",
+            "ability:dex:score:12",
+            "ability:con:score:14",
+            "ability:int:score:14",
+            "ability:wis:score:18",
+            "ability:cha:score:10",
+            "skill:acr:rank:1",
+            "skill:arc:rank:1",
+            "skill:ath:rank:1",
+            "skill:cra:rank:1",
+            "skill:dec:rank:0",
+            "skill:dip:rank:0",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:1",
+            "skill:occ:rank:1",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:0",
+            "skill:sur:rank:0",
+            "skill:thi:rank:0",
+            "defense:unarmored:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:heavy:rank:0",
+            "attack:unarmed:rank:1",
+            "attack:simple:rank:1",
+            "attack:martial:rank:0",
+            "attack:advanced:rank:0",
+            "save:fortitude:rank:1",
+            "save:reflex:rank:1",
+            "save:will:rank:2",
+            "hands-free:2",
+            "hands-free:but-really:2",
+            "self:caster",
+            "self:armored",
+            "self:trait:tiefling",
+            "self:size:2",
+            "self:size:medium",
+            "self:armor:strength-requirement-met"
+          ],
+          "type": "skill-check",
+          "secret": false,
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [],
+          "rollMode": "publicroll",
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Skill Check: Arcana</h4><div class=\"tags\"><span class=\"tag tag_alt\">Intelligence +2</span><span class=\"tag tag_alt\">Trained +4</span></div>",
+        "modifierName": "Skill Check: Arcana",
+        "modifiers": [
+          {
+            "label": "Intelligence",
+            "slug": "int",
+            "modifier": 2,
+            "type": "ability",
+            "ability": "int",
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          },
+          {
+            "label": "Trained",
+            "slug": "trained",
+            "modifier": 4,
+            "type": "proficiency",
+            "ability": null,
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          }
+        ],
+        "origin": null
+      }
+    },
+    "_id": "nua0lYpvqp0ym6nd",
+    "rolls": [
+      "{\"class\":\"CheckRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":20,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":6}],\"total\":26,\"evaluated\":true,\"data\":{\"isReroll\":false,\"rollerId\":\"jrL3QH9t5yFyyvvJ\"}}"
+    ]
+  },
+  {
+    "type": 5,
+    "user": "MfhgSxB0d8AkVDnv",
+    "timestamp": 1654996909958,
+    "flavor": "<h4 class=\"action\">Skill Check: Diplomacy</h4><div class=\"tags\"><span class=\"tag tag_alt\">Charisma +1</span><span class=\"tag tag_alt\">Trained +4</span></div>",
+    "content": "9",
+    "speaker": {
+      "scene": "lYR8RAToe3M63Tew",
+      "token": "8JP9TjXeazMXuakj",
+      "actor": "qmyiCiXjmBhVZ2rE",
+      "alias": "Drakronos"
+    },
+    "whisper": [],
+    "blind": false,
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "qmyiCiXjmBhVZ2rE",
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "self:type:character",
+            "self:level:2",
+            "self:ancestry:human",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "self:heritage:half-elf",
+            "feat:survey-wildlife",
+            "feature:hunters-edge",
+            "feature:hunt-prey",
+            "class:ranger",
+            "feature:flurry",
+            "feat:elven-weapon-familiarity",
+            "feat:animal-companion-ranger",
+            "feat:heal-companion",
+            "feat:beastmaster-dedication",
+            "feat:intimidating-glare",
+            "self:shield:equipped",
+            "self:condition:encumbered",
+            "self:condition:clumsy",
+            "grants-hunt-prey:1",
+            "self:mode:living",
+            "perception:rank:2",
+            "ability:str:score:18",
+            "ability:dex:score:14",
+            "ability:con:score:14",
+            "ability:int:score:12",
+            "ability:wis:score:10",
+            "ability:cha:score:12",
+            "skill:acr:rank:1",
+            "skill:arc:rank:0",
+            "skill:ath:rank:1",
+            "skill:cra:rank:0",
+            "skill:dec:rank:0",
+            "skill:dip:rank:1",
+            "skill:itm:rank:1",
+            "skill:med:rank:0",
+            "skill:nat:rank:1",
+            "skill:occ:rank:0",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:1",
+            "skill:sur:rank:1",
+            "skill:thi:rank:1",
+            "defense:unarmored:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:heavy:rank:0",
+            "attack:unarmed:rank:1",
+            "attack:simple:rank:1",
+            "attack:martial:rank:1",
+            "attack:advanced:rank:0",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:1",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "self:trait:half-elf",
+            "self:caster",
+            "self:armored",
+            "self:trait:elf",
+            "self:size:2",
+            "self:size:medium",
+            "self:armor:strength-requirement-met"
+          ],
+          "type": "skill-check",
+          "secret": false,
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [],
+          "rollMode": "publicroll",
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Skill Check: Diplomacy</h4><div class=\"tags\"><span class=\"tag tag_alt\">Charisma +1</span><span class=\"tag tag_alt\">Trained +4</span></div>",
+        "modifierName": "Skill Check: Diplomacy",
+        "modifiers": [
+          {
+            "label": "Charisma",
+            "slug": "cha",
+            "modifier": 1,
+            "type": "ability",
+            "ability": "cha",
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          },
+          {
+            "label": "Trained",
+            "slug": "trained",
+            "modifier": 4,
+            "type": "proficiency",
+            "ability": null,
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          }
+        ],
+        "origin": null
+      }
+    },
+    "_id": "EQE2vDqHxDIkZtMi",
+    "rolls": [
+      "{\"class\":\"CheckRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 5\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":5}],\"total\":9,\"evaluated\":true,\"data\":{\"isReroll\":false,\"rollerId\":\"MfhgSxB0d8AkVDnv\"}}"
+    ]
+  },
+  {
+    "type": 0,
+    "user": "WVC37DsHp83fbTi9",
+    "timestamp": 1654996989475,
+    "flavor": "",
+    "content": "<span data-visibility=\"all\"></span> <span data-pf2-action=\"createADiversion\" data-pf2-glyph=\"A\" data-pf2-variant=\"distracting-words\">distracting words<i class=\"fas fa-comment-alt\" data-pf2-repost title=\"Post to Chat\"></i></span>",
+    "speaker": {
+      "scene": "lYR8RAToe3M63Tew",
+      "token": "8JP9TjXeazMXuakj",
+      "actor": "qmyiCiXjmBhVZ2rE",
+      "alias": "Drakronos"
+    },
+    "whisper": [],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "tBgebkEuIp7K0atv",
+    "rolls": [],
+    "sound": null
+  },
+  {
+    "type": 5,
+    "user": "MfhgSxB0d8AkVDnv",
+    "timestamp": 1654996996543,
+    "flavor": "<h4 class=\"action\">Skill Check: Deception</h4><div class=\"tags\"><span class=\"tag tag_alt\">Charisma +1</span><span class=\"tag tag_alt\">Untrained +0</span></div>",
+    "content": "5",
+    "speaker": {
+      "scene": "lYR8RAToe3M63Tew",
+      "token": "8JP9TjXeazMXuakj",
+      "actor": "qmyiCiXjmBhVZ2rE",
+      "alias": "Drakronos"
+    },
+    "whisper": [],
+    "blind": false,
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "qmyiCiXjmBhVZ2rE",
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "self:type:character",
+            "self:level:2",
+            "self:ancestry:human",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "self:heritage:half-elf",
+            "feat:survey-wildlife",
+            "feature:hunters-edge",
+            "feature:hunt-prey",
+            "class:ranger",
+            "feature:flurry",
+            "feat:elven-weapon-familiarity",
+            "feat:animal-companion-ranger",
+            "feat:heal-companion",
+            "feat:beastmaster-dedication",
+            "feat:intimidating-glare",
+            "self:shield:equipped",
+            "self:condition:encumbered",
+            "self:condition:clumsy",
+            "grants-hunt-prey:1",
+            "self:mode:living",
+            "perception:rank:2",
+            "ability:str:score:18",
+            "ability:dex:score:14",
+            "ability:con:score:14",
+            "ability:int:score:12",
+            "ability:wis:score:10",
+            "ability:cha:score:12",
+            "skill:acr:rank:1",
+            "skill:arc:rank:0",
+            "skill:ath:rank:1",
+            "skill:cra:rank:0",
+            "skill:dec:rank:0",
+            "skill:dip:rank:1",
+            "skill:itm:rank:1",
+            "skill:med:rank:0",
+            "skill:nat:rank:1",
+            "skill:occ:rank:0",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:1",
+            "skill:sur:rank:1",
+            "skill:thi:rank:1",
+            "defense:unarmored:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:heavy:rank:0",
+            "attack:unarmed:rank:1",
+            "attack:simple:rank:1",
+            "attack:martial:rank:1",
+            "attack:advanced:rank:0",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:1",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "self:trait:half-elf",
+            "self:caster",
+            "self:armored",
+            "self:trait:elf",
+            "self:size:2",
+            "self:size:medium",
+            "self:armor:strength-requirement-met"
+          ],
+          "type": "skill-check",
+          "secret": false,
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [],
+          "rollMode": "publicroll",
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Skill Check: Deception</h4><div class=\"tags\"><span class=\"tag tag_alt\">Charisma +1</span><span class=\"tag tag_alt\">Untrained +0</span></div>",
+        "modifierName": "Skill Check: Deception",
+        "modifiers": [
+          {
+            "label": "Charisma",
+            "slug": "cha",
+            "modifier": 1,
+            "type": "ability",
+            "ability": "cha",
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          },
+          {
+            "label": "Untrained",
+            "slug": "untrained",
+            "modifier": 0,
+            "type": "proficiency",
+            "ability": null,
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          }
+        ],
+        "origin": null
+      }
+    },
+    "_id": "vI10EeoNRaZELD1W",
+    "rolls": [
+      "{\"class\":\"CheckRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1}],\"total\":5,\"evaluated\":true,\"data\":{\"isReroll\":false,\"rollerId\":\"MfhgSxB0d8AkVDnv\"}}"
+    ]
+  },
+  {
+    "type": 5,
+    "user": "WVC37DsHp83fbTi9",
+    "timestamp": 1654997023238,
+    "flavor": "Dexterity Check",
+    "content": "10",
+    "speaker": {
+      "scene": "lYR8RAToe3M63Tew",
+      "actor": "SwXMqEZChmxYc9Zy",
+      "token": null,
+      "alias": "Benesek Troowlard"
+    },
+    "whisper": [
+      "sPsiPwiHafJVnEJl",
+      "WVC37DsHp83fbTi9"
+    ],
+    "blind": false,
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "pf2e": {
+        "context": {
+          "type": ""
+        },
+        "origin": null
+      },
+      "core": {}
+    },
+    "_id": "IuGosPQoohJlxVXW",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 3\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3}],\"total\":10,\"evaluated\":true}"
+    ]
+  }
+]

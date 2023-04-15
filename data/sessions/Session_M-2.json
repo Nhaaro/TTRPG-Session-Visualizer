@@ -1,0 +1,274 @@
+[
+  {
+    "timestamp": 1642297960365,
+    "name": "65377531",
+    "flavor": "Survival",
+    "content": "23",
+    "roll": "{\"diceNotationStr\":\"1d20+5\",\"result\":\"18+5\",\"values\":[18],\"total\":23,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642297995966,
+    "name": "65377531",
+    "flavor": "Investigation",
+    "content": "10",
+    "roll": "{\"diceNotationStr\":\"1d20-1\",\"result\":\"11+-1\",\"values\":[11],\"total\":10,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642298027685,
+    "name": "65377531",
+    "flavor": "Investigation",
+    "content": "11",
+    "roll": "{\"diceNotationStr\":\"1d20-1\",\"result\":\"12+-1\",\"values\":[12],\"total\":11,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642298129136,
+    "name": "64807668",
+    "flavor": "Cure Wounds",
+    "content": "6",
+    "roll": null,
+    "flags": null
+  },
+  {
+    "timestamp": 1642298268911,
+    "name": "65377531",
+    "flavor": "Athletics",
+    "content": "22",
+    "roll": "{\"diceNotationStr\":\"1d20+2\",\"result\":\"20+2\",\"values\":[20],\"total\":22,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642298279820,
+    "name": "64807668",
+    "flavor": "Intimidation",
+    "content": "21",
+    "roll": "{\"diceNotationStr\":\"1d20+4\",\"result\":\"17+4\",\"values\":[17],\"total\":21,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642298363767,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "12",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"11+1\",\"values\":[11],\"total\":12,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642298373830,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "12",
+    "roll": "{\"diceNotationStr\":\"1d20-1\",\"result\":\"13+-1\",\"values\":[13],\"total\":12,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642298521770,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "17",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"16+1\",\"values\":[16],\"total\":17,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642298619986,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "14",
+    "roll": "{\"diceNotationStr\":\"1d20-1\",\"result\":\"15+-1\",\"values\":[15],\"total\":14,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642298702623,
+    "name": "65377531",
+    "flavor": "Investigation",
+    "content": "19",
+    "roll": "{\"diceNotationStr\":\"1d20-1\",\"result\":\"20+-1\",\"values\":[20],\"total\":19,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642298844748,
+    "name": "44817144",
+    "flavor": "Investigation",
+    "content": "11",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"10+1\",\"values\":[10],\"total\":11,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642298927743,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "15",
+    "roll": "{\"diceNotationStr\":\"1d20-1\",\"result\":\"16+-1\",\"values\":[16],\"total\":15,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642299325597,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "3",
+    "roll": "{\"diceNotationStr\":\"1d20-1\",\"result\":\"4+-1\",\"values\":[4],\"total\":3,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642299373486,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "14",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"13+1\",\"values\":[13],\"total\":14,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642299755908,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "12",
+    "roll": "{\"diceNotationStr\":\"1d20-1\",\"result\":\"13+-1\",\"values\":[13],\"total\":12,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642299871544,
+    "name": "64807668",
+    "flavor": "Unarmed Strike",
+    "content": "4",
+    "roll": null,
+    "flags": null
+  },
+  {
+    "timestamp": 1642299881321,
+    "name": "64807668",
+    "flavor": "Unarmed Strike",
+    "content": "25",
+    "roll": null,
+    "flags": null
+  },
+  {
+    "timestamp": 1642299892586,
+    "name": "64807668",
+    "flavor": "Unarmed Strike",
+    "content": "4",
+    "roll": null,
+    "flags": null
+  },
+  {
+    "timestamp": 1642299968437,
+    "name": "44817144",
+    "flavor": "Investigation",
+    "content": "19",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"18+1\",\"values\":[18],\"total\":19,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642299988349,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "6",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"5+1\",\"values\":[5],\"total\":6,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642300115942,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "13",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"12+1\",\"values\":[12],\"total\":13,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642300757218,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "3",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"2+1\",\"values\":[2],\"total\":3,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642300782991,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "6",
+    "roll": "{\"diceNotationStr\":\"1d20-1\",\"result\":\"7+-1\",\"values\":[7],\"total\":6,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642300816731,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "8",
+    "roll": "{\"diceNotationStr\":\"1d20-1\",\"result\":\"9+-1\",\"values\":[9],\"total\":8,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642300819995,
+    "name": "44817144",
+    "flavor": "Investigation",
+    "content": "21",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"20+1\",\"values\":[20],\"total\":21,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642300831730,
+    "name": "65377531",
+    "flavor": "custom",
+    "content": "4",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"4\",\"values\":[4],\"total\":4,\"rollType\":\"roll\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642301260902,
+    "name": "65377531",
+    "flavor": "Constitution",
+    "content": "13",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"12+1\",\"values\":[12],\"total\":13,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642301651955,
+    "name": "44815051",
+    "flavor": "Initiative",
+    "content": "8",
+    "roll": "{\"diceNotationStr\":\"1d20+2\",\"result\":\"6+2\",\"values\":[6],\"total\":8,\"rollType\":\"roll\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642305429896,
+    "name": "44817144",
+    "flavor": "Deception",
+    "content": "10",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"10\",\"values\":[10],\"total\":10,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642305986426,
+    "name": "64807668",
+    "flavor": "Deception",
+    "content": "15",
+    "roll": "{\"diceNotationStr\":\"1d20+4\",\"result\":\"11+4\",\"values\":[11],\"total\":15,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642306605850,
+    "name": "65377531",
+    "flavor": "Persuasion",
+    "content": "11",
+    "roll": "{\"diceNotationStr\":\"1d20+4\",\"result\":\"7+4\",\"values\":[7],\"total\":11,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642307892374,
+    "name": "65377531",
+    "flavor": "Sleight of Hand",
+    "content": "6",
+    "roll": "{\"diceNotationStr\":\"1d20+5\",\"result\":\"1+5\",\"values\":[1],\"total\":6,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1642307983661,
+    "name": "65377531",
+    "flavor": "Deception",
+    "content": "17",
+    "roll": "{\"diceNotationStr\":\"1d20+4\",\"result\":\"13+4\",\"values\":[13],\"total\":17,\"rollType\":\"check\"}",
+    "flags": null
+  }
+]

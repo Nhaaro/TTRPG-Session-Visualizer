@@ -1,0 +1,129 @@
+[
+  {
+    "timestamp": 1659840507224,
+    "name": "Vickyan",
+    "flavor": "",
+    "content": "<p>Vickyan is healed for 4 damage.</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    }
+  },
+  {
+    "timestamp": 1659840517116,
+    "name": "Vickyan",
+    "flavor": "",
+    "content": "<div class=\"pf2e chat-card weapon-card\" data-actor-id=\"8TBzQIm6SXUT7MeW\" data-item-id=\"YW4SNkt0uZFxZ88s\">\n    <header class=\"card-header flexrow\">\n        <img src=\"icons/witchcrafticons/WitchCraftIcons_back/WitchCraftIcons_45_b.png\" title=\"Totem of Healing\" width=\"36\" height=\"36\" />\n        <h3>Totem of Healing</h3>\n    </header>\n        <div class=\"tags\">\n                <span class=\"tag tag_alt\">3/5 Charges</span>\n                    <span class=\"tag\" data-trait data-description=\"PF2E.TraitDescriptionConsumable\">Consumable</span>\n                    <span class=\"tag\" data-trait data-description=\"PF2E.TraitDescriptionDivine\">Divine</span>\n                    <span class=\"tag\" data-trait data-description=\"PF2E.TraitDescriptionEvocation\">Evocation</span>\n                    <span class=\"tag\" data-trait data-description=\"PF2E.TraitDescriptionHealing\">Healing</span>\n                    <span class=\"tag\" data-trait data-description=\"PF2E.TraitDescriptionMagical\">Magical</span>\n                    <span class=\"tag\" data-trait data-description=\"PF2E.TraitDescriptionNecromancy\">Necromancy</span>\n                    <span class=\"tag\" data-trait data-description=\"PF2E.TraitDescriptionPositive\">Positive</span>\n                    <span class=\"tag\" data-trait data-description=\"PF2E.TraitDescriptionTalisman\">Talisman</span>\n        </div>\n    <div class=\"card-content\">\n        <p> <a class=\"inline-roll roll\" title=\"1d4 Hit Points\" data-mode=\"roll\" data-flavor=\"1d4 Hit Points\" data-formula=\"{1d4}[healing]\"><i class=\"fas fa-dice-d20\"></i> 1d4 Hit Points</a>.</p>\n    </div>\n    <div class=\"card-buttons\">\n                <button type=\"button\" data-action=\"consume\">Use talisman</button>\n    </div>\n    <footer class=\"card-footer\">\n            <span>Item 0</span>\n            <span>Price: 1 gp</span>\n    </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "origin": {
+          "uuid": "Actor.8TBzQIm6SXUT7MeW.Item.YW4SNkt0uZFxZ88s",
+          "type": "consumable"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1659840521675,
+    "name": "Vickyan",
+    "flavor": "1d4 Hit Points",
+    "content": "3",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    }
+  },
+  {
+    "timestamp": 1659840526227,
+    "name": "Vickyan",
+    "flavor": "",
+    "content": "<p>Vickyan is healed for 3 damage.</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    }
+  },
+  {
+    "timestamp": 1659840546483,
+    "name": "Vickyan",
+    "flavor": "",
+    "content": "Uses Totem of Healing, 2 remain",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    }
+  },
+  {
+    "timestamp": 1659840555717,
+    "name": "Vickyan",
+    "flavor": "",
+    "content": "<p>Vickyan is healed for 2 damage.</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    }
+  },
+  {
+    "timestamp": 1659840568639,
+    "name": "Vickyan",
+    "flavor": "<div class=\"pf2e chat-card pf2e-pd-card\" data-actor-id data-effect-id=\"g91chZmcmc5JNH8b\" data-token-id=\"itQNu4OgSQntKfOr.fetFsSWvqvG2ViMN\">\n    <div class=\"persistent-header\">\n        <div>\n            <div>Persistent Fire damage</div>\n        </div>\n        <div class=\"side-buttons\">\n            <button class=\"token-link\" data-token-id=\"fetFsSWvqvG2ViMN\" title=\"Click to select the afflicted token.\" data-visibility=\"owner\">\n                <i class=\"fa fa-crosshairs\"></i>\n            </button>\n        </div>\n    </div>\n        <div class=\"card-buttons\">\n            <button data-action=\"check\" data-check=\"flat\" data-dc=\"10\" data-visibility=\"owner\">Recovery Check DC 10</button>\n        </div>\n</div>",
+    "content": null,
+    "roll": null,
+    "flags": {
+      "persistent": {
+        "damageType": "fire",
+        "dc": 10,
+        "value": "1d4"
+      },
+      "core": {},
+      "pf2e": {}
+    }
+  },
+  {
+    "timestamp": 1659840568658,
+    "name": "Vickyan",
+    "flavor": "<div class=\"pf2e chat-card pf2e-pd-card\" data-actor-id data-effect-id=\"bY42PMNOuSwMsjf7\" data-token-id=\"itQNu4OgSQntKfOr.fetFsSWvqvG2ViMN\">\n    <div class=\"persistent-header\">\n        <div>\n            <div>Persistent Fire damage</div>\n        </div>\n        <div class=\"side-buttons\">\n            <button class=\"token-link\" data-token-id=\"fetFsSWvqvG2ViMN\" title=\"Click to select the afflicted token.\" data-visibility=\"owner\">\n                <i class=\"fa fa-crosshairs\"></i>\n            </button>\n        </div>\n    </div>\n        <div class=\"card-buttons\">\n            <button data-action=\"check\" data-check=\"flat\" data-dc=\"10\" data-visibility=\"owner\">Recovery Check DC 10</button>\n        </div>\n</div>",
+    "content": null,
+    "roll": null,
+    "flags": {
+      "persistent": {
+        "damageType": "fire",
+        "dc": 10,
+        "value": "1d4"
+      },
+      "core": {},
+      "pf2e": {}
+    }
+  },
+  {
+    "timestamp": 1659840592586,
+    "name": "Vickyan",
+    "flavor": "<div class=\"pf2e-pd-card\">\n    <strong>Recovery Check: Persistent Fire DC10</strong>\n    <div>\n        <span class=\"flat-check-failure\">Failure</span>\n    </div>\n</div>",
+    "content": "1",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    }
+  },
+  {
+    "timestamp": 1659840609293,
+    "name": "Vickyan",
+    "flavor": "<div class=\"pf2e-pd-card\">\n    <strong>Recovery Check: Persistent Fire DC10</strong>\n    <div>\n        <span class=\"flat-check-failure\">Failure</span>\n    </div>\n</div>",
+    "content": "2",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "timestamp": 1651365224925,
+    "name": "Vickyan",
+    "flavor": "",
+    "content": "<div class=\"pf2e chat-card weapon-card\" data-actor-id=\"MfZ8V6ILNVDlRHWE\" data-item-id=\"hluygvk3hIq8QAXC\">\n    <header class=\"card-header flexrow\">\n        <img src=\"systems/pf2e/icons/equipment/weapons/flail.webp\" title=\"Flail\" />\n        <h3>Flail</h3>\n    </header>\n    <div class=\"tags\">\n            <span class=\"tag\" data-trait=\"common\" data-description=\"PF2E.TraitDescriptionCommon\">Common</span>\n                <span class=\"tag\" data-trait data-description=\"PF2E.TraitDescriptionDisarm\">Disarm</span>\n                <span class=\"tag\" data-trait data-description=\"PF2E.TraitDescriptionSweep\">Sweep</span>\n                <span class=\"tag\" data-trait data-description=\"PF2E.TraitDescriptionTrip\">Trip</span>\n            <span class=\"tag tag_secondary\">Martial Weapon</span>\n        \n    </div>\n    <div class=\"card-content\">\n        <p>This weapon consists of a wooden handle attached to a spiked ball or cylinder by a chain, rope, or strap of leather.</p>\n    </div>\n    <footer class=\"card-footer\">\n            <span>Item 0</span>\n            <span>Price: 1 gp</span>\n    </footer>\n</div>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651366996098,
+    "name": "GM Mac",
+    "flavor": "",
+    "content": "1",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d3\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":3,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+  },
+  {
+    "timestamp": 1651367351137,
+    "name": "GM Mac",
+    "flavor": "",
+    "content": "1",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d2\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":2,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+  },
+  {
+    "timestamp": 1651369331600,
+    "name": "Drakronos",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Give item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/weapons/dagger.webp\" />Drakronos gives Dagger to Wrin's Wonders.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651369356339,
+    "name": "Drakronos",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Give item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/weapons/longbow.webp\" />Drakronos gives Longbow to Wrin's Wonders.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651369396532,
+    "name": "Drakronos",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Give item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/weapons/shortbow.webp\" />Drakronos gives Shortbow to Wrin's Wonders.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651369403728,
+    "name": "Drakronos",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Give item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/weapons/scimitar.webp\" />Drakronos gives Scimitar to Wrin's Wonders.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651369421045,
+    "name": "Drakronos",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Give item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/weapons/battle-axe.webp\" />Drakronos gives Battle Axe to Wrin's Wonders.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651369663487,
+    "name": "Drakronos",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Give item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/weapons/greatsword.webp\" />Drakronos gives Greatsword to Wrin's Wonders.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651370341598,
+    "name": "GM Mac",
+    "flavor": "",
+    "content": "76",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"2 / 2 + 6 * 10 / 2 + 3 * 10 / 2 + 3 * 10 / 2 + 1 * 10 / 2 + 2 * 10 / 2\",\"terms\":[{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"/\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":6},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"*\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":10},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"/\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"*\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":10},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"/\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"*\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":10},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"/\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"*\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":10},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"/\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"*\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":10},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"/\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":76,\"evaluated\":true}"
+  },
+  {
+    "timestamp": 1651370698652,
+    "name": "Beemiw",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Give item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/weapons/longspear.webp\" />Beemiw gives Longspear to Wrin's Wonders.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651370709345,
+    "name": "Beemiw",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Give item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/weapons/javelin.webp\" />Beemiw gives 4 × Javelin to Wrin's Wonders.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651370799719,
+    "name": "Beemiw",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Give item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/armor/leather-armor.webp\" />Beemiw gives Leather Armor to Wrin's Wonders.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651371068942,
+    "name": "Beemiw",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Give item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/weapons/scimitar.webp\" />Beemiw gives Scimitar to Wrin's Wonders.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651371423714,
+    "name": "Wrin's Wonders",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Sell item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/runes/fundamental-weapon-runes/striking.webp\" />Wrin's Wonders sells Striking to Drakronos.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651372196634,
+    "name": "Wrin's Wonders",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Sell item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/runes/fundamental-weapon-runes/striking.webp\" />Wrin's Wonders sells Striking to Mako.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651372434745,
+    "name": "Mako",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Give item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"icons/weapons/swords/greatsword-guard-jewel-green.webp\" />Mako gives Finely Crafted Shortsword to Wrin's Wonders.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651373346590,
+    "name": "Beemiw",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Give item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/weapons/shortsword.webp\" />Beemiw gives +1 Shortsword to Wrin's Wonders.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651373367087,
+    "name": "Wrin's Wonders",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Sell item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/wands/magic-wands/magic-wand.webp\" />Wrin's Wonders sells Wand of Heal (Level 1) to Beemiw.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651374024006,
+    "name": "Wrin's Wonders",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Sell item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/consumables/potions/healing-potion.webp\" />Wrin's Wonders sells 5 × Healing Potion (Minor) to Aketo.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651374456058,
+    "name": "Wrin's Wonders",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Sell item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/runes/fundamental-weapon-runes/striking.webp\" />Wrin's Wonders sells Striking to Vickyan.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651374823756,
+    "name": "Beemiw",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Give item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"icons/commodities/gems/gem-cut-table-green.webp\" />Beemiw gives Emerald to Wrin's Wonders.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651374895649,
+    "name": "Wrin's Wonders",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Sell item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/consumables/potions/healing-potion.webp\" />Wrin's Wonders sells Healing Potion (Lesser) to Beemiw.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651376807003,
+    "name": "",
+    "flavor": "",
+    "content": "Benesek Troowlard",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651377711265,
+    "name": "Drakronos",
+    "flavor": "<h4 class=\"action\">Skill Check: Diplomacy</h4><div class=\"tags\"><span class=\"tag tag_alt\">Charisma +1</span><span class=\"tag tag_alt\">Trained +2</span><span class=\"tag tag_alt\">Circumstance Bonus +5</span></div>",
+    "content": "14",
+    "roll": "{\"class\":\"CheckRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 8\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":8}],\"total\":14,\"evaluated\":true,\"data\":{\"rollerId\":\"rBSQ8I25M4gTCCDt\"}}"
+  },
+  {
+    "timestamp": 1651377899777,
+    "name": "Drakronos",
+    "flavor": "<b>Damage Roll: +1 Karambit</b> (Hit)<div class=\"tags\"><span class=\"damage-tag damage-tag-base\">Base 1d4 Piercing</span><span class=\"damage-tag damage-tag-modifier\">Strength  +4</span></div>",
+    "content": "<div class=\"dice-roll\">\n        <div class=\"dice-result\">\n            <div class=\"dice-formula\">1d4 + 4</div>\n            <div class=\"dice-tooltip\" style=\"display:none\"><div class=\"damage-type piercing\"><h3 class=\"flexrow\"><span>piercing</span><i class=\"fa fa-bow-arrow\"></i></h3>\n            <section class=\"tooltip-part\">\n                <div class=\"dice\">\n                    <header class=\"part-header flexrow\">\n                        <span class=\"part-formula\">1d4 + 4</span>\n                        <span class=\"part-flavor\">physical</span>\n                        <span class=\"part-total\">6</span>\n                    </header>\n                    <ol class=\"dice-rolls\"><li class=\"roll die d4\">2</li></ol>\n                </div>\n            </section>\n            </div></div><h4 class=\"dice-total\"><span id=\"value\">6</span></h4></div></div>",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d4 + 4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":4,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4}],\"total\":6,\"evaluated\":true}"
+  },
+  {
+    "timestamp": 1651379490048,
+    "name": "Beemiw",
+    "flavor": "",
+    "content": "<div class=\"pf2e chat-card item-card\" data-actor-id=\"QjxlTQtKpcI0lakD\" data-item-id=\"K3bNnnmPweD8aNFT\">\n    <header class=\"card-header flexrow\">\n        <img src=\"systems/pf2e/icons/equipment/adventuring-gear/healers-kit.webp\" title=\"Healer's Tools\" width=\"36\" height=\"36\" />\n        <h3>Healer's Tools</h3>\n    </header>\n        <div class=\"tags\">\n        </div>\n    <div class=\"card-content\">\n        <p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds.</p>\n    </div>\n    <footer class=\"card-footer\">\n            <span>Item 0</span>\n            <span>Price: 5 gp</span>\n    </footer>\n</div>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651379557818,
+    "name": "Beemiw",
+    "flavor": "<h4 class=\"action\">Skill Check: Medicine</h4><div class=\"tags\"><span class=\"tag tag_alt\">Wisdom +4</span><span class=\"tag tag_alt\">Trained +2</span></div>",
+    "content": "11",
+    "roll": "{\"class\":\"CheckRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":5,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":6}],\"total\":11,\"evaluated\":true,\"data\":{\"rollerId\":\"NQRtfenTj5Yjc4QK\"}}"
+  },
+  {
+    "timestamp": 1651379637846,
+    "name": "Beemiw",
+    "flavor": "<h4 class=\"action\">Skill Check: Medicine</h4><div class=\"tags\"><span class=\"tag tag_alt\">Wisdom +4</span><span class=\"tag tag_alt\">Trained +2</span></div>",
+    "content": "18",
+    "roll": "{\"class\":\"CheckRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":12,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":6}],\"total\":18,\"evaluated\":true,\"data\":{\"rollerId\":\"NQRtfenTj5Yjc4QK\"}}"
+  },
+  {
+    "timestamp": 1651379763156,
+    "name": "Beemiw",
+    "flavor": "<h4 class=\"action\">Skill Check: Medicine</h4><div class=\"tags\"><span class=\"tag tag_alt\">Wisdom +4</span><span class=\"tag tag_alt\">Trained +2</span></div>",
+    "content": "10",
+    "roll": "{\"class\":\"CheckRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":6}],\"total\":10,\"evaluated\":true,\"data\":{\"rollerId\":\"NQRtfenTj5Yjc4QK\"}}"
+  },
+  {
+    "timestamp": 1651379857497,
+    "name": "Beemiw",
+    "flavor": "<h4 class=\"action\">Skill Check: Medicine</h4><div class=\"tags\"><span class=\"tag tag_alt\">Wisdom +4</span><span class=\"tag tag_alt\">Trained +2</span></div>",
+    "content": "18",
+    "roll": "{\"class\":\"CheckRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":12,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":6}],\"total\":18,\"evaluated\":true,\"data\":{\"rollerId\":\"NQRtfenTj5Yjc4QK\"}}"
+  },
+  {
+    "timestamp": 1651379997575,
+    "name": "Wrin's Wonders",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Sell item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />\n",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp\" />Wrin's Wonders sells Ghost Touch to Beemiw.</p>",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651381119773,
+    "name": "Vickyan",
+    "flavor": "",
+    "content": "Vickyan awakens well-rested. 4 hit points restored. Resolve fully restored.",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651381121578,
+    "name": "Drakronos",
+    "flavor": "",
+    "content": "Drakronos awakens well-rested. Wands recharged. Focus points restored. Resolve fully restored.",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651381161607,
+    "name": "Beemiw",
+    "flavor": "",
+    "content": "Beemiw awakens well-rested. Focus points restored. All spell slots restored. Infused Reagents restored. Resolve fully restored.",
+    "roll": ""
+  },
+  {
+    "timestamp": 1651381225864,
+    "name": "Mako",
+    "flavor": "",
+    "content": "Mako awakens well-rested. 1 hit points restored. Resolve fully restored.",
+    "roll": ""
+  }
+]

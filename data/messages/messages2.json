@@ -1,0 +1,2327 @@
+[
+  {
+    "id": "a96ec4b4-aae5-47b0-95a2-a4bfadce6d83",
+    "dateTime": "1613267893501",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 10
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 0
+          },
+          "diceNotationStr": "1d20",
+          "rollType": "roll",
+          "rollKind": "",
+          "result": {
+            "constant": 0,
+            "values": [
+              10
+            ],
+            "total": 10,
+            "text": "10"
+          }
+        }
+      ],
+      "action": "Initiative",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "752b9198-49c5-4906-a793-9f9b0c2f80a0"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atlcffa5IAMCIOw=",
+    "timestamp": 1613267893501,
+    "index": 0
+  },
+  {
+    "id": "151b7694-6f46-46aa-bef3-b46ed46329c2",
+    "dateTime": "1613267926551",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 16
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 0
+          },
+          "diceNotationStr": "1d20",
+          "rollType": "check",
+          "rollKind": "",
+          "result": {
+            "constant": 0,
+            "values": [
+              16
+            ],
+            "total": 16,
+            "text": "16"
+          }
+        }
+      ],
+      "action": "dex",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "03032b4e-b9ce-4adf-a6d9-0e6e30e0f26c"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613267926551,
+    "index": 1
+  },
+  {
+    "id": "3fc0a0c5-18e9-42dc-944b-3b26316cb05a",
+    "dateTime": "1613267932365",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 11
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 2
+          },
+          "diceNotationStr": "1d20+2",
+          "rollType": "check",
+          "rollKind": "",
+          "result": {
+            "constant": 2,
+            "values": [
+              11
+            ],
+            "total": 13,
+            "text": "11+2"
+          }
+        }
+      ],
+      "action": "con",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "95c7cc03-4eaa-43b3-a3d9-021cb688fceb"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613267932365,
+    "index": 2
+  },
+  {
+    "id": "7a45bc9f-9cec-4ffc-8d64-8b21efe6f6c8",
+    "dateTime": "1613267988668",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 14
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 4
+          },
+          "diceNotationStr": "1d20+4",
+          "rollType": "check",
+          "rollKind": "",
+          "result": {
+            "constant": 4,
+            "values": [
+              14
+            ],
+            "total": 18,
+            "text": "14+4"
+          }
+        }
+      ],
+      "action": "Insight",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "781cad85-abfd-4f21-8b48-4462b1e5ac8f"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613267988668,
+    "index": 3
+  },
+  {
+    "id": "9bb4428f-7433-4ddb-bad1-f9b28e5a877b",
+    "dateTime": "1613268003232",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 5
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 2
+          },
+          "diceNotationStr": "1d20+2",
+          "rollType": "check",
+          "rollKind": "",
+          "result": {
+            "constant": 2,
+            "values": [
+              5
+            ],
+            "total": 7,
+            "text": "5+2"
+          }
+        }
+      ],
+      "action": "Perception",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "4f57e817-b4c5-4580-8859-4f1a2fb11ade"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613268003232,
+    "index": 4
+  },
+  {
+    "id": "dac1673c-820a-4514-a13f-91e62618c8e4",
+    "dateTime": "1613268075728",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [],
+            "constant": 2
+          },
+          "diceNotationStr": "2",
+          "rollType": "damage",
+          "rollKind": "",
+          "result": {
+            "constant": 2,
+            "total": 2,
+            "values": []
+          }
+        }
+      ],
+      "action": "Unarmed Strike",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "f3da13a2-0d18-4d31-9a99-f498b857d533"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613268075728,
+    "index": 5
+  },
+  {
+    "id": "3db53b24-5619-4fbe-857f-1559a2d5c975",
+    "dateTime": "1613268079472",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 12
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 3
+          },
+          "diceNotationStr": "1d20+3",
+          "rollType": "to hit",
+          "rollKind": "",
+          "result": {
+            "constant": 3,
+            "values": [
+              12
+            ],
+            "total": 15,
+            "text": "12+3"
+          }
+        }
+      ],
+      "action": "Unarmed Strike",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "e9c0d526-2c8d-4a63-93a6-2e2040701db0"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613268079472,
+    "index": 6
+  },
+  {
+    "id": "f09bdc4d-549d-4947-a48b-1b7f9cde3e04",
+    "dateTime": "1613268081386",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [],
+            "constant": 2
+          },
+          "diceNotationStr": "2",
+          "rollType": "damage",
+          "rollKind": "",
+          "result": {
+            "constant": 2,
+            "total": 2,
+            "values": []
+          }
+        }
+      ],
+      "action": "Unarmed Strike",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "9cd49509-0842-4a5c-9ed2-4724530f984c"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613268081386,
+    "index": 7
+  },
+  {
+    "id": "0e9df0ca-8220-4f24-aeb4-21e9bb873cb0",
+    "dateTime": "1613268086855",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d4",
+                    "dieValue": 2
+                  }
+                ],
+                "count": 1,
+                "dieType": "d4",
+                "operation": 0
+              }
+            ],
+            "constant": 1
+          },
+          "diceNotationStr": "1d4+1",
+          "rollType": "damage",
+          "rollKind": "",
+          "result": {
+            "constant": 1,
+            "values": [
+              2
+            ],
+            "total": 3,
+            "text": "2+1"
+          }
+        }
+      ],
+      "action": "Talons",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "0f4e57a4-8f80-4177-8aea-76d2f59afa3f"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613268086855,
+    "index": 8
+  },
+  {
+    "id": "0082dab7-52de-4bb8-af26-74cfd8d21550",
+    "dateTime": "1613283627958",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 19
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 1
+          },
+          "diceNotationStr": "1d20+1",
+          "rollType": "roll",
+          "rollKind": "",
+          "result": {
+            "constant": 1,
+            "values": [
+              19
+            ],
+            "total": 20,
+            "text": "19+1"
+          }
+        }
+      ],
+      "action": "Initiative",
+      "context": {
+        "entityId": "44775800",
+        "entityType": "character",
+        "name": "Drakronos"
+      },
+      "setId": "00101",
+      "rollId": "228c4c28-b712-413f-b19b-af91da79f6ad"
+    },
+    "entityId": "44775800",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "auMefdmwoAMCI5g=",
+    "timestamp": 1613283627958,
+    "index": 9
+  },
+  {
+    "data": {
+      "action": "Dexterity",
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 13
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 1
+          },
+          "rollType": "check",
+          "rollKind": "",
+          "result": {
+            "constant": 1,
+            "values": [
+              13
+            ],
+            "total": 14
+          }
+        }
+      ],
+      "context": {
+        "entityId": "44775800",
+        "entityType": "character"
+      },
+      "setId": "00102",
+      "rollId": "2154550d-6b7c-4159-ae3b-0ac8d2e97847"
+    },
+    "entityId": "44775800",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "gameId",
+    "id": "b14f9c21-9cbd-4eb6-a1c5-a0d5af1e70a2",
+    "dateTime": "1613285874490",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "connectionId": "auR5-dA-IAMCIGw=",
+    "timestamp": 1613285874490,
+    "index": 10
+  },
+  {
+    "data": {
+      "action": "Medicine",
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 6
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 0
+          },
+          "rollType": "check",
+          "rollKind": "",
+          "result": {
+            "constant": 0,
+            "values": [
+              6
+            ],
+            "total": 6
+          }
+        }
+      ],
+      "context": {
+        "entityId": "44775800",
+        "entityType": "character"
+      },
+      "setId": "00102",
+      "rollId": "5ba52426-e4d1-4667-bbf4-acbf7e3c9e82"
+    },
+    "entityId": "44775800",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "gameId",
+    "id": "f5dba86a-2212-4e41-92e8-a3d83f2a5f18",
+    "dateTime": "1613285900849",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "connectionId": "auR5-dA-IAMCIGw=",
+    "timestamp": 1613285900849,
+    "index": 11
+  },
+  {
+    "data": {
+      "action": "Initiative",
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 18
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 1
+          },
+          "rollType": "roll",
+          "rollKind": "",
+          "result": {
+            "constant": 1,
+            "values": [
+              18
+            ],
+            "total": 19
+          }
+        }
+      ],
+      "context": {
+        "entityId": "44775800",
+        "entityType": "character"
+      },
+      "setId": "00102",
+      "rollId": "4bf519ca-7f58-49c4-a125-75d0e7139ca2"
+    },
+    "entityId": "44775800",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "gameId",
+    "id": "1e101b4c-e821-4e64-bf5f-ca7425d27847",
+    "dateTime": "1613285992349",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "connectionId": "auR5-dA-IAMCIGw=",
+    "timestamp": 1613285992349,
+    "index": 12
+  },
+  {
+    "data": {
+      "action": "custom",
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d4",
+                    "dieValue": 4
+                  },
+                  {
+                    "dieType": "d4",
+                    "dieValue": 3
+                  }
+                ],
+                "count": 2,
+                "dieType": "d4",
+                "operation": 0
+              }
+            ],
+            "constant": 0
+          },
+          "rollType": "roll",
+          "rollKind": "",
+          "result": {
+            "constant": 0,
+            "values": [
+              4,
+              3
+            ],
+            "total": 7
+          }
+        }
+      ],
+      "context": {
+        "entityId": "44775800",
+        "entityType": "character"
+      },
+      "setId": "00102",
+      "rollId": "7c9fb711-a5d2-4a46-9d5d-4e5e863e50fc"
+    },
+    "entityId": "44775800",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "gameId",
+    "id": "14200377-ad01-4e9b-9e14-492c3d52585e",
+    "dateTime": "1613286103836",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "connectionId": "auR5-dA-IAMCIGw=",
+    "timestamp": 1613286103836,
+    "index": 13
+  },
+  {
+    "data": {
+      "action": "Dagger",
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d4",
+                    "dieValue": 2
+                  }
+                ],
+                "count": 1,
+                "dieType": "d4",
+                "operation": 0
+              }
+            ],
+            "constant": 1
+          },
+          "rollType": "damage",
+          "rollKind": "",
+          "result": {
+            "constant": 1,
+            "values": [
+              2
+            ],
+            "total": 3
+          }
+        }
+      ],
+      "context": {
+        "entityId": "44775800",
+        "entityType": "character"
+      },
+      "setId": "00102",
+      "rollId": "1b2d6ebd-9d96-4c24-9184-cc0d327866ba"
+    },
+    "entityId": "44775800",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "gameId",
+    "id": "d13890bc-ea58-407b-be5d-de12426af915",
+    "dateTime": "1613286228418",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "connectionId": "auR5-dA-IAMCIGw=",
+    "timestamp": 1613286228418,
+    "index": 14
+  },
+  {
+    "data": {
+      "action": "Acrobatics",
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 18
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 3
+          },
+          "rollType": "check",
+          "rollKind": "",
+          "result": {
+            "constant": 3,
+            "values": [
+              18
+            ],
+            "total": 21
+          }
+        }
+      ],
+      "context": {
+        "entityId": "44775800",
+        "entityType": "character"
+      },
+      "setId": "00102",
+      "rollId": "74b535ef-a2f5-49f9-a8c4-33edf70aef7c"
+    },
+    "entityId": "44775800",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "gameId",
+    "id": "0ce48eb9-e189-4fac-8eef-116162be8309",
+    "dateTime": "1613322733744",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "bk",
+    "connectionId": "avr4ccxRoAMCKvQ=",
+    "timestamp": 1613322733744,
+    "index": 15
+  },
+  {
+    "type": 5,
+    "user": "9e7Jg5pEGV9NtCUF",
+    "timestamp": 1645319782885,
+    "flavor": "History Skill Check: Drakronos",
+    "content": "",
+    "speaker": {
+      "scene": "0orvTxQEbOIh0nZj",
+      "token": "USvnWAnCjXdja1Cg",
+      "actor": "rlalZ9R1qrub70YS",
+      "alias": "Drakronos"
+    },
+    "whisper": [],
+    "blind": false,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":0,\"evaluated\":true}",
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    },
+    "_id": "wXSbtCnt0SxQsQkL",
+    "index": 0,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 5,
+    "user": "V8kPqNc8UDOLSvkq",
+    "timestamp": 1645319816403,
+    "flavor": "History Skill Check: Mako",
+    "content": "17",
+    "speaker": {
+      "scene": null,
+      "actor": "hA281AIaEstOBwvW",
+      "token": null,
+      "alias": "Mako"
+    },
+    "whisper": [],
+    "blind": false,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Mako\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":18,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":17,\"evaluated\":true}",
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    },
+    "_id": "FliwH636Fapcj5v2",
+    "index": 1,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 5,
+    "user": "hpSkFBSeIKa9OPHh",
+    "timestamp": 1645319876334,
+    "flavor": "History Skill Check: Beemiw",
+    "content": "5",
+    "speaker": {
+      "scene": "0orvTxQEbOIh0nZj",
+      "token": "rMQS5Pfs89VtiAGN",
+      "actor": "FKpCXWIr6NUjuciW",
+      "alias": "Beemiw"
+    },
+    "whisper": [],
+    "blind": false,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Beemiw\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":5,\"evaluated\":true}",
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    },
+    "_id": "yetTKm1jjaG5zDyf",
+    "index": 2,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 5,
+    "user": "hpSkFBSeIKa9OPHh",
+    "timestamp": 1645319903235,
+    "flavor": "History Skill Check: Aketo",
+    "content": "11",
+    "speaker": {
+      "scene": "0orvTxQEbOIh0nZj",
+      "token": "E1AcDj1ZrAeVsynt",
+      "actor": "8fK5xJYxZUUHwBaO",
+      "alias": "Aketo"
+    },
+    "whisper": [],
+    "blind": false,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Aketo\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 3 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":11,\"evaluated\":true}",
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    },
+    "_id": "h85S3i0O15pIOhYR",
+    "index": 3,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 5,
+    "user": "hpSkFBSeIKa9OPHh",
+    "timestamp": 1645319922814,
+    "flavor": "History Skill Check: Vickyan",
+    "content": "7",
+    "speaker": {
+      "scene": "0orvTxQEbOIh0nZj",
+      "token": "2VEDF9V3OYYtcJrt",
+      "actor": "9XSY9lP778mZJ3O9",
+      "alias": "Vickyan"
+    },
+    "whisper": [],
+    "blind": false,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Vickyan\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 1 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":7,\"evaluated\":true}",
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    },
+    "_id": "TUQOkRPKDiRVk6t3",
+    "index": 4,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 0,
+    "user": "lmpFiJtQJ7w517Mz",
+    "timestamp": 1645320410742,
+    "flavor": "Item Piles",
+    "content": "<div class=\"item-piles-chat-card\" data-trade-id=\"phfcpxkr0vep6q482ztg6kate75wv8hw\">\n\n    <div class=\"item-piles-chat-card-title item-piles-bottom-divider\">\n        <p>\n            <img src=\"ddb-images/characters/Mako.jpeg\" title=\"Mako\" height=\"32\" />\n            <i class=\"fas fa-handshake\"></i> <img src=\"Goblin%20Alchemist%20without%20shadow.png\" title=\"Aketo\" height=\"32\" />\n        </p>\n        <p style=\"margin:0\">Mako and Aketo started a trade.</p>\n    </div>\n\n    <p>Click the button below to spectate:</p>\n\n    <button type=\"button\" class=\"item-piles-specate-trade\" data-trade-user=\"lmpFiJtQJ7w517Mz\" data-trade-id=\"phfcpxkr0vep6q482ztg6kate75wv8hw\">\n        Spectate Trade\n    </button>\n\n</div>",
+    "speaker": {
+      "scene": "0orvTxQEbOIh0nZj",
+      "token": "USvnWAnCjXdja1Cg",
+      "actor": "rlalZ9R1qrub70YS",
+      "alias": "Gamemaster"
+    },
+    "whisper": [],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "item-piles": {
+        "publicTradeId": "phfcpxkr0vep6q482ztg6kate75wv8hw",
+        "tradeUsers": [
+          "lmpFiJtQJ7w517Mz",
+          "9e7Jg5pEGV9NtCUF"
+        ]
+      }
+    },
+    "_id": "pJNLhoZHDRbzWnky",
+    "index": 5,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 5,
+    "user": "9e7Jg5pEGV9NtCUF",
+    "timestamp": 1645320647648,
+    "flavor": "Deception Skill Check: Drakronos (Disadvantage)",
+    "content": "17",
+    "speaker": {
+      "scene": "0orvTxQEbOIh0nZj",
+      "token": "USvnWAnCjXdja1Cg",
+      "actor": "rlalZ9R1qrub70YS",
+      "alias": "Drakronos"
+    },
+    "whisper": [],
+    "blind": false,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Deception Skill Check: Drakronos\",\"advantageMode\":-1,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"2d20kl + 3 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1,\"disadvantage\":true},\"evaluated\":true,\"number\":2,\"faces\":20,\"modifiers\":[\"kl\"],\"results\":[{\"result\":16,\"active\":false,\"discarded\":true},{\"result\":14,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":17,\"evaluated\":true}",
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "dec"
+        }
+      }
+    },
+    "_id": "rcnHnl5aBcAKDsYL",
+    "index": 6,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 5,
+    "user": "9e7Jg5pEGV9NtCUF",
+    "timestamp": 1645322450922,
+    "flavor": "History Skill Check: Drakronos",
+    "content": "1",
+    "speaker": {
+      "scene": "LgStX53SIYMvpwI3",
+      "token": "iog4W4WFMo76KuBf",
+      "actor": "rlalZ9R1qrub70YS",
+      "alias": "Drakronos"
+    },
+    "whisper": [],
+    "blind": false,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":1,\"evaluated\":true}",
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    },
+    "_id": "l5cLB0vhLqTxtp49",
+    "index": 7,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 5,
+    "user": "9e7Jg5pEGV9NtCUF",
+    "timestamp": 1645322552968,
+    "flavor": "History Skill Check: Drakronos",
+    "content": "10",
+    "speaker": {
+      "scene": "LgStX53SIYMvpwI3",
+      "token": "iog4W4WFMo76KuBf",
+      "actor": "rlalZ9R1qrub70YS",
+      "alias": "Drakronos"
+    },
+    "whisper": [],
+    "blind": false,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":11,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":10,\"evaluated\":true}",
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    },
+    "_id": "51DrmZQi3ydRkdfv",
+    "index": 8,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 5,
+    "user": "8cK4sVHcbEbHP1Qh",
+    "timestamp": 1645322687469,
+    "flavor": "History Skill Check: Beemiw",
+    "content": "20",
+    "speaker": {
+      "scene": null,
+      "actor": "FKpCXWIr6NUjuciW",
+      "token": null,
+      "alias": "Beemiw"
+    },
+    "whisper": [],
+    "blind": false,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Beemiw\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":18,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":20,\"evaluated\":true}",
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    },
+    "_id": "EkdKXmEP9kTD1Q6D",
+    "index": 9,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 5,
+    "user": "9e7Jg5pEGV9NtCUF",
+    "timestamp": 1645324103147,
+    "flavor": "Persuasion Skill Check: Drakronos",
+    "content": "25",
+    "speaker": {
+      "scene": "LgStX53SIYMvpwI3",
+      "token": "iog4W4WFMo76KuBf",
+      "actor": "rlalZ9R1qrub70YS",
+      "alias": "Drakronos"
+    },
+    "whisper": [],
+    "blind": false,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Persuasion Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 3 + 4 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":18,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":25,\"evaluated\":true}",
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "per"
+        }
+      }
+    },
+    "_id": "CMd19CKTr8Aq7wuV",
+    "index": 10,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 5,
+    "user": "V8kPqNc8UDOLSvkq",
+    "timestamp": 1645324371063,
+    "flavor": "Investigation Skill Check: Mako",
+    "content": "6",
+    "speaker": {
+      "scene": null,
+      "actor": "hA281AIaEstOBwvW",
+      "token": null,
+      "alias": "Mako"
+    },
+    "whisper": [],
+    "blind": false,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Investigation Skill Check: Mako\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":5,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":6,\"evaluated\":true}",
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "inv"
+        }
+      }
+    },
+    "_id": "5yZr6bYxQ5cTG9cP",
+    "index": 11,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 5,
+    "user": "V8kPqNc8UDOLSvkq",
+    "timestamp": 1645324561146,
+    "flavor": "Charisma Saving Throw: Mako",
+    "content": "20",
+    "speaker": {
+      "scene": null,
+      "actor": "hA281AIaEstOBwvW",
+      "token": null,
+      "alias": "Mako"
+    },
+    "whisper": [],
+    "blind": false,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Charisma Saving Throw: Mako\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 2\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":18,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":20,\"evaluated\":true}",
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "save",
+          "abilityId": "cha"
+        }
+      }
+    },
+    "_id": "BBtGkv0qVbKy2T76",
+    "index": 12,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 5,
+    "user": "9e7Jg5pEGV9NtCUF",
+    "timestamp": 1645325113473,
+    "flavor": "Persuasion Skill Check: Drakronos (Disadvantage)",
+    "content": "16",
+    "speaker": {
+      "scene": "stMMgY3oYrzMtape",
+      "actor": "rlalZ9R1qrub70YS",
+      "token": null,
+      "alias": "Drakronos"
+    },
+    "whisper": [],
+    "blind": false,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Persuasion Skill Check: Drakronos\",\"advantageMode\":-1,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"2d20kl + 3 + 4 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1,\"disadvantage\":true},\"evaluated\":true,\"number\":2,\"faces\":20,\"modifiers\":[\"kl\"],\"results\":[{\"result\":9,\"active\":true},{\"result\":16,\"active\":false,\"discarded\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":16,\"evaluated\":true}",
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "per"
+        }
+      }
+    },
+    "_id": "XRne4HFdxwy7DDiV",
+    "index": 13,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 1,
+    "user": "hpSkFBSeIKa9OPHh",
+    "timestamp": 1645326062169,
+    "flavor": "",
+    "content": "<div class=\"chat-images-container\"><img src=\"https://www.tribality.com/wp-content/uploads/2020/08/guilherme-batista-dredge-roc-phrixel-guilherme-batista21-796x1024.jpg\" /></div>",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null
+    },
+    "whisper": [],
+    "blind": false,
+    "emote": false,
+    "flags": {},
+    "_id": "VKOqUrvS9ONB4u6q",
+    "index": 14,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 5,
+    "user": "9e7Jg5pEGV9NtCUF",
+    "timestamp": 1645328416912,
+    "flavor": "Animal Handling Skill Check: Drakronos",
+    "content": "13",
+    "speaker": {
+      "scene": "0orvTxQEbOIh0nZj",
+      "token": "USvnWAnCjXdja1Cg",
+      "actor": "rlalZ9R1qrub70YS",
+      "alias": "Drakronos"
+    },
+    "whisper": [],
+    "blind": false,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Animal Handling Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 8 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":8},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":13,\"evaluated\":true}",
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "ani"
+        }
+      }
+    },
+    "_id": "s4YwwkTJv6cgfywC",
+    "index": 15,
+    "source": "dndbeyond"
+  },
+  {
+    "type": 0,
+    "user": "sPsiPwiHafJVnEJl",
+    "timestamp": 1654819027361,
+    "flavor": "",
+    "content": "<div class=\"dice-so-nice\">\n    <p>It seems like you're using 3D dice for the first time in this world.</p>\n    <p>You can configure (or disable) your 3D dice by clicking this button:</p>\n    <p><button type=\"button\" class=\"dice-so-nice-btn-settings\" data-key=\"dice-so-nice.dice-so-nice\"><i class=\"fas fa-dice-d20\"></i> My Dice Settings</button></p>\n    <p>You can always change these settings later under 'Configure Settings &gt; Module Settings &gt; Dice So Nice!'</p>\n    <p>You won't see this message again. Happy rolling!</p>\n</div>",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": ""
+    },
+    "whisper": [
+      "sPsiPwiHafJVnEJl"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "2SC4u2lfaA4BDYyR",
+    "rolls": [],
+    "sound": null,
+    "index": 0,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 0,
+    "user": "WVC37DsHp83fbTi9",
+    "timestamp": 1654986366242,
+    "flavor": "",
+    "content": "<div class=\"dice-so-nice\">\n    <p>It seems like you're using 3D dice for the first time in this world.</p>\n    <p>You can configure (or disable) your 3D dice by clicking this button:</p>\n    <p><button type=\"button\" class=\"dice-so-nice-btn-settings\" data-key=\"dice-so-nice.dice-so-nice\"><i class=\"fas fa-dice-d20\"></i> My Dice Settings</button></p>\n    <p>You can always change these settings later under 'Configure Settings &gt; Module Settings &gt; Dice So Nice!'</p>\n    <p>You won't see this message again. Happy rolling!</p>\n</div>",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": ""
+    },
+    "whisper": [
+      "WVC37DsHp83fbTi9"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "I2nt1Dwp3pnUvRfM",
+    "rolls": [],
+    "sound": null,
+    "index": 1,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 0,
+    "user": "MfhgSxB0d8AkVDnv",
+    "timestamp": 1654988018903,
+    "flavor": "",
+    "content": "<div class=\"dice-so-nice\">\n    <p>It seems like you're using 3D dice for the first time in this world.</p>\n    <p>You can configure (or disable) your 3D dice by clicking this button:</p>\n    <p><button type=\"button\" class=\"dice-so-nice-btn-settings\" data-key=\"dice-so-nice.dice-so-nice\"><i class=\"fas fa-dice-d20\"></i> My Dice Settings</button></p>\n    <p>You can always change these settings later under 'Configure Settings &gt; Module Settings &gt; Dice So Nice!'</p>\n    <p>You won't see this message again. Happy rolling!</p>\n</div>",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": ""
+    },
+    "whisper": [
+      "MfhgSxB0d8AkVDnv"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "KrWZnSYClE0BAKzi",
+    "rolls": [],
+    "sound": null,
+    "index": 2,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 0,
+    "user": "jraF8tCTmuTSNOex",
+    "timestamp": 1654988360828,
+    "flavor": "",
+    "content": "<div class=\"dice-so-nice\">\n    <p>It seems like you're using 3D dice for the first time in this world.</p>\n    <p>You can configure (or disable) your 3D dice by clicking this button:</p>\n    <p><button type=\"button\" class=\"dice-so-nice-btn-settings\" data-key=\"dice-so-nice.dice-so-nice\"><i class=\"fas fa-dice-d20\"></i> My Dice Settings</button></p>\n    <p>You can always change these settings later under 'Configure Settings &gt; Module Settings &gt; Dice So Nice!'</p>\n    <p>You won't see this message again. Happy rolling!</p>\n</div>",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": ""
+    },
+    "whisper": [
+      "jraF8tCTmuTSNOex"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "7VxsBflVPZosI4rH",
+    "rolls": [],
+    "sound": null,
+    "index": 3,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 0,
+    "user": "ZIwJ6nxKgSIqkVa5",
+    "timestamp": 1654988365593,
+    "flavor": "",
+    "content": "<div class=\"dice-so-nice\">\n    <p>It seems like you're using 3D dice for the first time in this world.</p>\n    <p>You can configure (or disable) your 3D dice by clicking this button:</p>\n    <p><button type=\"button\" class=\"dice-so-nice-btn-settings\" data-key=\"dice-so-nice.dice-so-nice\"><i class=\"fas fa-dice-d20\"></i> My Dice Settings</button></p>\n    <p>You can always change these settings later under 'Configure Settings &gt; Module Settings &gt; Dice So Nice!'</p>\n    <p>You won't see this message again. Happy rolling!</p>\n</div>",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": ""
+    },
+    "whisper": [
+      "ZIwJ6nxKgSIqkVa5"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "f2Un8cjldy57OVpk",
+    "rolls": [],
+    "sound": null,
+    "index": 4,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 0,
+    "user": "jrL3QH9t5yFyyvvJ",
+    "timestamp": 1654988765440,
+    "flavor": "",
+    "content": "<div class=\"dice-so-nice\">\n    <p>It seems like you're using 3D dice for the first time in this world.</p>\n    <p>You can configure (or disable) your 3D dice by clicking this button:</p>\n    <p><button type=\"button\" class=\"dice-so-nice-btn-settings\" data-key=\"dice-so-nice.dice-so-nice\"><i class=\"fas fa-dice-d20\"></i> My Dice Settings</button></p>\n    <p>You can always change these settings later under 'Configure Settings &gt; Module Settings &gt; Dice So Nice!'</p>\n    <p>You won't see this message again. Happy rolling!</p>\n</div>",
+    "speaker": {
+      "scene": null,
+      "actor": null,
+      "token": null,
+      "alias": ""
+    },
+    "whisper": [
+      "jrL3QH9t5yFyyvvJ"
+    ],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "FynEzQPSiybl6NhY",
+    "rolls": [],
+    "sound": null,
+    "index": 5,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 5,
+    "user": "jrL3QH9t5yFyyvvJ",
+    "timestamp": 1654991490524,
+    "flavor": "Uses Elixir of Life (Minor)",
+    "content": "1",
+    "speaker": {
+      "scene": "zE3l6RusZJwBrzdv",
+      "token": "5tm6GIsjxFSkfd0B",
+      "actor": "J0DY5IQjElyWZzEk",
+      "alias": "Beemiw"
+    },
+    "whisper": [],
+    "blind": false,
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "ESOlyyB5TcJMnWN3",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":6,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+    ],
+    "index": 6,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 5,
+    "user": "jrL3QH9t5yFyyvvJ",
+    "timestamp": 1654991498949,
+    "flavor": "Uses Elixir of Life (Minor)",
+    "content": "1",
+    "speaker": {
+      "scene": "zE3l6RusZJwBrzdv",
+      "token": "5tm6GIsjxFSkfd0B",
+      "actor": "J0DY5IQjElyWZzEk",
+      "alias": "Beemiw"
+    },
+    "whisper": [],
+    "blind": false,
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "jSlRC0hxundaZso8",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":6,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+    ],
+    "index": 7,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 3,
+    "user": "jrL3QH9t5yFyyvvJ",
+    "timestamp": 1654991524102,
+    "flavor": "",
+    "content": "<p>Beemiw is healed for 1 damage.</p>",
+    "speaker": {
+      "alias": "Beemiw",
+      "token": "5tm6GIsjxFSkfd0B",
+      "scene": null,
+      "actor": null
+    },
+    "whisper": [],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "r2vsMI3X9twjuvtB",
+    "rolls": [],
+    "sound": null,
+    "index": 8,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 3,
+    "user": "jrL3QH9t5yFyyvvJ",
+    "timestamp": 1654991527552,
+    "flavor": "",
+    "content": "<p>Beemiw is healed for 1 damage.</p>",
+    "speaker": {
+      "alias": "Beemiw",
+      "token": "5tm6GIsjxFSkfd0B",
+      "scene": null,
+      "actor": null
+    },
+    "whisper": [],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "V705cxhsL69UhX5h",
+    "rolls": [],
+    "sound": null,
+    "index": 9,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 5,
+    "user": "jrL3QH9t5yFyyvvJ",
+    "timestamp": 1654994433079,
+    "flavor": "<h4 class=\"action\">Reflex Saving Throw</h4><div class=\"tags\"><span class=\"tag tag_alt\">Dexterity +4</span><span class=\"tag tag_alt\">Expert +6</span></div>",
+    "content": "19",
+    "speaker": {
+      "scene": "zE3l6RusZJwBrzdv",
+      "token": "MOyNt2uzhwDfNk1g",
+      "actor": "6F6kxetBGIktwz6W",
+      "alias": "Mako"
+    },
+    "whisper": [],
+    "blind": false,
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "6F6kxetBGIktwz6W",
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "self:type:character",
+            "self:level:2",
+            "feature:rogues-racket",
+            "feature:sneak-attack",
+            "feature:surprise-attack",
+            "class:rogue",
+            "feature:eldritch-trickster",
+            "feat:witch-dedication",
+            "feature:patron",
+            "feature:ocean-patron",
+            "self:heritage:skilled-heritage",
+            "feat:experienced-smuggler",
+            "self:ancestry:human",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "feat:general-training",
+            "feat:streetwise",
+            "feat:tumble-behind-rogue",
+            "feat:quick-draw",
+            "feat:acrobat-dedication",
+            "feat:skill-training",
+            "feat:cat-fall",
+            "self:mode:living",
+            "perception:rank:2",
+            "ability:str:score:12",
+            "ability:dex:score:18",
+            "ability:con:score:14",
+            "ability:int:score:14",
+            "ability:wis:score:10",
+            "ability:cha:score:12",
+            "skill:acr:rank:2",
+            "skill:arc:rank:1",
+            "skill:ath:rank:1",
+            "skill:cra:rank:1",
+            "skill:dec:rank:1",
+            "skill:dip:rank:1",
+            "skill:itm:rank:1",
+            "skill:med:rank:1",
+            "skill:nat:rank:1",
+            "skill:occ:rank:1",
+            "skill:prf:rank:1",
+            "skill:rel:rank:0",
+            "skill:soc:rank:1",
+            "skill:ste:rank:2",
+            "skill:sur:rank:1",
+            "skill:thi:rank:1",
+            "defense:unarmored:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:0",
+            "defense:heavy:rank:0",
+            "attack:unarmed:rank:1",
+            "attack:simple:rank:1",
+            "attack:martial:rank:0",
+            "attack:advanced:rank:0",
+            "save:fortitude:rank:1",
+            "save:reflex:rank:2",
+            "save:will:rank:2",
+            "hands-free:1",
+            "hands-free:but-really:1",
+            "self:caster",
+            "self:armored",
+            "self:trait:amphibious",
+            "self:size:1",
+            "self:size:small",
+            "self:has-familiar",
+            "proficiency:expert"
+          ],
+          "type": "saving-throw",
+          "secret": false,
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [],
+          "rollMode": "publicroll",
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Reflex Saving Throw</h4><div class=\"tags\"><span class=\"tag tag_alt\">Dexterity +4</span><span class=\"tag tag_alt\">Expert +6</span></div>",
+        "modifierName": "Reflex Saving Throw",
+        "modifiers": [
+          {
+            "label": "Dexterity",
+            "slug": "dex",
+            "modifier": 4,
+            "type": "ability",
+            "ability": "dex",
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          },
+          {
+            "label": "Expert",
+            "slug": "expert",
+            "modifier": 6,
+            "type": "proficiency",
+            "ability": null,
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          }
+        ],
+        "origin": null
+      }
+    },
+    "_id": "gGMxo9Bw5MNIYJLK",
+    "rolls": [
+      "{\"class\":\"CheckRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 10\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":9,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":10}],\"total\":19,\"evaluated\":true,\"data\":{\"isReroll\":false,\"rollerId\":\"jrL3QH9t5yFyyvvJ\"}}"
+    ],
+    "index": 10,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 5,
+    "user": "jrL3QH9t5yFyyvvJ",
+    "timestamp": 1654995958449,
+    "flavor": "<h4 class=\"action\">Skill Check: Arcana</h4><div class=\"tags\"><span class=\"tag tag_alt\">Intelligence +2</span><span class=\"tag tag_alt\">Trained +4</span></div>",
+    "content": "26",
+    "speaker": {
+      "scene": "zE3l6RusZJwBrzdv",
+      "token": "5tm6GIsjxFSkfd0B",
+      "actor": "J0DY5IQjElyWZzEk",
+      "alias": "Beemiw"
+    },
+    "whisper": [],
+    "blind": false,
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "J0DY5IQjElyWZzEk",
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "self:type:character",
+            "self:level:2",
+            "self:ancestry:cambion",
+            "self:trait:fiend",
+            "self:trait:humanoid",
+            "feat:fiend-wings",
+            "feat:fiendish-wings",
+            "feat:relentless-wings",
+            "feature:druidic-order",
+            "feature:anathema-druid",
+            "feature:druidic-language",
+            "feature:primal-spellcasting",
+            "feature:shield-block",
+            "feature:wild-empathy",
+            "class:druid",
+            "feature:storm-order",
+            "feat:storm-born",
+            "feat:shield-block",
+            "self:heritage:tiefling",
+            "feat:dubious-knowledge",
+            "feat:widen-spell",
+            "feat:arcane-tattoos",
+            "feat:poisoner-dedication",
+            "feat:alchemical-crafting",
+            "feat:assurance-medicine",
+            "self:condition:encumbered",
+            "self:condition:clumsy",
+            "crafting:entry:poisoner",
+            "self:mode:living",
+            "perception:rank:1",
+            "ability:str:score:12",
+            "ability:dex:score:12",
+            "ability:con:score:14",
+            "ability:int:score:14",
+            "ability:wis:score:18",
+            "ability:cha:score:10",
+            "skill:acr:rank:1",
+            "skill:arc:rank:1",
+            "skill:ath:rank:1",
+            "skill:cra:rank:1",
+            "skill:dec:rank:0",
+            "skill:dip:rank:0",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:1",
+            "skill:occ:rank:1",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:0",
+            "skill:sur:rank:0",
+            "skill:thi:rank:0",
+            "defense:unarmored:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:heavy:rank:0",
+            "attack:unarmed:rank:1",
+            "attack:simple:rank:1",
+            "attack:martial:rank:0",
+            "attack:advanced:rank:0",
+            "save:fortitude:rank:1",
+            "save:reflex:rank:1",
+            "save:will:rank:2",
+            "hands-free:2",
+            "hands-free:but-really:2",
+            "self:caster",
+            "self:armored",
+            "self:trait:tiefling",
+            "self:size:2",
+            "self:size:medium",
+            "self:armor:strength-requirement-met"
+          ],
+          "type": "skill-check",
+          "secret": false,
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [],
+          "rollMode": "publicroll",
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Skill Check: Arcana</h4><div class=\"tags\"><span class=\"tag tag_alt\">Intelligence +2</span><span class=\"tag tag_alt\">Trained +4</span></div>",
+        "modifierName": "Skill Check: Arcana",
+        "modifiers": [
+          {
+            "label": "Intelligence",
+            "slug": "int",
+            "modifier": 2,
+            "type": "ability",
+            "ability": "int",
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          },
+          {
+            "label": "Trained",
+            "slug": "trained",
+            "modifier": 4,
+            "type": "proficiency",
+            "ability": null,
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          }
+        ],
+        "origin": null
+      }
+    },
+    "_id": "nua0lYpvqp0ym6nd",
+    "rolls": [
+      "{\"class\":\"CheckRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":20,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":6}],\"total\":26,\"evaluated\":true,\"data\":{\"isReroll\":false,\"rollerId\":\"jrL3QH9t5yFyyvvJ\"}}"
+    ],
+    "index": 11,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 5,
+    "user": "MfhgSxB0d8AkVDnv",
+    "timestamp": 1654996909958,
+    "flavor": "<h4 class=\"action\">Skill Check: Diplomacy</h4><div class=\"tags\"><span class=\"tag tag_alt\">Charisma +1</span><span class=\"tag tag_alt\">Trained +4</span></div>",
+    "content": "9",
+    "speaker": {
+      "scene": "lYR8RAToe3M63Tew",
+      "token": "8JP9TjXeazMXuakj",
+      "actor": "qmyiCiXjmBhVZ2rE",
+      "alias": "Drakronos"
+    },
+    "whisper": [],
+    "blind": false,
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "qmyiCiXjmBhVZ2rE",
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "self:type:character",
+            "self:level:2",
+            "self:ancestry:human",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "self:heritage:half-elf",
+            "feat:survey-wildlife",
+            "feature:hunters-edge",
+            "feature:hunt-prey",
+            "class:ranger",
+            "feature:flurry",
+            "feat:elven-weapon-familiarity",
+            "feat:animal-companion-ranger",
+            "feat:heal-companion",
+            "feat:beastmaster-dedication",
+            "feat:intimidating-glare",
+            "self:shield:equipped",
+            "self:condition:encumbered",
+            "self:condition:clumsy",
+            "grants-hunt-prey:1",
+            "self:mode:living",
+            "perception:rank:2",
+            "ability:str:score:18",
+            "ability:dex:score:14",
+            "ability:con:score:14",
+            "ability:int:score:12",
+            "ability:wis:score:10",
+            "ability:cha:score:12",
+            "skill:acr:rank:1",
+            "skill:arc:rank:0",
+            "skill:ath:rank:1",
+            "skill:cra:rank:0",
+            "skill:dec:rank:0",
+            "skill:dip:rank:1",
+            "skill:itm:rank:1",
+            "skill:med:rank:0",
+            "skill:nat:rank:1",
+            "skill:occ:rank:0",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:1",
+            "skill:sur:rank:1",
+            "skill:thi:rank:1",
+            "defense:unarmored:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:heavy:rank:0",
+            "attack:unarmed:rank:1",
+            "attack:simple:rank:1",
+            "attack:martial:rank:1",
+            "attack:advanced:rank:0",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:1",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "self:trait:half-elf",
+            "self:caster",
+            "self:armored",
+            "self:trait:elf",
+            "self:size:2",
+            "self:size:medium",
+            "self:armor:strength-requirement-met"
+          ],
+          "type": "skill-check",
+          "secret": false,
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [],
+          "rollMode": "publicroll",
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Skill Check: Diplomacy</h4><div class=\"tags\"><span class=\"tag tag_alt\">Charisma +1</span><span class=\"tag tag_alt\">Trained +4</span></div>",
+        "modifierName": "Skill Check: Diplomacy",
+        "modifiers": [
+          {
+            "label": "Charisma",
+            "slug": "cha",
+            "modifier": 1,
+            "type": "ability",
+            "ability": "cha",
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          },
+          {
+            "label": "Trained",
+            "slug": "trained",
+            "modifier": 4,
+            "type": "proficiency",
+            "ability": null,
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          }
+        ],
+        "origin": null
+      }
+    },
+    "_id": "EQE2vDqHxDIkZtMi",
+    "rolls": [
+      "{\"class\":\"CheckRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 5\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":5}],\"total\":9,\"evaluated\":true,\"data\":{\"isReroll\":false,\"rollerId\":\"MfhgSxB0d8AkVDnv\"}}"
+    ],
+    "index": 12,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 0,
+    "user": "WVC37DsHp83fbTi9",
+    "timestamp": 1654996989475,
+    "flavor": "",
+    "content": "<span data-visibility=\"all\"></span> <span data-pf2-action=\"createADiversion\" data-pf2-glyph=\"A\" data-pf2-variant=\"distracting-words\">distracting words<i class=\"fas fa-comment-alt\" data-pf2-repost title=\"Post to Chat\"></i></span>",
+    "speaker": {
+      "scene": "lYR8RAToe3M63Tew",
+      "token": "8JP9TjXeazMXuakj",
+      "actor": "qmyiCiXjmBhVZ2rE",
+      "alias": "Drakronos"
+    },
+    "whisper": [],
+    "blind": false,
+    "emote": false,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "_id": "tBgebkEuIp7K0atv",
+    "rolls": [],
+    "sound": null,
+    "index": 13,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 5,
+    "user": "MfhgSxB0d8AkVDnv",
+    "timestamp": 1654996996543,
+    "flavor": "<h4 class=\"action\">Skill Check: Deception</h4><div class=\"tags\"><span class=\"tag tag_alt\">Charisma +1</span><span class=\"tag tag_alt\">Untrained +0</span></div>",
+    "content": "5",
+    "speaker": {
+      "scene": "lYR8RAToe3M63Tew",
+      "token": "8JP9TjXeazMXuakj",
+      "actor": "qmyiCiXjmBhVZ2rE",
+      "alias": "Drakronos"
+    },
+    "whisper": [],
+    "blind": false,
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "qmyiCiXjmBhVZ2rE",
+          "target": null,
+          "dc": null,
+          "notes": [],
+          "options": [
+            "self:type:character",
+            "self:level:2",
+            "self:ancestry:human",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "self:heritage:half-elf",
+            "feat:survey-wildlife",
+            "feature:hunters-edge",
+            "feature:hunt-prey",
+            "class:ranger",
+            "feature:flurry",
+            "feat:elven-weapon-familiarity",
+            "feat:animal-companion-ranger",
+            "feat:heal-companion",
+            "feat:beastmaster-dedication",
+            "feat:intimidating-glare",
+            "self:shield:equipped",
+            "self:condition:encumbered",
+            "self:condition:clumsy",
+            "grants-hunt-prey:1",
+            "self:mode:living",
+            "perception:rank:2",
+            "ability:str:score:18",
+            "ability:dex:score:14",
+            "ability:con:score:14",
+            "ability:int:score:12",
+            "ability:wis:score:10",
+            "ability:cha:score:12",
+            "skill:acr:rank:1",
+            "skill:arc:rank:0",
+            "skill:ath:rank:1",
+            "skill:cra:rank:0",
+            "skill:dec:rank:0",
+            "skill:dip:rank:1",
+            "skill:itm:rank:1",
+            "skill:med:rank:0",
+            "skill:nat:rank:1",
+            "skill:occ:rank:0",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:1",
+            "skill:sur:rank:1",
+            "skill:thi:rank:1",
+            "defense:unarmored:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:heavy:rank:0",
+            "attack:unarmed:rank:1",
+            "attack:simple:rank:1",
+            "attack:martial:rank:1",
+            "attack:advanced:rank:0",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:1",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "self:trait:half-elf",
+            "self:caster",
+            "self:armored",
+            "self:trait:elf",
+            "self:size:2",
+            "self:size:medium",
+            "self:armor:strength-requirement-met"
+          ],
+          "type": "skill-check",
+          "secret": false,
+          "skipDialog": false,
+          "rollTwice": false,
+          "substitutions": [],
+          "rollMode": "publicroll",
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "traits": [],
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Skill Check: Deception</h4><div class=\"tags\"><span class=\"tag tag_alt\">Charisma +1</span><span class=\"tag tag_alt\">Untrained +0</span></div>",
+        "modifierName": "Skill Check: Deception",
+        "modifiers": [
+          {
+            "label": "Charisma",
+            "slug": "cha",
+            "modifier": 1,
+            "type": "ability",
+            "ability": "cha",
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          },
+          {
+            "label": "Untrained",
+            "slug": "untrained",
+            "modifier": 0,
+            "type": "proficiency",
+            "ability": null,
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          }
+        ],
+        "origin": null
+      }
+    },
+    "_id": "vI10EeoNRaZELD1W",
+    "rolls": [
+      "{\"class\":\"CheckRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1}],\"total\":5,\"evaluated\":true,\"data\":{\"isReroll\":false,\"rollerId\":\"MfhgSxB0d8AkVDnv\"}}"
+    ],
+    "index": 14,
+    "source": "tales-of-kylar"
+  },
+  {
+    "type": 5,
+    "user": "WVC37DsHp83fbTi9",
+    "timestamp": 1654997023238,
+    "flavor": "Dexterity Check",
+    "content": "10",
+    "speaker": {
+      "scene": "lYR8RAToe3M63Tew",
+      "actor": "SwXMqEZChmxYc9Zy",
+      "token": null,
+      "alias": "Benesek Troowlard"
+    },
+    "whisper": [
+      "sPsiPwiHafJVnEJl",
+      "WVC37DsHp83fbTi9"
+    ],
+    "blind": false,
+    "sound": "sounds/dice.wav",
+    "emote": false,
+    "flags": {
+      "pf2e": {
+        "context": {
+          "type": ""
+        },
+        "origin": null
+      },
+      "core": {}
+    },
+    "_id": "IuGosPQoohJlxVXW",
+    "rolls": [
+      "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 3\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3}],\"total\":10,\"evaluated\":true}"
+    ],
+    "index": 15,
+    "source": "tales-of-kylar"
+  }
+]

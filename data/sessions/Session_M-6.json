@@ -1,0 +1,346 @@
+[
+  {
+    "timestamp": 1645319782885,
+    "name": "Drakronos",
+    "flavor": "History Skill Check: Drakronos",
+    "content": null,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":0,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645319816403,
+    "name": "Mako",
+    "flavor": "History Skill Check: Mako",
+    "content": "17",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Mako\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":18,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":17,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645319876334,
+    "name": "Beemiw",
+    "flavor": "History Skill Check: Beemiw",
+    "content": "5",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Beemiw\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":5,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645319903235,
+    "name": "Aketo",
+    "flavor": "History Skill Check: Aketo",
+    "content": "11",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Aketo\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 3 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":11,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645319922814,
+    "name": "Vickyan",
+    "flavor": "History Skill Check: Vickyan",
+    "content": "7",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Vickyan\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 1 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":7,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645319943086,
+    "name": "44815051",
+    "flavor": "History",
+    "content": "19",
+    "roll": "{\"diceNotationStr\":\"1d20+3\",\"result\":\"16+3\",\"values\":[16],\"total\":19,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1645320410742,
+    "name": "Gamemaster",
+    "flavor": "Item Piles",
+    "content": "<div class=\"item-piles-chat-card\" data-trade-id=\"phfcpxkr0vep6q482ztg6kate75wv8hw\">\n\n    <div class=\"item-piles-chat-card-title item-piles-bottom-divider\">\n        <p>\n            <img src=\"ddb-images/characters/Mako.jpeg\" title=\"Mako\" height=\"32\" />\n            <i class=\"fas fa-handshake\"></i> <img src=\"Goblin%20Alchemist%20without%20shadow.png\" title=\"Aketo\" height=\"32\" />\n        </p>\n        <p style=\"margin:0\">Mako and Aketo started a trade.</p>\n    </div>\n\n    <p>Click the button below to spectate:</p>\n\n    <button type=\"button\" class=\"item-piles-specate-trade\" data-trade-user=\"lmpFiJtQJ7w517Mz\" data-trade-id=\"phfcpxkr0vep6q482ztg6kate75wv8hw\">\n        Spectate Trade\n    </button>\n\n</div>",
+    "roll": null,
+    "flags": {
+      "item-piles": {
+        "publicTradeId": "phfcpxkr0vep6q482ztg6kate75wv8hw",
+        "tradeUsers": [
+          "lmpFiJtQJ7w517Mz",
+          "9e7Jg5pEGV9NtCUF"
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": 1645320647648,
+    "name": "Drakronos",
+    "flavor": "Deception Skill Check: Drakronos (Disadvantage)",
+    "content": "17",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Deception Skill Check: Drakronos\",\"advantageMode\":-1,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"2d20kl + 3 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1,\"disadvantage\":true},\"evaluated\":true,\"number\":2,\"faces\":20,\"modifiers\":[\"kl\"],\"results\":[{\"result\":16,\"active\":false,\"discarded\":true},{\"result\":14,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":17,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "dec"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645322450922,
+    "name": "Drakronos",
+    "flavor": "History Skill Check: Drakronos",
+    "content": "1",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":1,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645322552968,
+    "name": "Drakronos",
+    "flavor": "History Skill Check: Drakronos",
+    "content": "10",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":11,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":10,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645322687469,
+    "name": "Beemiw",
+    "flavor": "History Skill Check: Beemiw",
+    "content": "20",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Beemiw\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":18,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":20,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645324103147,
+    "name": "Drakronos",
+    "flavor": "Persuasion Skill Check: Drakronos",
+    "content": "25",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Persuasion Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 3 + 4 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":18,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":25,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "per"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645324371063,
+    "name": "Mako",
+    "flavor": "Investigation Skill Check: Mako",
+    "content": "6",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Investigation Skill Check: Mako\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":5,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":6,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "inv"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645324561146,
+    "name": "Mako",
+    "flavor": "Charisma Saving Throw: Mako",
+    "content": "20",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Charisma Saving Throw: Mako\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 2\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":18,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":20,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "save",
+          "abilityId": "cha"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645325113473,
+    "name": "Drakronos",
+    "flavor": "Persuasion Skill Check: Drakronos (Disadvantage)",
+    "content": "16",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Persuasion Skill Check: Drakronos\",\"advantageMode\":-1,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"2d20kl + 3 + 4 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1,\"disadvantage\":true},\"evaluated\":true,\"number\":2,\"faces\":20,\"modifiers\":[\"kl\"],\"results\":[{\"result\":9,\"active\":true},{\"result\":16,\"active\":false,\"discarded\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":16,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "per"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645326062169,
+    "name": "hpSkFBSeIKa9OPHh",
+    "flavor": "",
+    "content": "<div class=\"chat-images-container\"><img src=\"https://www.tribality.com/wp-content/uploads/2020/08/guilherme-batista-dredge-roc-phrixel-guilherme-batista21-796x1024.jpg\" /></div>",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1645328416912,
+    "name": "Drakronos",
+    "flavor": "Animal Handling Skill Check: Drakronos",
+    "content": "13",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Animal Handling Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 8 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":8},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":13,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "ani"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645328507448,
+    "name": "Mako",
+    "flavor": "Charisma Ability Check: Mako",
+    "content": "17",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Charisma Ability Check: Mako\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 2\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":15,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":17,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "ability",
+          "abilityId": "cha"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645328648318,
+    "name": "Beemiw",
+    "flavor": "Arcana Skill Check: Beemiw (Advantage)",
+    "content": "18",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Arcana Skill Check: Beemiw\",\"advantageMode\":1,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"2d20kh + 2 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1,\"advantage\":true},\"evaluated\":true,\"number\":2,\"faces\":20,\"modifiers\":[\"kh\"],\"results\":[{\"result\":14,\"active\":true},{\"result\":10,\"active\":false,\"discarded\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":18,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "arc"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645328807605,
+    "name": "Mako",
+    "flavor": "Short Rest (1 hour)",
+    "content": "Mako takes a short rest.",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1645328820277,
+    "name": "Drakronos",
+    "flavor": "Roll Hit Dice: Drakronos",
+    "content": "6",
+    "roll": "{\"class\":\"DamageRoll\",\"options\":{\"flavor\":\"Roll Hit Dice: Drakronos\",\"critical\":false,\"multiplyNumeric\":false,\"powerfulCritical\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d10 +  - 2\",\"terms\":[{\"class\":\"Die\",\"options\":{\"baseNumber\":1},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":6,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "hitDie"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645328826895,
+    "name": "Beemiw",
+    "flavor": "Short Rest (1 hour)",
+    "content": "Beemiw takes a short rest.",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1645328856428,
+    "name": "Aketo",
+    "flavor": "Short Rest (1 hour)",
+    "content": "Aketo takes a short rest.",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1645328861149,
+    "name": "Drakronos",
+    "flavor": "Short Rest (1 hour)",
+    "content": "Drakronos takes a short rest.",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1645328993172,
+    "name": "Mako",
+    "flavor": "Roll Hit Dice: Mako",
+    "content": "6",
+    "roll": "{\"class\":\"DamageRoll\",\"options\":{\"flavor\":\"Roll Hit Dice: Mako\",\"critical\":false,\"multiplyNumeric\":false,\"powerfulCritical\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d8 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{\"baseNumber\":1},\"evaluated\":true,\"number\":1,\"faces\":8,\"modifiers\":[],\"results\":[{\"result\":5,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1}],\"total\":6,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "hitDie"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1645329067817,
+    "name": "Commoner",
+    "flavor": "",
+    "content": "<a class=\"entity-link content-link\" draggable=\"true\" data-pack=\"dnd5e.items\" data-id=\"0d08g1i5WXnNrCNA\"><i class=\"fas fa-suitcase\"></i> Tinker's Tools</a>",
+    "roll": null,
+    "flags": {
+      "polyglot": {
+        "language": "common"
+      }
+    }
+  }
+]

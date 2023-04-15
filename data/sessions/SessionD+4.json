@@ -1,0 +1,807 @@
+[
+  {
+    "timestamp": 1643501640116,
+    "name": "44817144",
+    "flavor": "History",
+    "content": "10",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643501647716,
+    "name": "65377531",
+    "flavor": "History",
+    "content": "1",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643501657284,
+    "name": "64807668",
+    "flavor": "History",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643501670577,
+    "name": "44815051",
+    "flavor": "History",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643501918863,
+    "name": "64807668",
+    "flavor": "Survival",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643502094108,
+    "name": "64807668",
+    "flavor": "Survival",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643502248071,
+    "name": "44817144",
+    "flavor": "Perception",
+    "content": "20",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643502252413,
+    "name": "64807668",
+    "flavor": "Perception",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643502665319,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643502666438,
+    "name": "44817144",
+    "flavor": "Investigation",
+    "content": "5",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643502683551,
+    "name": "65377531",
+    "flavor": "Perception",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643502689821,
+    "name": "65377531",
+    "flavor": "Investigation",
+    "content": "11",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643502719613,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "5",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643502755114,
+    "name": "65377531",
+    "flavor": "History",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643503005328,
+    "name": "44817144",
+    "flavor": "Investigation",
+    "content": "15",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643503583026,
+    "name": "65377531",
+    "flavor": "Investigation",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643504526201,
+    "name": "65377531",
+    "flavor": "Initiative",
+    "content": "11",
+    "roll": "{\"diceNotationStr\":\"1d20+3\",\"result\":\"8+3\",\"values\":[8],\"total\":11,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1643504537936,
+    "name": "44817144",
+    "flavor": "Initiative",
+    "content": "6",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"5+1\",\"values\":[5],\"total\":6,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1643505209436,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "21",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643505226848,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643505788919,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643505801309,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643506541679,
+    "name": "65377531",
+    "flavor": "Dagger",
+    "content": "23",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643506548170,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "22",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643506553507,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643506706176,
+    "name": "44817144",
+    "flavor": "Investigation",
+    "content": "15",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643506848708,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "3",
+    "roll": "{\"diceNotationStr\":\"1d4\",\"result\":\"3\",\"values\":[3],\"total\":3,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1643506866841,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "12",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643506907914,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643506995762,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643507422773,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "24",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643507429126,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643507443922,
+    "name": "65377531",
+    "flavor": "Sneak Attack",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643508409337,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "15",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643508417579,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643508426057,
+    "name": "65377531",
+    "flavor": "Sneak Attack",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643509312292,
+    "name": "65377531",
+    "flavor": "Investigation",
+    "content": "3",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643509419551,
+    "name": "44817144",
+    "flavor": "Insight",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643510254363,
+    "name": "44817144",
+    "flavor": "Nature",
+    "content": "20",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643510433943,
+    "name": "65377531",
+    "flavor": "Dagger",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643510612776,
+    "name": "44817144",
+    "flavor": "Thorn Whip",
+    "content": "22",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643510619914,
+    "name": "44817144",
+    "flavor": "Thorn Whip",
+    "content": "1",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643510705168,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "25",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643510723755,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "26",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643511446662,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "21",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643511466317,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643511801721,
+    "name": "65377531",
+    "flavor": "Investigation",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643512839385,
+    "name": "65377531",
+    "flavor": "custom",
+    "content": "17",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"17\",\"values\":[17],\"total\":17,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1643513153030,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "21",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643513160337,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643513323451,
+    "name": "44815051",
+    "flavor": "Strength",
+    "content": "11",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643513409128,
+    "name": "44817144",
+    "flavor": "Athletics",
+    "content": "5",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643513673808,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "23",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643513682262,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643515033955,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643515474399,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "7",
+    "roll": "{\"diceNotationStr\":\"2d4\",\"result\":\"3+4\",\"values\":[3,4],\"total\":7,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1643515742093,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643515805222,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643516249299,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643516259148,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643516304249,
+    "name": "65377531",
+    "flavor": "custom",
+    "content": "6",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"6\",\"values\":[6],\"total\":6,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1643516562898,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "1",
+    "roll": "{\"diceNotationStr\":\"1d4\",\"result\":\"1\",\"values\":[1],\"total\":1,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1643516633585,
+    "name": "44817144",
+    "flavor": "Cure Wounds",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643516777932,
+    "name": "44815051",
+    "flavor": "custom",
+    "content": "5",
+    "roll": "{\"diceNotationStr\":\"2d4\",\"result\":\"2+3\",\"values\":[2,3],\"total\":5,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1643517617318,
+    "name": "65377531",
+    "flavor": "custom",
+    "content": "4",
+    "roll": "{\"diceNotationStr\":\"1d4\",\"result\":\"4\",\"values\":[4],\"total\":4,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1643517642178,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "24",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643517647584,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643517802502,
+    "name": "44817144",
+    "flavor": "Shortbow",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643517852010,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "22",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643517857233,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "13",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643518279788,
+    "name": "65377531",
+    "flavor": "Dagger",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643518284641,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "11",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643518384265,
+    "name": "64807668",
+    "flavor": "Wisdom",
+    "content": "1",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643518521302,
+    "name": "44817144",
+    "flavor": "Shortbow",
+    "content": "12",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643518620463,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "21",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643518628008,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643518639887,
+    "name": "44817144",
+    "flavor": "Dagger",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643518687803,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "17",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643518698657,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643518974563,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "7",
+    "roll": "{\"diceNotationStr\":\"2d4\",\"result\":\"4+3\",\"values\":[4,3],\"total\":7,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1643519235850,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "12",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643519358390,
+    "name": "44817144",
+    "flavor": "Strength",
+    "content": "21",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643519408294,
+    "name": "44817144",
+    "flavor": "Investigation",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643519488508,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643519500162,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "19",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643519506596,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "10",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643520012089,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "4",
+    "roll": "{\"diceNotationStr\":\"2d4\",\"result\":\"1+3\",\"values\":[1,3],\"total\":4,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1643520274544,
+    "name": "65377531",
+    "flavor": "Dagger",
+    "content": "13",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643520535882,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "5",
+    "roll": "{\"diceNotationStr\":\"2d4\",\"result\":\"1+4\",\"values\":[1,4],\"total\":5,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1643520709214,
+    "name": "65377531",
+    "flavor": "Shortsword",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643520716496,
+    "name": "65377531",
+    "flavor": "Shortsword",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643520720298,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "7",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"7\",\"values\":[7],\"total\":7,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1643520725127,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "19",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643520734086,
+    "name": "44817144",
+    "flavor": "Shortbow",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643520736940,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "13",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643520881256,
+    "name": "44817144",
+    "flavor": "Shortbow",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643520930060,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521039103,
+    "name": "65377531",
+    "flavor": "Shortsword",
+    "content": "22",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521047718,
+    "name": "65377531",
+    "flavor": "Shortsword",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521055286,
+    "name": "65377531",
+    "flavor": "Sneak Attack",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521192343,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "20",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521199009,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521218404,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521253242,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521258510,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521265633,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521387870,
+    "name": "65377531",
+    "flavor": "History",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521439884,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "19",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521508526,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521547493,
+    "name": "44817144",
+    "flavor": "Survival",
+    "content": "5",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521550496,
+    "name": "64807668",
+    "flavor": "Survival",
+    "content": "12",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521551432,
+    "name": "65377531",
+    "flavor": "Survival",
+    "content": "16",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521709885,
+    "name": "65377531",
+    "flavor": "Investigation",
+    "content": "5",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521720070,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "5",
+    "roll": ""
+  },
+  {
+    "timestamp": 1643521921909,
+    "name": "65377531",
+    "flavor": "Investigation",
+    "content": "0",
+    "roll": ""
+  }
+]

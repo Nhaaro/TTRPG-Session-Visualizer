@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1647197829763,
+    "name": "44815051",
+    "flavor": "Initiative",
+    "content": "16",
+    "roll": "{\"diceNotationStr\":\"1d20+2\",\"result\":\"14+2\",\"values\":[14],\"total\":16,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1647202802990,
+    "name": "44815051",
+    "flavor": "Initiative",
+    "content": "20",
+    "roll": "{\"diceNotationStr\":\"1d20+2\",\"result\":\"18+2\",\"values\":[18],\"total\":20,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1647202823901,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "17",
+    "roll": ""
+  },
+  {
+    "timestamp": 1647202861627,
+    "name": "44815051",
+    "flavor": "custom",
+    "content": "1",
+    "roll": "{\"diceNotationStr\":\"1d4\",\"result\":\"1\",\"values\":[1],\"total\":1,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1647217175865,
+    "name": "44815051",
+    "flavor": "Initiative",
+    "content": "22",
+    "roll": "{\"diceNotationStr\":\"1d20+2\",\"result\":\"20+2\",\"values\":[20],\"total\":22,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1647222995038,
+    "name": "44815051",
+    "flavor": "Survival",
+    "content": "5",
+    "roll": ""
+  }
+]

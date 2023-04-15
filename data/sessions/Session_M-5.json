@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": 1644113466275,
+    "name": "44815051",
+    "flavor": "History",
+    "content": "8",
+    "roll": "{\"diceNotationStr\":\"1d20+3\",\"result\":\"5+3\",\"values\":[5],\"total\":8,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1644113954271,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "5",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"4+1\",\"values\":[4],\"total\":5,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1644114361672,
+    "name": "44815051",
+    "flavor": "Constitution",
+    "content": "12",
+    "roll": "{\"diceNotationStr\":\"1d20+3\",\"result\":\"9+3\",\"values\":[9],\"total\":12,\"rollType\":\"save\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1644114434068,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "7",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"6+1\",\"values\":[6],\"total\":7,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1644114789912,
+    "name": "44815051",
+    "flavor": "Strength",
+    "content": "13",
+    "roll": "{\"diceNotationStr\":\"1d20+5\",\"result\":\"8+5\",\"values\":[8],\"total\":13,\"rollType\":\"save\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1644124618055,
+    "name": "44815051",
+    "flavor": "Initiative",
+    "content": "17",
+    "roll": "{\"diceNotationStr\":\"1d20+2\",\"result\":\"15+2\",\"values\":[15],\"total\":17,\"rollType\":\"roll\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1644125415702,
+    "name": "44815051",
+    "flavor": "History",
+    "content": "16",
+    "roll": "{\"diceNotationStr\":\"1d20+3\",\"result\":\"13+3\",\"values\":[13],\"total\":16,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1644125557886,
+    "name": "44815051",
+    "flavor": "Athletics",
+    "content": "6",
+    "roll": "{\"diceNotationStr\":\"1d20+5\",\"result\":\"1+5\",\"values\":[1],\"total\":6,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1644129168374,
+    "name": "44815051",
+    "flavor": "custom",
+    "content": "3",
+    "roll": "{\"diceNotationStr\":\"1d4\",\"result\":\"3\",\"values\":[3],\"total\":3,\"rollType\":\"roll\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1644130635210,
+    "name": "44815051",
+    "flavor": "Handaxe",
+    "content": "8",
+    "roll": null,
+    "flags": null
+  },
+  {
+    "timestamp": 1644131873028,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "20",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"19+1\",\"values\":[19],\"total\":20,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1644132036662,
+    "name": "44815051",
+    "flavor": "History",
+    "content": "6",
+    "roll": "{\"diceNotationStr\":\"1d20+3\",\"result\":\"3+3\",\"values\":[3],\"total\":6,\"rollType\":\"check\"}",
+    "flags": null
+  }
+]

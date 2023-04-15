@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": 1656222852135,
+    "name": "Drakronos",
+    "flavor": "",
+    "content": "14",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    }
+  },
+  {
+    "timestamp": 1656222874634,
+    "name": "Mako",
+    "flavor": "",
+    "content": "11",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"8d2\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":8,\"faces\":2,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true},{\"result\":1,\"active\":true},{\"result\":1,\"active\":true},{\"result\":1,\"active\":true},{\"result\":2,\"active\":true},{\"result\":1,\"active\":true},{\"result\":2,\"active\":true},{\"result\":1,\"active\":true}]}],\"total\":11,\"evaluated\":true}",
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    }
+  }
+]

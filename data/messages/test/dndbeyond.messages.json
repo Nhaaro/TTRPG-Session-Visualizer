@@ -1,0 +1,855 @@
+[
+  {
+    "id": "a96ec4b4-aae5-47b0-95a2-a4bfadce6d83",
+    "dateTime": "1613267893501",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "web",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 10
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 0
+          },
+          "diceNotationStr": "1d20",
+          "rollType": "roll",
+          "rollKind": "",
+          "result": {
+            "constant": 0,
+            "values": [
+              10
+            ],
+            "total": 10,
+            "text": "10"
+          }
+        }
+      ],
+      "action": "Initiative",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "752b9198-49c5-4906-a793-9f9b0c2f80a0"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atlcffa5IAMCIOw=",
+    "timestamp": 1613267893501
+  },
+  {
+    "id": "151b7694-6f46-46aa-bef3-b46ed46329c2",
+    "dateTime": "1613267926551",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "web",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 16
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 0
+          },
+          "diceNotationStr": "1d20",
+          "rollType": "check",
+          "rollKind": "",
+          "result": {
+            "constant": 0,
+            "values": [
+              16
+            ],
+            "total": 16,
+            "text": "16"
+          }
+        }
+      ],
+      "action": "dex",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "03032b4e-b9ce-4adf-a6d9-0e6e30e0f26c"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613267926551
+  },
+  {
+    "id": "3fc0a0c5-18e9-42dc-944b-3b26316cb05a",
+    "dateTime": "1613267932365",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "web",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 11
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 2
+          },
+          "diceNotationStr": "1d20+2",
+          "rollType": "check",
+          "rollKind": "",
+          "result": {
+            "constant": 2,
+            "values": [
+              11
+            ],
+            "total": 13,
+            "text": "11+2"
+          }
+        }
+      ],
+      "action": "con",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "95c7cc03-4eaa-43b3-a3d9-021cb688fceb"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613267932365
+  },
+  {
+    "id": "7a45bc9f-9cec-4ffc-8d64-8b21efe6f6c8",
+    "dateTime": "1613267988668",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "web",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 14
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 4
+          },
+          "diceNotationStr": "1d20+4",
+          "rollType": "check",
+          "rollKind": "",
+          "result": {
+            "constant": 4,
+            "values": [
+              14
+            ],
+            "total": 18,
+            "text": "14+4"
+          }
+        }
+      ],
+      "action": "Insight",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "781cad85-abfd-4f21-8b48-4462b1e5ac8f"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613267988668
+  },
+  {
+    "id": "9bb4428f-7433-4ddb-bad1-f9b28e5a877b",
+    "dateTime": "1613268003232",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "web",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 5
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 2
+          },
+          "diceNotationStr": "1d20+2",
+          "rollType": "check",
+          "rollKind": "",
+          "result": {
+            "constant": 2,
+            "values": [
+              5
+            ],
+            "total": 7,
+            "text": "5+2"
+          }
+        }
+      ],
+      "action": "Perception",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "4f57e817-b4c5-4580-8859-4f1a2fb11ade"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613268003232
+  },
+  {
+    "id": "dac1673c-820a-4514-a13f-91e62618c8e4",
+    "dateTime": "1613268075728",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "web",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [],
+            "constant": 2
+          },
+          "diceNotationStr": "2",
+          "rollType": "damage",
+          "rollKind": "",
+          "result": {
+            "constant": 2,
+            "total": 2,
+            "values": []
+          }
+        }
+      ],
+      "action": "Unarmed Strike",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "f3da13a2-0d18-4d31-9a99-f498b857d533"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613268075728
+  },
+  {
+    "id": "3db53b24-5619-4fbe-857f-1559a2d5c975",
+    "dateTime": "1613268079472",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "web",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 12
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 3
+          },
+          "diceNotationStr": "1d20+3",
+          "rollType": "to hit",
+          "rollKind": "",
+          "result": {
+            "constant": 3,
+            "values": [
+              12
+            ],
+            "total": 15,
+            "text": "12+3"
+          }
+        }
+      ],
+      "action": "Unarmed Strike",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "e9c0d526-2c8d-4a63-93a6-2e2040701db0"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613268079472
+  },
+  {
+    "id": "f09bdc4d-549d-4947-a48b-1b7f9cde3e04",
+    "dateTime": "1613268081386",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "web",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [],
+            "constant": 2
+          },
+          "diceNotationStr": "2",
+          "rollType": "damage",
+          "rollKind": "",
+          "result": {
+            "constant": 2,
+            "total": 2,
+            "values": []
+          }
+        }
+      ],
+      "action": "Unarmed Strike",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "9cd49509-0842-4a5c-9ed2-4724530f984c"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613268081386
+  },
+  {
+    "id": "0e9df0ca-8220-4f24-aeb4-21e9bb873cb0",
+    "dateTime": "1613268086855",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "web",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d4",
+                    "dieValue": 2
+                  }
+                ],
+                "count": 1,
+                "dieType": "d4",
+                "operation": 0
+              }
+            ],
+            "constant": 1
+          },
+          "diceNotationStr": "1d4+1",
+          "rollType": "damage",
+          "rollKind": "",
+          "result": {
+            "constant": 1,
+            "values": [
+              2
+            ],
+            "total": 3,
+            "text": "2+1"
+          }
+        }
+      ],
+      "action": "Talons",
+      "context": {
+        "entityId": "44773886",
+        "entityType": "character",
+        "name": "Nhaaro's Character"
+      },
+      "setId": "00101",
+      "rollId": "0f4e57a4-8f80-4177-8aea-76d2f59afa3f"
+    },
+    "entityId": "44773886",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "atmJEf1JoAMCLtA=",
+    "timestamp": 1613268086855
+  },
+  {
+    "id": "0082dab7-52de-4bb8-af26-74cfd8d21550",
+    "dateTime": "1613283627958",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "web",
+    "data": {
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 19
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 1
+          },
+          "diceNotationStr": "1d20+1",
+          "rollType": "roll",
+          "rollKind": "",
+          "result": {
+            "constant": 1,
+            "values": [
+              19
+            ],
+            "total": 20,
+            "text": "19+1"
+          }
+        }
+      ],
+      "action": "Initiative",
+      "context": {
+        "entityId": "44775800",
+        "entityType": "character",
+        "name": "Drakronos"
+      },
+      "setId": "00101",
+      "rollId": "228c4c28-b712-413f-b19b-af91da79f6ad"
+    },
+    "entityId": "44775800",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "1771403",
+    "connectionId": "auMefdmwoAMCI5g=",
+    "timestamp": 1613283627958
+  },
+  {
+    "data": {
+      "action": "Dexterity",
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 13
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 1
+          },
+          "rollType": "check",
+          "rollKind": "",
+          "result": {
+            "constant": 1,
+            "values": [
+              13
+            ],
+            "total": 14
+          }
+        }
+      ],
+      "context": {
+        "entityId": "44775800",
+        "entityType": "character"
+      },
+      "setId": "00102",
+      "rollId": "2154550d-6b7c-4159-ae3b-0ac8d2e97847"
+    },
+    "entityId": "44775800",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "gameId",
+    "id": "b14f9c21-9cbd-4eb6-a1c5-a0d5af1e70a2",
+    "dateTime": "1613285874490",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "mobile",
+    "connectionId": "auR5-dA-IAMCIGw=",
+    "timestamp": 1613285874490
+  },
+  {
+    "data": {
+      "action": "Medicine",
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 6
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 0
+          },
+          "rollType": "check",
+          "rollKind": "",
+          "result": {
+            "constant": 0,
+            "values": [
+              6
+            ],
+            "total": 6
+          }
+        }
+      ],
+      "context": {
+        "entityId": "44775800",
+        "entityType": "character"
+      },
+      "setId": "00102",
+      "rollId": "5ba52426-e4d1-4667-bbf4-acbf7e3c9e82"
+    },
+    "entityId": "44775800",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "gameId",
+    "id": "f5dba86a-2212-4e41-92e8-a3d83f2a5f18",
+    "dateTime": "1613285900849",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "mobile",
+    "connectionId": "auR5-dA-IAMCIGw=",
+    "timestamp": 1613285900849
+  },
+  {
+    "data": {
+      "action": "Initiative",
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 18
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 1
+          },
+          "rollType": "roll",
+          "rollKind": "",
+          "result": {
+            "constant": 1,
+            "values": [
+              18
+            ],
+            "total": 19
+          }
+        }
+      ],
+      "context": {
+        "entityId": "44775800",
+        "entityType": "character"
+      },
+      "setId": "00102",
+      "rollId": "4bf519ca-7f58-49c4-a125-75d0e7139ca2"
+    },
+    "entityId": "44775800",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "gameId",
+    "id": "1e101b4c-e821-4e64-bf5f-ca7425d27847",
+    "dateTime": "1613285992349",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "mobile",
+    "connectionId": "auR5-dA-IAMCIGw=",
+    "timestamp": 1613285992349
+  },
+  {
+    "data": {
+      "action": "custom",
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d4",
+                    "dieValue": 4
+                  },
+                  {
+                    "dieType": "d4",
+                    "dieValue": 3
+                  }
+                ],
+                "count": 2,
+                "dieType": "d4",
+                "operation": 0
+              }
+            ],
+            "constant": 0
+          },
+          "rollType": "roll",
+          "rollKind": "",
+          "result": {
+            "constant": 0,
+            "values": [
+              4,
+              3
+            ],
+            "total": 7
+          }
+        }
+      ],
+      "context": {
+        "entityId": "44775800",
+        "entityType": "character"
+      },
+      "setId": "00102",
+      "rollId": "7c9fb711-a5d2-4a46-9d5d-4e5e863e50fc"
+    },
+    "entityId": "44775800",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "gameId",
+    "id": "14200377-ad01-4e9b-9e14-492c3d52585e",
+    "dateTime": "1613286103836",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "mobile",
+    "connectionId": "auR5-dA-IAMCIGw=",
+    "timestamp": 1613286103836
+  },
+  {
+    "data": {
+      "action": "Dagger",
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d4",
+                    "dieValue": 2
+                  }
+                ],
+                "count": 1,
+                "dieType": "d4",
+                "operation": 0
+              }
+            ],
+            "constant": 1
+          },
+          "rollType": "damage",
+          "rollKind": "",
+          "result": {
+            "constant": 1,
+            "values": [
+              2
+            ],
+            "total": 3
+          }
+        }
+      ],
+      "context": {
+        "entityId": "44775800",
+        "entityType": "character"
+      },
+      "setId": "00102",
+      "rollId": "1b2d6ebd-9d96-4c24-9184-cc0d327866ba"
+    },
+    "entityId": "44775800",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "gameId",
+    "id": "d13890bc-ea58-407b-be5d-de12426af915",
+    "dateTime": "1613286228418",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "mobile",
+    "connectionId": "auR5-dA-IAMCIGw=",
+    "timestamp": 1613286228418
+  },
+  {
+    "data": {
+      "action": "Acrobatics",
+      "rolls": [
+        {
+          "diceNotation": {
+            "set": [
+              {
+                "dice": [
+                  {
+                    "dieType": "d20",
+                    "dieValue": 18
+                  }
+                ],
+                "count": 1,
+                "dieType": "d20",
+                "operation": 0
+              }
+            ],
+            "constant": 3
+          },
+          "rollType": "check",
+          "rollKind": "",
+          "result": {
+            "constant": 3,
+            "values": [
+              18
+            ],
+            "total": 21
+          }
+        }
+      ],
+      "context": {
+        "entityId": "44775800",
+        "entityType": "character"
+      },
+      "setId": "00102",
+      "rollId": "74b535ef-a2f5-49f9-a8c4-33edf70aef7c"
+    },
+    "entityId": "44775800",
+    "entityType": "character",
+    "eventType": "dice/roll/fulfilled",
+    "persist": true,
+    "messageScope": "gameId",
+    "messageTarget": "gameId",
+    "id": "0ce48eb9-e189-4fac-8eef-116162be8309",
+    "dateTime": "1613322733744",
+    "gameId": "1771403",
+    "userId": "109642527",
+    "source": "mobile",
+    "connectionId": "avr4ccxRoAMCKvQ=",
+    "timestamp": 1613322733744
+  }
+]

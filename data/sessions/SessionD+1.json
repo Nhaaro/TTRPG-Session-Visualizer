@@ -1,0 +1,933 @@
+[
+  {
+    "timestamp": 1641692016151,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "15",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"15\",\"values\":[15],\"total\":15,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641695584381,
+    "name": "44817144",
+    "flavor": "Investigation",
+    "content": "21",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641695593821,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "15",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641695699122,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "3",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641695741559,
+    "name": "64807668",
+    "flavor": "Survival",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641696999580,
+    "name": "65377531",
+    "flavor": "Perception",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641697057850,
+    "name": "64807668",
+    "flavor": "Perception",
+    "content": "23",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641697744504,
+    "name": "65377531",
+    "flavor": "Stealth",
+    "content": "15",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641698076139,
+    "name": "64807668",
+    "flavor": "Stealth",
+    "content": "15",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641698110296,
+    "name": "65377531",
+    "flavor": "Stealth",
+    "content": "15",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641698121484,
+    "name": "44817144",
+    "flavor": "Stealth",
+    "content": "3",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641698422707,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "3",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641698510055,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "12",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641698653741,
+    "name": "44817144",
+    "flavor": "Initiative",
+    "content": "17",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"16+1\",\"values\":[16],\"total\":17,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641698656411,
+    "name": "65377531",
+    "flavor": "Initiative",
+    "content": "20",
+    "roll": "{\"diceNotationStr\":\"1d20+3\",\"result\":\"17+3\",\"values\":[17],\"total\":20,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641698663031,
+    "name": "64807668",
+    "flavor": "Initiative",
+    "content": "23",
+    "roll": "{\"diceNotationStr\":\"1d20+3\",\"result\":\"20+3\",\"values\":[20],\"total\":23,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641698750073,
+    "name": "Johnathan",
+    "flavor": "Initiative",
+    "content": "11",
+    "roll": "{\"diceNotationStr\":\"1d20+3\",\"result\":\"8+3\",\"values\":[8],\"total\":11,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641698879219,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "7",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"7\",\"values\":[7],\"total\":7,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641698931169,
+    "name": "44815051",
+    "flavor": "Initiative",
+    "content": "10",
+    "roll": "{\"diceNotationStr\":\"1d20+2\",\"result\":\"8+2\",\"values\":[8],\"total\":10,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641699276772,
+    "name": "65377531",
+    "flavor": "Stealth",
+    "content": "17",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641699291139,
+    "name": "65377531",
+    "flavor": "Acrobatics",
+    "content": "23",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641699479754,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "9",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"9\",\"values\":[9],\"total\":9,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641699490988,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "18",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"18\",\"values\":[18],\"total\":18,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641699564197,
+    "name": "Johnathan",
+    "flavor": "Sleight of Hand",
+    "content": "22",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641699664155,
+    "name": "Johnathan",
+    "flavor": "dex",
+    "content": "15",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641699670590,
+    "name": "Johnathan",
+    "flavor": "cha",
+    "content": "16",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641699686228,
+    "name": "44815051",
+    "flavor": "Stealth",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641699789446,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "8",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"8\",\"values\":[8],\"total\":8,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641699827989,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "15",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"15\",\"values\":[15],\"total\":15,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641699907197,
+    "name": "64807668",
+    "flavor": "Athletics",
+    "content": "21",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641700172574,
+    "name": "65377531",
+    "flavor": "Acrobatics",
+    "content": "11",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641700200586,
+    "name": "65377531",
+    "flavor": "Stealth",
+    "content": "10",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641700509221,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641700548461,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "6",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"6\",\"values\":[6],\"total\":6,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641700557200,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "3",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"3\",\"values\":[3],\"total\":3,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641700615579,
+    "name": "64807668",
+    "flavor": "Stealth",
+    "content": "20",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641700652259,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "12",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641700802302,
+    "name": "65377531",
+    "flavor": "Acrobatics",
+    "content": "15",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641701087155,
+    "name": "44817144",
+    "flavor": "Athletics",
+    "content": "16",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641701183600,
+    "name": "44817144",
+    "flavor": "Athletics",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641701631174,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "15",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"15\",\"values\":[15],\"total\":15,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641701958501,
+    "name": "64807668",
+    "flavor": "Perception",
+    "content": "5",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641702936571,
+    "name": "65377531",
+    "flavor": "Investigation",
+    "content": "2",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641703332803,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "12",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641703343294,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "5",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641703352970,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "1",
+    "roll": "{\"diceNotationStr\":\"1d8\",\"result\":\"1\",\"values\":[1],\"total\":1,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641704024737,
+    "name": "44817144",
+    "flavor": "Shortbow",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641704039009,
+    "name": "44817144",
+    "flavor": "Shortbow",
+    "content": "19",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641704055663,
+    "name": "44817144",
+    "flavor": "Shortbow",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641704576838,
+    "name": "Johnathan",
+    "flavor": "Crossbow, Hand",
+    "content": "23",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641704590053,
+    "name": "Johnathan",
+    "flavor": "Crossbow, Hand",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641704680958,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641705253107,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "11",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641705386049,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "13",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641705394843,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641705451459,
+    "name": "64807668",
+    "flavor": "History",
+    "content": "2",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641705676774,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "4",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"4\",\"values\":[4],\"total\":4,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641705913231,
+    "name": "65377531",
+    "flavor": "Investigation",
+    "content": "5",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641706020322,
+    "name": "65377531",
+    "flavor": "Dagger",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641706026962,
+    "name": "65377531",
+    "flavor": "Dagger",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641706105061,
+    "name": "65377531",
+    "flavor": "Dexterity",
+    "content": "21",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641706116789,
+    "name": "65377531",
+    "flavor": "custom",
+    "content": "3",
+    "roll": "{\"diceNotationStr\":\"1d6\",\"result\":\"3\",\"values\":[3],\"total\":3,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641706207581,
+    "name": "65377531",
+    "flavor": "Acrobatics",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641706362531,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "15",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"15\",\"values\":[15],\"total\":15,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641706672672,
+    "name": "44817144",
+    "flavor": "Shortbow",
+    "content": "12",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641706679389,
+    "name": "44817144",
+    "flavor": "Shortbow",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641707339782,
+    "name": "Johnathan",
+    "flavor": "Acrobatics",
+    "content": "13",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641707387098,
+    "name": "Johnathan",
+    "flavor": "Crossbow, Hand",
+    "content": "17",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641707395679,
+    "name": "Johnathan",
+    "flavor": "Crossbow, Hand",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641707507927,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641707517194,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641707738233,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "15",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"15\",\"values\":[15],\"total\":15,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641707872484,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "7",
+    "roll": "{\"diceNotationStr\":\"1d10\",\"result\":\"7\",\"values\":[7],\"total\":7,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641707961099,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641707967154,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641708015757,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "1",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"1\",\"values\":[1],\"total\":1,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641708229379,
+    "name": "65377531",
+    "flavor": "Investigation",
+    "content": "5",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641708304880,
+    "name": "65377531",
+    "flavor": "Dagger",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641708329039,
+    "name": "65377531",
+    "flavor": "Dexterity",
+    "content": "22",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641708344438,
+    "name": "65377531",
+    "flavor": "custom",
+    "content": "3",
+    "roll": "{\"diceNotationStr\":\"1d6\",\"result\":\"3\",\"values\":[3],\"total\":3,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641708391581,
+    "name": "65377531",
+    "flavor": "custom",
+    "content": "10",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"10\",\"values\":[10],\"total\":10,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641708468218,
+    "name": "44817144",
+    "flavor": "Shortbow",
+    "content": "16",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641708476926,
+    "name": "44817144",
+    "flavor": "Shortbow",
+    "content": "2",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641708622114,
+    "name": "Johnathan",
+    "flavor": "Acrobatics",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641708712115,
+    "name": "Johnathan",
+    "flavor": "Crossbow, Hand",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641708722880,
+    "name": "Johnathan",
+    "flavor": "Crossbow, Hand",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641708883444,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "21",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641708890289,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641709026054,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "2",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"2\",\"values\":[2],\"total\":2,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641709181389,
+    "name": "64807668",
+    "flavor": "Vicious Dagger",
+    "content": "13",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641709201185,
+    "name": "64807668",
+    "flavor": "Vicious Dagger",
+    "content": "10",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641709239355,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "5",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"5\",\"values\":[5],\"total\":5,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641709406818,
+    "name": "65377531",
+    "flavor": "Investigation",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641709456804,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641709466917,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "5",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641709596106,
+    "name": "44817144",
+    "flavor": "Shortbow",
+    "content": "10",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641709670455,
+    "name": "Johnathan",
+    "flavor": "Acrobatics",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641709703150,
+    "name": "Johnathan",
+    "flavor": "Crossbow, Hand",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641709709992,
+    "name": "Johnathan",
+    "flavor": "Crossbow, Hand",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641709767347,
+    "name": "44815051",
+    "flavor": "Athletics",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641709791763,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "10",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641709879795,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "9",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"9\",\"values\":[9],\"total\":9,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641709957564,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "10",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641709991781,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "4",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"4\",\"values\":[4],\"total\":4,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641710032973,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641710041096,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641710209048,
+    "name": "44817144",
+    "flavor": "Thorn Whip",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641710704300,
+    "name": "Johnathan",
+    "flavor": "Acrobatics",
+    "content": "16",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641710719881,
+    "name": "Johnathan",
+    "flavor": "Crossbow, Hand",
+    "content": "21",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641710754502,
+    "name": "Johnathan",
+    "flavor": "Crossbow, Hand",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641710815000,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "15",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641710824677,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641711651261,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "15",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"15\",\"values\":[15],\"total\":15,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641711661783,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "4",
+    "roll": "{\"diceNotationStr\":\"1d6\",\"result\":\"4\",\"values\":[4],\"total\":4,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641711668782,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "5",
+    "roll": "{\"diceNotationStr\":\"1d6\",\"result\":\"5\",\"values\":[5],\"total\":5,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641711721477,
+    "name": "64807668",
+    "flavor": "Handaxe",
+    "content": "25",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641711756894,
+    "name": "64807668",
+    "flavor": "Handaxe",
+    "content": "11",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641711791285,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "15",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"15\",\"values\":[15],\"total\":15,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641711940907,
+    "name": "65377531",
+    "flavor": "Acrobatics",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641711971661,
+    "name": "65377531",
+    "flavor": "Dagger",
+    "content": "22",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641711978017,
+    "name": "65377531",
+    "flavor": "Dagger",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641712176734,
+    "name": "44817144",
+    "flavor": "Thorn Whip",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641712183989,
+    "name": "44817144",
+    "flavor": "Thorn Whip",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641712195874,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "6",
+    "roll": "{\"diceNotationStr\":\"1d6\",\"result\":\"6\",\"values\":[6],\"total\":6,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641712337751,
+    "name": "Johnathan",
+    "flavor": "Crossbow, Hand",
+    "content": "16",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641712344990,
+    "name": "Johnathan",
+    "flavor": "Crossbow, Hand",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641712399188,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "11",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641712425970,
+    "name": "44815051",
+    "flavor": "Athletics",
+    "content": "13",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641712546300,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "11",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"11\",\"values\":[11],\"total\":11,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641712553068,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "4",
+    "roll": "{\"diceNotationStr\":\"1d6\",\"result\":\"4\",\"values\":[4],\"total\":4,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641712558565,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "5",
+    "roll": "{\"diceNotationStr\":\"1d6\",\"result\":\"5\",\"values\":[5],\"total\":5,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1641712609886,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "27",
+    "roll": ""
+  },
+  {
+    "timestamp": 1641712616875,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "5",
+    "roll": ""
+  }
+]

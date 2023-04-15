@@ -1,0 +1,520 @@
+[
+  {
+    "timestamp": 1642908114497,
+    "name": "44815051",
+    "flavor": "Intelligence",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642908137322,
+    "name": "65377531",
+    "flavor": "History",
+    "content": "16",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642908168891,
+    "name": "64807668",
+    "flavor": "History",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642908175580,
+    "name": "44815051",
+    "flavor": "History",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642908176016,
+    "name": "44817144",
+    "flavor": "History",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642908756595,
+    "name": "44817144",
+    "flavor": "History",
+    "content": "19",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642908760288,
+    "name": "65377531",
+    "flavor": "History",
+    "content": "17",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642908764038,
+    "name": "64807668",
+    "flavor": "History",
+    "content": "16",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642908942723,
+    "name": "65377531",
+    "flavor": "History",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642908944287,
+    "name": "64807668",
+    "flavor": "History",
+    "content": "2",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642908950733,
+    "name": "44817144",
+    "flavor": "History",
+    "content": "17",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642910728585,
+    "name": "44817144",
+    "flavor": "Perception",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642910989135,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "19",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642911119292,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "3",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"3\",\"values\":[3],\"total\":3,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1642911120463,
+    "name": "44817144",
+    "flavor": "Initiative",
+    "content": "7",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"6+1\",\"values\":[6],\"total\":7,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1642911126441,
+    "name": "65377531",
+    "flavor": "Initiative",
+    "content": "13",
+    "roll": "{\"diceNotationStr\":\"1d20+3\",\"result\":\"10+3\",\"values\":[10],\"total\":13,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1642911133418,
+    "name": "44815051",
+    "flavor": "Initiative",
+    "content": "17",
+    "roll": "{\"diceNotationStr\":\"1d20+2\",\"result\":\"15+2\",\"values\":[15],\"total\":17,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1642911144029,
+    "name": "64807668",
+    "flavor": "Initiative",
+    "content": "16",
+    "roll": "{\"diceNotationStr\":\"1d20+3\",\"result\":\"13+3\",\"values\":[13],\"total\":16,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1642911623980,
+    "name": "65377531",
+    "flavor": "Wisdom",
+    "content": "12",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642911922823,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642912079636,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "20",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642912090513,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642912134990,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "8",
+    "roll": "{\"diceNotationStr\":\"1d8\",\"result\":\"8\",\"values\":[8],\"total\":8,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1642912573848,
+    "name": "65377531",
+    "flavor": "Dagger",
+    "content": "19",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642912588115,
+    "name": "65377531",
+    "flavor": "Dagger",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642912603800,
+    "name": "65377531",
+    "flavor": "Dagger",
+    "content": "1",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642912660069,
+    "name": "65377531",
+    "flavor": "Sneak Attack",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642912957613,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "11",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642912963027,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "12",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642912973467,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642913314695,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642913325291,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642913347527,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "3",
+    "roll": "{\"diceNotationStr\":\"1d8\",\"result\":\"3\",\"values\":[3],\"total\":3,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1642913802332,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "13",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642913811976,
+    "name": "65377531",
+    "flavor": "Shortbow",
+    "content": "5",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642914179083,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642914186721,
+    "name": "44817144",
+    "flavor": "Scythe",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642914919443,
+    "name": "64807668",
+    "flavor": "Handaxe",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642914946727,
+    "name": "64807668",
+    "flavor": "Handaxe",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642914966826,
+    "name": "64807668",
+    "flavor": "Sneak Attack",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642915130700,
+    "name": "64807668",
+    "flavor": "Cure Wounds",
+    "content": "2",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642915438539,
+    "name": "65377531",
+    "flavor": "Dexterity",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642915613891,
+    "name": "44817144",
+    "flavor": "Cure Wounds",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642916112622,
+    "name": "64807668",
+    "flavor": "Handaxe",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642916232931,
+    "name": "65377531",
+    "flavor": "Dagger",
+    "content": "15",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642916248755,
+    "name": "65377531",
+    "flavor": "Dagger",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642916256374,
+    "name": "65377531",
+    "flavor": "Sneak Attack",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642916593988,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642916607812,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642917302293,
+    "name": "44817144",
+    "flavor": "custom",
+    "content": "12",
+    "roll": "{\"diceNotationStr\":\"3d8\",\"result\":\"3+1+8\",\"values\":[3,1,8],\"total\":12,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1642917357281,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "5",
+    "roll": "{\"diceNotationStr\":\"1d8\",\"result\":\"5\",\"values\":[5],\"total\":5,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1642917477754,
+    "name": "65377531",
+    "flavor": "Perception",
+    "content": "11",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642917480674,
+    "name": "65377531",
+    "flavor": "Perception",
+    "content": "15",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642917482865,
+    "name": "65377531",
+    "flavor": "Perception",
+    "content": "23",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642917485876,
+    "name": "65377531",
+    "flavor": "Perception",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642917497507,
+    "name": "65377531",
+    "flavor": "Perception",
+    "content": "21",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642917500294,
+    "name": "65377531",
+    "flavor": "Perception",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642917503696,
+    "name": "65377531",
+    "flavor": "Perception",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642917524914,
+    "name": "65377531",
+    "flavor": "Perception",
+    "content": "12",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642917566897,
+    "name": "64807668",
+    "flavor": "Perception",
+    "content": "20",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642917599547,
+    "name": "64807668",
+    "flavor": "Investigation",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642917641070,
+    "name": "44815051",
+    "flavor": "Perception",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642917662538,
+    "name": "44817144",
+    "flavor": "Perception",
+    "content": "12",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642917753048,
+    "name": "44817144",
+    "flavor": "Stealth",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642918220889,
+    "name": "64807668",
+    "flavor": "custom",
+    "content": "10",
+    "roll": "{\"diceNotationStr\":\"1d20\",\"result\":\"10\",\"values\":[10],\"total\":10,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1642918223951,
+    "name": "44817144",
+    "flavor": "Initiative",
+    "content": "17",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"16+1\",\"values\":[16],\"total\":17,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1642918235223,
+    "name": "65377531",
+    "flavor": "Initiative",
+    "content": "8",
+    "roll": "{\"diceNotationStr\":\"1d20+3\",\"result\":\"5+3\",\"values\":[5],\"total\":8,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1642918368998,
+    "name": "65377531",
+    "flavor": "Stealth",
+    "content": "15",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642918422245,
+    "name": "64807668",
+    "flavor": "Stealth",
+    "content": "24",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642918800392,
+    "name": "64807668",
+    "flavor": "Stealth",
+    "content": "19",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642918872884,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "17",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642918886369,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "7",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642919197479,
+    "name": "44817144",
+    "flavor": "Shortbow",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1642919385964,
+    "name": "64807668",
+    "flavor": "Longbow",
+    "content": "21",
+    "roll": ""
+  }
+]

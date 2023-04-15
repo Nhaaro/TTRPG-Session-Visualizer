@@ -1,0 +1,1263 @@
+[
+  {
+    "timestamp": 1648341055263,
+    "name": "hpSkFBSeIKa9OPHh",
+    "flavor": null,
+    "content": "3",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d3\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":3,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]}],\"total\":3,\"evaluated\":true}",
+    "flags": {}
+  },
+  {
+    "timestamp": 1648342311251,
+    "name": "hpSkFBSeIKa9OPHh",
+    "flavor": null,
+    "content": "1",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d2\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":2,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}",
+    "flags": {}
+  },
+  {
+    "timestamp": 1648343748720,
+    "name": "44815051",
+    "flavor": "custom",
+    "content": "6",
+    "roll": "{\"diceNotationStr\":\"2d4\",\"result\":\"3+3\",\"values\":[3,3],\"total\":6,\"rollType\":\"roll\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1648345898276,
+    "name": "Drakronos",
+    "flavor": "Short Rest (8 hours)",
+    "content": "Drakronos takes a short rest.",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648345920324,
+    "name": "Aketo",
+    "flavor": "Roll Hit Dice: Aketo",
+    "content": "4",
+    "roll": "{\"class\":\"DamageRoll\",\"options\":{\"flavor\":\"Roll Hit Dice: Aketo\",\"critical\":false,\"multiplyNumeric\":false,\"powerfulCritical\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d6 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"baseNumber\":1},\"evaluated\":true,\"number\":1,\"faces\":6,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":4,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "hitDie"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1648345927630,
+    "name": "Aketo",
+    "flavor": "Short Rest (New Day)",
+    "content": "Aketo takes a short rest spending 1 Hit Dice to recover 4 Hit Points.",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648345964268,
+    "name": "Mako",
+    "flavor": "Roll Hit Dice: Mako",
+    "content": "5",
+    "roll": "{\"class\":\"DamageRoll\",\"options\":{\"flavor\":\"Roll Hit Dice: Mako\",\"critical\":false,\"multiplyNumeric\":false,\"powerfulCritical\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d8 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{\"baseNumber\":1},\"evaluated\":true,\"number\":1,\"faces\":8,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1}],\"total\":5,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "hitDie"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1648345966031,
+    "name": "Drakronos",
+    "flavor": "Roll Hit Dice: Drakronos",
+    "content": "-1",
+    "roll": "{\"class\":\"DamageRoll\",\"options\":{\"flavor\":\"Roll Hit Dice: Drakronos\",\"critical\":false,\"multiplyNumeric\":false,\"powerfulCritical\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d10 +  - 2\",\"terms\":[{\"class\":\"Die\",\"options\":{\"baseNumber\":1},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":-1,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "hitDie"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1648345974694,
+    "name": "Mako",
+    "flavor": "Short Rest (New Day)",
+    "content": "Mako takes a short rest spending 1 Hit Dice to recover 5 Hit Points.",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648345989788,
+    "name": "Drakronos",
+    "flavor": "Roll Hit Dice: Drakronos",
+    "content": "8",
+    "roll": "{\"class\":\"DamageRoll\",\"options\":{\"flavor\":\"Roll Hit Dice: Drakronos\",\"critical\":false,\"multiplyNumeric\":false,\"powerfulCritical\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d10 +  - 2\",\"terms\":[{\"class\":\"Die\",\"options\":{\"baseNumber\":1},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":8,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "hitDie"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1648346003622,
+    "name": "Drakronos",
+    "flavor": "Roll Hit Dice: Drakronos",
+    "content": "6",
+    "roll": "{\"class\":\"DamageRoll\",\"options\":{\"flavor\":\"Roll Hit Dice: Drakronos\",\"critical\":false,\"multiplyNumeric\":false,\"powerfulCritical\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d10 +  - 2\",\"terms\":[{\"class\":\"Die\",\"options\":{\"baseNumber\":1},\"evaluated\":true,\"number\":1,\"faces\":10,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":6,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "hitDie"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1648346047325,
+    "name": "Drakronos",
+    "flavor": "Short Rest (New Day)",
+    "content": "Drakronos takes a short rest spending 3 Hit Dice to recover 13 Hit Points.",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648346095129,
+    "name": "Vickyan",
+    "flavor": "Short Rest (New Day)",
+    "content": "Vickyan takes a short rest.",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648346139089,
+    "name": "Beemiw",
+    "flavor": "Totem of healing",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"FKpCXWIr6NUjuciW\" data-item-id=\"kSkvwOghlFHOQngl\" data-actor-uuid=\"Actor.FKpCXWIr6NUjuciW\" data-item-uuid=\"Actor.FKpCXWIr6NUjuciW.Item.kSkvwOghlFHOQngl\" data-token-id=\"Scene.h1dGp1pJi24vNSAC.Token.TNYmM2HkXwXZFSMq\" data-token-uuid=\"Scene.h1dGp1pJi24vNSAC.Token.TNYmM2HkXwXZFSMq\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/weapons/wands/wand-totem.webp\" title=\"Totem of healing\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Totem of healing</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>As an action you can pray to this token, it heals 1d4 + your Constitution modifier.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Healing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">4</h4>\n    <div class=\"dice-tooltip\">\n      <section class=\"tooltip-part\">\n        <div class=\"dice-formula\">1d4 + 2</div>\n      </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d4</span>\n                \n                <span class=\"part-total\">2</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d4\">2</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <div></div>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Trinket</span>\n    <span>10 AC</span>\n    <span>Equipped</span>\n    <span>Proficient</span>\n    <span>1 Bonus Action</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.FKpCXWIr6NUjuciW.Item.kSkvwOghlFHOQngl",
+        "actorUuid": "Actor.FKpCXWIr6NUjuciW",
+        "sound": "none",
+        "type": 0,
+        "itemId": "kSkvwOghlFHOQngl",
+        "workflowId": "Actor.FKpCXWIr6NUjuciW.Item.kSkvwOghlFHOQngl",
+        "waitForDiceSoNice": true,
+        "roll": {},
+        "damageDetail": [
+          {
+            "damage": 4,
+            "type": "healing"
+          }
+        ],
+        "damageTotal": 4,
+        "otherDamageDetail": [],
+        "hideTag": [
+          ".midi-qol-damage-roll",
+          ".midi-qol.other-roll"
+        ],
+        "displayId": "ouhryz0gh0fubht1"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1648346165631,
+    "name": "Beemiw",
+    "flavor": "Totem of healing",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"FKpCXWIr6NUjuciW\" data-item-id=\"kSkvwOghlFHOQngl\" data-actor-uuid=\"Actor.FKpCXWIr6NUjuciW\" data-item-uuid=\"Actor.FKpCXWIr6NUjuciW.Item.kSkvwOghlFHOQngl\" data-token-id=\"Scene.h1dGp1pJi24vNSAC.Token.TNYmM2HkXwXZFSMq\" data-token-uuid=\"Scene.h1dGp1pJi24vNSAC.Token.TNYmM2HkXwXZFSMq\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/weapons/wands/wand-totem.webp\" title=\"Totem of healing\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Totem of healing</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>As an action you can pray to this token, it heals 1d4 + your Constitution modifier.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Healing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">5</h4>\n    <div class=\"dice-tooltip\">\n      <section class=\"tooltip-part\">\n        <div class=\"dice-formula\">1d4 + 2</div>\n      </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d4</span>\n                \n                <span class=\"part-total\">3</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d4\">3</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <div></div>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Trinket</span>\n    <span>10 AC</span>\n    <span>Equipped</span>\n    <span>Proficient</span>\n    <span>1 Bonus Action</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.FKpCXWIr6NUjuciW.Item.kSkvwOghlFHOQngl",
+        "actorUuid": "Actor.FKpCXWIr6NUjuciW",
+        "sound": "none",
+        "type": 0,
+        "itemId": "kSkvwOghlFHOQngl",
+        "workflowId": "Actor.FKpCXWIr6NUjuciW.Item.kSkvwOghlFHOQngl",
+        "waitForDiceSoNice": true,
+        "roll": {},
+        "damageDetail": [
+          {
+            "damage": 5,
+            "type": "healing"
+          }
+        ],
+        "damageTotal": 5,
+        "otherDamageDetail": [],
+        "hideTag": [
+          ".midi-qol-damage-roll",
+          ".midi-qol.other-roll"
+        ],
+        "displayId": "yoq4ydz2a7jje3q4"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1648346207073,
+    "name": "Aketo",
+    "flavor": "Totem of healing",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"8fK5xJYxZUUHwBaO\" data-item-id=\"EwWkDPaThi5yIAqR\" data-actor-uuid=\"Actor.8fK5xJYxZUUHwBaO\" data-item-uuid=\"Actor.8fK5xJYxZUUHwBaO.Item.EwWkDPaThi5yIAqR\" data-token-id=\"Scene.h1dGp1pJi24vNSAC.Token.QTOWc73kBsrwzjBs\" data-token-uuid=\"Scene.h1dGp1pJi24vNSAC.Token.QTOWc73kBsrwzjBs\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/weapons/wands/wand-totem.webp\" title=\"Totem of healing\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Totem of healing</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>As an action you can pray to this token, it heals 1d4 + your Constitution modifier.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Healing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">4</h4>\n    <div class=\"dice-tooltip\">\n      <section class=\"tooltip-part\">\n        <div class=\"dice-formula\">1d4 + 0</div>\n      </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d4</span>\n                \n                <span class=\"part-total\">4</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d4 max\">4</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <div></div>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Trinket</span>\n    <span>10 AC</span>\n    <span>Not Equipped</span>\n    <span>Not Proficient</span>\n    <span>1 Bonus Action</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.8fK5xJYxZUUHwBaO.Item.EwWkDPaThi5yIAqR",
+        "actorUuid": "Actor.8fK5xJYxZUUHwBaO",
+        "sound": "none",
+        "type": 0,
+        "itemId": "EwWkDPaThi5yIAqR",
+        "workflowId": "Actor.8fK5xJYxZUUHwBaO.Item.EwWkDPaThi5yIAqR",
+        "waitForDiceSoNice": true,
+        "roll": {},
+        "damageDetail": [
+          {
+            "damage": 4,
+            "type": "healing"
+          }
+        ],
+        "damageTotal": 4,
+        "otherDamageDetail": [],
+        "hideTag": [
+          ".midi-qol-damage-roll",
+          ".midi-qol.other-roll"
+        ],
+        "displayId": "ho3cbduc73dwo513"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1648346230659,
+    "name": "Mako",
+    "flavor": "Totem of healing",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"hA281AIaEstOBwvW\" data-item-id=\"k2YdjHUlOtl1svFp\" data-actor-uuid=\"Actor.hA281AIaEstOBwvW\" data-item-uuid=\"Actor.hA281AIaEstOBwvW.Item.k2YdjHUlOtl1svFp\" data-token-id=\"Scene.h1dGp1pJi24vNSAC.Token.f0hRFmbbVQuNCRuQ\" data-token-uuid=\"Scene.h1dGp1pJi24vNSAC.Token.f0hRFmbbVQuNCRuQ\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/weapons/wands/wand-totem.webp\" title=\"Totem of healing\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Totem of healing</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>As an action you can pray to this token, it heals 1d4 + your Constitution modifier.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Healing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">2</h4>\n    <div class=\"dice-tooltip\">\n      <section class=\"tooltip-part\">\n        <div class=\"dice-formula\">1d4 + 1</div>\n      </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d4</span>\n                \n                <span class=\"part-total\">1</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d4 min\">1</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <div></div>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Trinket</span>\n    <span>10 AC</span>\n    <span>Not Equipped</span>\n    <span>Proficient</span>\n    <span>1 Bonus Action</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.hA281AIaEstOBwvW.Item.k2YdjHUlOtl1svFp",
+        "actorUuid": "Actor.hA281AIaEstOBwvW",
+        "sound": "none",
+        "type": 0,
+        "itemId": "k2YdjHUlOtl1svFp",
+        "workflowId": "Actor.hA281AIaEstOBwvW.Item.k2YdjHUlOtl1svFp",
+        "waitForDiceSoNice": true,
+        "roll": {},
+        "damageDetail": [
+          {
+            "damage": 2,
+            "type": "healing"
+          }
+        ],
+        "damageTotal": 2,
+        "otherDamageDetail": [],
+        "hideTag": [
+          ".midi-qol-damage-roll",
+          ".midi-qol.other-roll"
+        ],
+        "displayId": "2xxf20ljfcgp6hbg"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1648346865661,
+    "name": "Acolyte",
+    "flavor": "Cure Wounds",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"FPCl76Pn3TG3aHli\" data-item-id=\"VRqFS66U7jTYIryC\" data-actor-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL\" data-item-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL.Item.VRqFS66U7jTYIryC\" data-token-id=\"Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL\" data-token-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL\" data-spell-level=\"1\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/magic/life/heart-cross-strong-green.webp\" title=\"Cure Wounds\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Cure Wounds</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.</p>\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Healing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">5</h4>\n    <div class=\"dice-tooltip\">\n      <section class=\"tooltip-part\">\n        <div class=\"dice-formula\">1d8[healing] + 2</div>\n      </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d8</span>\n                <span class=\"part-flavor\">healing</span>\n                <span class=\"part-total\">3</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d8\">3</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>1st Level</span>\n    <span>V,S</span>\n    <span>1 Action</span>\n    <span>Touch Creature</span>\n    <span>Touch</span>\n    <span>Instantaneous</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL.Item.VRqFS66U7jTYIryC",
+        "actorUuid": "Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL",
+        "sound": "none",
+        "type": 0,
+        "itemId": "VRqFS66U7jTYIryC",
+        "workflowId": "Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL.Item.VRqFS66U7jTYIryC",
+        "waitForDiceSoNice": true,
+        "roll": {},
+        "damageDetail": [
+          {
+            "damage": 5,
+            "type": "healing"
+          }
+        ],
+        "damageTotal": 5,
+        "otherDamageDetail": [],
+        "hideTag": [],
+        "displayId": "ppfssgsrzcg3ub37"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1648346894256,
+    "name": "Acolyte",
+    "flavor": "Cure Wounds",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"FPCl76Pn3TG3aHli\" data-item-id=\"VRqFS66U7jTYIryC\" data-actor-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL\" data-item-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL.Item.VRqFS66U7jTYIryC\" data-token-id=\"Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL\" data-token-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL\" data-spell-level=\"1\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/magic/life/heart-cross-strong-green.webp\" title=\"Cure Wounds\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Cure Wounds</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.</p>\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Healing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">8</h4>\n    <div class=\"dice-tooltip\">\n      <section class=\"tooltip-part\">\n        <div class=\"dice-formula\">1d8[healing] + 2</div>\n      </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d8</span>\n                <span class=\"part-flavor\">healing</span>\n                <span class=\"part-total\">6</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d8\">6</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>1st Level</span>\n    <span>V,S</span>\n    <span>1 Action</span>\n    <span>Touch Creature</span>\n    <span>Touch</span>\n    <span>Instantaneous</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL.Item.VRqFS66U7jTYIryC",
+        "actorUuid": "Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL",
+        "sound": "none",
+        "type": 0,
+        "itemId": "VRqFS66U7jTYIryC",
+        "workflowId": "Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL.Item.VRqFS66U7jTYIryC",
+        "waitForDiceSoNice": true,
+        "roll": {},
+        "damageDetail": [
+          {
+            "damage": 8,
+            "type": "healing"
+          }
+        ],
+        "damageTotal": 8,
+        "otherDamageDetail": [],
+        "hideTag": [],
+        "displayId": "wv2r9f981hfo8ymm"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1648346930433,
+    "name": "Acolyte",
+    "flavor": "Cure Wounds",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"FPCl76Pn3TG3aHli\" data-item-id=\"VRqFS66U7jTYIryC\" data-actor-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL\" data-item-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL.Item.VRqFS66U7jTYIryC\" data-token-id=\"Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL\" data-token-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL\" data-spell-level=\"1\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/magic/life/heart-cross-strong-green.webp\" title=\"Cure Wounds\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Cure Wounds</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.</p>\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Healing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">10</h4>\n    <div class=\"dice-tooltip\">\n      <section class=\"tooltip-part\">\n        <div class=\"dice-formula\">1d8[healing] + 2</div>\n      </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d8</span>\n                <span class=\"part-flavor\">healing</span>\n                <span class=\"part-total\">8</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d8 max\">8</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>1st Level</span>\n    <span>V,S</span>\n    <span>1 Action</span>\n    <span>Touch Creature</span>\n    <span>Touch</span>\n    <span>Instantaneous</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL.Item.VRqFS66U7jTYIryC",
+        "actorUuid": "Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL",
+        "sound": "none",
+        "type": 0,
+        "itemId": "VRqFS66U7jTYIryC",
+        "workflowId": "Scene.0orvTxQEbOIh0nZj.Token.AojbdMjdaSFiooNL.Item.VRqFS66U7jTYIryC",
+        "waitForDiceSoNice": true,
+        "roll": {},
+        "damageDetail": [
+          {
+            "damage": 10,
+            "type": "healing"
+          }
+        ],
+        "damageTotal": 10,
+        "otherDamageDetail": [],
+        "hideTag": [],
+        "displayId": "l6u8o7suiurdbzq5"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1648347315385,
+    "name": "Aketo",
+    "flavor": "Totem of healing",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"8fK5xJYxZUUHwBaO\" data-item-id=\"EwWkDPaThi5yIAqR\" data-actor-uuid=\"Actor.8fK5xJYxZUUHwBaO\" data-item-uuid=\"Actor.8fK5xJYxZUUHwBaO.Item.EwWkDPaThi5yIAqR\" data-token-id=\"Scene.LgStX53SIYMvpwI3.Token.Mzt1pNyrWmThU98D\" data-token-uuid=\"Scene.LgStX53SIYMvpwI3.Token.Mzt1pNyrWmThU98D\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/weapons/wands/wand-totem.webp\" title=\"Totem of healing\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Totem of healing</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>As an action you can pray to this token, it heals 1d4 + your Constitution modifier.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Healing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">1</h4>\n    <div class=\"dice-tooltip\">\n      <section class=\"tooltip-part\">\n        <div class=\"dice-formula\">1d4 + 0</div>\n      </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d4</span>\n                \n                <span class=\"part-total\">1</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d4 min\">1</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <div></div>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Trinket</span>\n    <span>10 AC</span>\n    <span>Not Equipped</span>\n    <span>Not Proficient</span>\n    <span>1 Bonus Action</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.8fK5xJYxZUUHwBaO.Item.EwWkDPaThi5yIAqR",
+        "actorUuid": "Actor.8fK5xJYxZUUHwBaO",
+        "sound": "none",
+        "type": 0,
+        "itemId": "EwWkDPaThi5yIAqR",
+        "workflowId": "Actor.8fK5xJYxZUUHwBaO.Item.EwWkDPaThi5yIAqR",
+        "waitForDiceSoNice": true,
+        "roll": {},
+        "damageDetail": [
+          {
+            "damage": 1,
+            "type": "healing"
+          }
+        ],
+        "damageTotal": 1,
+        "otherDamageDetail": [],
+        "hideTag": [
+          ".midi-qol-damage-roll",
+          ".midi-qol.other-roll"
+        ],
+        "displayId": "x2ae5lpz5hqvg13w"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1648347326381,
+    "name": "Aketo",
+    "flavor": "Totem of healing",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"8fK5xJYxZUUHwBaO\" data-item-id=\"EwWkDPaThi5yIAqR\" data-actor-uuid=\"Actor.8fK5xJYxZUUHwBaO\" data-item-uuid=\"Actor.8fK5xJYxZUUHwBaO.Item.EwWkDPaThi5yIAqR\" data-token-id=\"Scene.LgStX53SIYMvpwI3.Token.Mzt1pNyrWmThU98D\" data-token-uuid=\"Scene.LgStX53SIYMvpwI3.Token.Mzt1pNyrWmThU98D\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/weapons/wands/wand-totem.webp\" title=\"Totem of healing\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Totem of healing</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>As an action you can pray to this token, it heals 1d4 + your Constitution modifier.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Healing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">1</h4>\n    <div class=\"dice-tooltip\">\n      <section class=\"tooltip-part\">\n        <div class=\"dice-formula\">1d4 + 0</div>\n      </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d4</span>\n                \n                <span class=\"part-total\">1</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d4 min\">1</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <div></div>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Trinket</span>\n    <span>10 AC</span>\n    <span>Not Equipped</span>\n    <span>Not Proficient</span>\n    <span>1 Bonus Action</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.8fK5xJYxZUUHwBaO.Item.EwWkDPaThi5yIAqR",
+        "actorUuid": "Actor.8fK5xJYxZUUHwBaO",
+        "sound": "none",
+        "type": 0,
+        "itemId": "EwWkDPaThi5yIAqR",
+        "workflowId": "Actor.8fK5xJYxZUUHwBaO.Item.EwWkDPaThi5yIAqR",
+        "waitForDiceSoNice": true,
+        "roll": {},
+        "damageDetail": [
+          {
+            "damage": 1,
+            "type": "healing"
+          }
+        ],
+        "damageTotal": 1,
+        "otherDamageDetail": [],
+        "hideTag": [
+          ".midi-qol-damage-roll",
+          ".midi-qol.other-roll"
+        ],
+        "displayId": "gvkynn17mxuwinkq"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1648347347855,
+    "name": "Aketo",
+    "flavor": "Totem of healing",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"8fK5xJYxZUUHwBaO\" data-item-id=\"EwWkDPaThi5yIAqR\" data-actor-uuid=\"Actor.8fK5xJYxZUUHwBaO\" data-item-uuid=\"Actor.8fK5xJYxZUUHwBaO.Item.EwWkDPaThi5yIAqR\" data-token-id=\"Scene.LgStX53SIYMvpwI3.Token.Mzt1pNyrWmThU98D\" data-token-uuid=\"Scene.LgStX53SIYMvpwI3.Token.Mzt1pNyrWmThU98D\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/weapons/wands/wand-totem.webp\" title=\"Totem of healing\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Totem of healing</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>As an action you can pray to this token, it heals 1d4 + your Constitution modifier.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Healing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">2</h4>\n    <div class=\"dice-tooltip\">\n      <section class=\"tooltip-part\">\n        <div class=\"dice-formula\">1d4 + 0</div>\n      </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d4</span>\n                \n                <span class=\"part-total\">2</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d4\">2</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <div></div>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Trinket</span>\n    <span>10 AC</span>\n    <span>Not Equipped</span>\n    <span>Not Proficient</span>\n    <span>1 Bonus Action</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.8fK5xJYxZUUHwBaO.Item.EwWkDPaThi5yIAqR",
+        "actorUuid": "Actor.8fK5xJYxZUUHwBaO",
+        "sound": "none",
+        "type": 0,
+        "itemId": "EwWkDPaThi5yIAqR",
+        "workflowId": "Actor.8fK5xJYxZUUHwBaO.Item.EwWkDPaThi5yIAqR",
+        "waitForDiceSoNice": true,
+        "roll": {},
+        "damageDetail": [
+          {
+            "damage": 2,
+            "type": "healing"
+          }
+        ],
+        "damageTotal": 2,
+        "otherDamageDetail": [],
+        "hideTag": [
+          ".midi-qol-damage-roll",
+          ".midi-qol.other-roll"
+        ],
+        "displayId": "nq1pv1xwyh8pvofb"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1648347476669,
+    "name": "Beemiw",
+    "flavor": "Totem of healing",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"FKpCXWIr6NUjuciW\" data-item-id=\"kSkvwOghlFHOQngl\" data-actor-uuid=\"Actor.FKpCXWIr6NUjuciW\" data-item-uuid=\"Actor.FKpCXWIr6NUjuciW.Item.kSkvwOghlFHOQngl\" data-token-id=\"Scene.LgStX53SIYMvpwI3.Token.F9CgFhQxV9EX0kJJ\" data-token-uuid=\"Scene.LgStX53SIYMvpwI3.Token.F9CgFhQxV9EX0kJJ\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/weapons/wands/wand-totem.webp\" title=\"Totem of healing\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Totem of healing</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>As an action you can pray to this token, it heals 1d4 + your Constitution modifier.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <button data-action=\"damage\">Healing</button>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Trinket</span>\n    <span>10 AC</span>\n    <span>Equipped</span>\n    <span>Proficient</span>\n    <span>1 Bonus Action</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.FKpCXWIr6NUjuciW.Item.kSkvwOghlFHOQngl",
+        "actorUuid": "Actor.FKpCXWIr6NUjuciW",
+        "sound": "none",
+        "type": 0,
+        "itemId": "kSkvwOghlFHOQngl",
+        "workflowId": "Actor.FKpCXWIr6NUjuciW.Item.kSkvwOghlFHOQngl"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1648348360037,
+    "name": "9e7Jg5pEGV9NtCUF",
+    "flavor": "",
+    "content": "150",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"750 / 5\",\"terms\":[{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":750},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"/\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":5}],\"total\":150,\"evaluated\":true}",
+    "flags": {}
+  },
+  {
+    "timestamp": 1648349589918,
+    "name": "Aketo",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"8fK5xJYxZUUHwBaO\" data-lootsheet-loot-id=\"8fK5xJYxZUUHwBaO-sell-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.8fK5xJYxZUUHwBaO\">\n            <img src=\"characters/PCs/Goblin%20Alchemist%20without%20shadow.png\" class=\"looter-icon character-icon\" title=\"Aketo\" />\n        </a>\n        <span class=\"action-message\"> Aketo sold to Fletcher/Bowyer </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.TeqcqflVtej7l0Jz\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Fletcher/Bowyer\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                        <img class=\"item-image\" src=\"systems/dnd5e/icons/items/weapons/crossbow-light.jpg\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                            Crossbow, Light\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 25.00 gp\">\n                        25.00 (25.00 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 1,
+            "priceTotal": "25.00",
+            "data": {
+              "img": "systems/dnd5e/icons/items/weapons/crossbow-light.jpg",
+              "name": "Crossbow, Light",
+              "price": "25.00",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "8fK5xJYxZUUHwBaO-sell-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648349589939,
+    "name": "Aketo",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"8fK5xJYxZUUHwBaO\" data-lootsheet-loot-id=\"8fK5xJYxZUUHwBaO-sell-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.8fK5xJYxZUUHwBaO\">\n            <img src=\"characters/PCs/Goblin%20Alchemist%20without%20shadow.png\" class=\"looter-icon character-icon\" title=\"Aketo\" />\n        </a>\n        <span class=\"action-message\"> Aketo sold to Fletcher/Bowyer </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.TeqcqflVtej7l0Jz\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Fletcher/Bowyer\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity=\"Item\" data-id=\"fjs74xebfg67a19y\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.TeqcqflVtej7l0Jz.Item.fjs74xebfg67a19y\">\n                        <img class=\"item-image\" src=\"icons/weapons/bows/shortbow-leather.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity=\"Item\" data-id=\"fjs74xebfg67a19y\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.TeqcqflVtej7l0Jz.Item.fjs74xebfg67a19y\">\n                            Shortbow\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 25.00 gp\">\n                        25.00 (25.00 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 1,
+            "priceTotal": "25.00",
+            "data": {
+              "documentName": "Item",
+              "img": "icons/weapons/bows/shortbow-leather.webp",
+              "name": "Shortbow",
+              "id": "fjs74xebfg67a19y",
+              "uuid": "Scene.0orvTxQEbOIh0nZj.Token.TeqcqflVtej7l0Jz.Item.fjs74xebfg67a19y",
+              "price": "25.00",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "8fK5xJYxZUUHwBaO-sell-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648349857159,
+    "name": "9e7Jg5pEGV9NtCUF",
+    "flavor": "",
+    "content": "144",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"48 * 3\",\"terms\":[{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":48},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"*\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3}],\"total\":144,\"evaluated\":true}",
+    "flags": {}
+  },
+  {
+    "timestamp": 1648349880655,
+    "name": "Aketo",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"8fK5xJYxZUUHwBaO\" data-lootsheet-loot-id=\"8fK5xJYxZUUHwBaO-buy-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.8fK5xJYxZUUHwBaO\">\n            <img src=\"characters/PCs/Goblin%20Alchemist%20without%20shadow.png\" class=\"looter-icon character-icon\" title=\"Aketo\" />\n        </a>\n        <span class=\"action-message\"> Aketo purchased from Fletcher/Bowyer </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.TeqcqflVtej7l0Jz\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Fletcher/Bowyer\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                        <img class=\"item-image\" src=\"icons/sundries/survival/rope-coiled-wrapped-brown.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                            Bowstring\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 0.40 gp\">\n                        0.40 (0.40 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 1,
+            "priceTotal": "0.40",
+            "data": {
+              "img": "icons/sundries/survival/rope-coiled-wrapped-brown.webp",
+              "name": "Bowstring",
+              "price": "0.40",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "8fK5xJYxZUUHwBaO-buy-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648350924199,
+    "name": "Mako",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"hA281AIaEstOBwvW\" data-lootsheet-loot-id=\"hA281AIaEstOBwvW-buy-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.hA281AIaEstOBwvW\">\n            <img src=\"ddb-images/characters/Mako.jpeg\" class=\"looter-icon character-icon\" title=\"Mako\" />\n        </a>\n        <span class=\"action-message\"> Mako purchased from Armory Merchant </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.gYuAX66zpZuniHEk\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Armory Merchant\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                        <img class=\"item-image\" src=\"icons/sundries/survival/cuffs-shackles-steel.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                            Manacles\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 2.00 gp\">\n                        2.00 (2.00 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 1,
+            "priceTotal": "2.00",
+            "data": {
+              "img": "icons/sundries/survival/cuffs-shackles-steel.webp",
+              "name": "Manacles",
+              "price": "2.00",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "hA281AIaEstOBwvW-buy-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648350974231,
+    "name": "Mako",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"hA281AIaEstOBwvW\" data-lootsheet-loot-id=\"hA281AIaEstOBwvW-sell-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.hA281AIaEstOBwvW\">\n            <img src=\"ddb-images/characters/Mako.jpeg\" class=\"looter-icon character-icon\" title=\"Mako\" />\n        </a>\n        <span class=\"action-message\"> Mako sold to Armory Merchant </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.gYuAX66zpZuniHEk\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Armory Merchant\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                        <img class=\"item-image\" src=\"icons/weapons/swords/greatsword-crossguard-steel.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                            Longsword\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 15.00 gp\">\n                        15.00 (15.00 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 1,
+            "priceTotal": "15.00",
+            "data": {
+              "img": "icons/weapons/swords/greatsword-crossguard-steel.webp",
+              "name": "Longsword",
+              "price": "15.00",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "hA281AIaEstOBwvW-sell-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648350974338,
+    "name": "Mako",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"hA281AIaEstOBwvW\" data-lootsheet-loot-id=\"hA281AIaEstOBwvW-sell-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.hA281AIaEstOBwvW\">\n            <img src=\"ddb-images/characters/Mako.jpeg\" class=\"looter-icon character-icon\" title=\"Mako\" />\n        </a>\n        <span class=\"action-message\"> Mako sold to Armory Merchant </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.gYuAX66zpZuniHEk\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Armory Merchant\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                        <img class=\"item-image\" src=\"icons/weapons/swords/scimitar-guard-brown.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                            Pristine Scimitar\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 25.00 gp\">\n                        25.00 (25.00 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 1,
+            "priceTotal": "25.00",
+            "data": {
+              "img": "icons/weapons/swords/scimitar-guard-brown.webp",
+              "name": "Pristine Scimitar",
+              "price": "25.00",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "hA281AIaEstOBwvW-sell-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648351286687,
+    "name": "Mako",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"hA281AIaEstOBwvW\" data-lootsheet-loot-id=\"hA281AIaEstOBwvW-sell-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.hA281AIaEstOBwvW\">\n            <img src=\"ddb-images/characters/Mako.jpeg\" class=\"looter-icon character-icon\" title=\"Mako\" />\n        </a>\n        <span class=\"action-message\"> Mako sold to Armory Merchant </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.gYuAX66zpZuniHEk\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Armory Merchant\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                        <img class=\"item-image\" src=\"icons/weapons/daggers/dagger-jeweled-purple.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                            Small Knife\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 0.00 gp\">\n                        0.00 (0.00 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity=\"Item\" data-id=\"orlgm6dmlmm6fsu9\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.gYuAX66zpZuniHEk.Item.orlgm6dmlmm6fsu9\">\n                        <img class=\"item-image\" src=\"icons/weapons/swords/sword-guard-brown.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity=\"Item\" data-id=\"orlgm6dmlmm6fsu9\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.gYuAX66zpZuniHEk.Item.orlgm6dmlmm6fsu9\">\n                            Shortsword\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 10.00 gp\">\n                        10.00 (10.00 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 1,
+            "priceTotal": "0.00",
+            "data": {
+              "img": "icons/weapons/daggers/dagger-jeweled-purple.webp",
+              "name": "Small Knife",
+              "price": "0.00",
+              "rarity": "common"
+            }
+          },
+          {
+            "quantity": 1,
+            "priceTotal": "10.00",
+            "data": {
+              "documentName": "Item",
+              "img": "icons/weapons/swords/sword-guard-brown.webp",
+              "name": "Shortsword",
+              "id": "orlgm6dmlmm6fsu9",
+              "uuid": "Scene.0orvTxQEbOIh0nZj.Token.gYuAX66zpZuniHEk.Item.orlgm6dmlmm6fsu9",
+              "price": "10.00",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "hA281AIaEstOBwvW-sell-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648351294517,
+    "name": "Drakronos",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"rlalZ9R1qrub70YS\" data-lootsheet-loot-id=\"rlalZ9R1qrub70YS-buy-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.rlalZ9R1qrub70YS\">\n            <img src=\"ddb-images/characters/Drakronos.jpeg\" class=\"looter-icon character-icon\" title=\"Drakronos\" />\n        </a>\n        <span class=\"action-message\"> Drakronos purchased from Armory Merchant </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.gYuAX66zpZuniHEk\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Armory Merchant\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                        <img class=\"item-image\" src=\"icons/environment/traps/trap-jaw-steel.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                            Hunting Trap\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 5.00 gp\">\n                        5.00 (5.00 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 1,
+            "priceTotal": "5.00",
+            "data": {
+              "img": "icons/environment/traps/trap-jaw-steel.webp",
+              "name": "Hunting Trap",
+              "price": "5.00",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "rlalZ9R1qrub70YS-buy-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648351554647,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Mako has sent Wagon 5 Candle",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648351616418,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Mako has sent Wagon 1 Waterskin",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648351639238,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Mako has sent Wagon 1 Hammer",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648351642373,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Mako has sent Wagon 1 Piton",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648351657179,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Mako has sent Wagon 1 Piton",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648351658402,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Mako has sent Wagon 1 Crowbar",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648351671217,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Mako has sent Wagon 1 Clothes, Common",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648351692826,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Mako has sent Wagon 8 Piton",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648351703798,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Mako has sent Wagon 1 Case, Map or Scroll",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648351708155,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Mako has sent Wagon 1 Manacles",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648351709021,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Mako has sent Wagon 1 Case, Map or Scroll",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648351911819,
+    "name": "Vickyan",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"9XSY9lP778mZJ3O9\" data-lootsheet-loot-id=\"9XSY9lP778mZJ3O9-buy-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.9XSY9lP778mZJ3O9\">\n            <img src=\"characters/PCs/Vickyan/WhatsApp%20Image%202022-03-10%20at%207.19.14%20PM%20(3).jpeg\" class=\"looter-icon character-icon\" title=\"Vickyan\" />\n        </a>\n        <span class=\"action-message\"> Vickyan purchased from Armory Merchant </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.gYuAX66zpZuniHEk\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Armory Merchant\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                        <img class=\"item-image\" src=\"icons/weapons/maces/flail-triple-grey.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                            Flail\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 10.00 gp\">\n                        10.00 (10.00 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 1,
+            "priceTotal": "10.00",
+            "data": {
+              "img": "icons/weapons/maces/flail-triple-grey.webp",
+              "name": "Flail",
+              "price": "10.00",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "9XSY9lP778mZJ3O9-buy-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648352214191,
+    "name": "Drakronos",
+    "flavor": "Gem incrusted Shortbow",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"rlalZ9R1qrub70YS\" data-item-id=\"FXoogPFs4AqzZ2TD\" data-actor-uuid=\"Actor.rlalZ9R1qrub70YS\" data-item-uuid=\"Actor.rlalZ9R1qrub70YS.Item.FXoogPFs4AqzZ2TD\" data-token-id=\"Scene.0orvTxQEbOIh0nZj.Token.BDYRmMEHmQmtrKPo\" data-token-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.BDYRmMEHmQmtrKPo\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/weapons/bows/shortbow-recurve-red.webp\" title=\"Gem incrusted Shortbow\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Gem incrusted Shortbow</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>This two handed bow is somewhat smaller than the traditional longbow variant, making it well suited for rapid attacks while on the move or mounted from horseback.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    <button data-action=\"attack\">Attack</button>\n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <button data-action=\"damage\">\n      Damage\n    </button>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"midi-qol-single-hit-card\">\n  <div class=\"midi-qol-nobox\">\n  </div>\n</div><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Simple Ranged</span>\n    <span>Not Equipped</span>\n    <span>Proficient</span>\n    <span>1 Action</span>\n    <span>80 / 320 Feet</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.rlalZ9R1qrub70YS.Item.FXoogPFs4AqzZ2TD",
+        "actorUuid": "Actor.rlalZ9R1qrub70YS",
+        "sound": "none",
+        "type": 1,
+        "itemId": "FXoogPFs4AqzZ2TD",
+        "workflowId": "Actor.rlalZ9R1qrub70YS.Item.FXoogPFs4AqzZ2TD",
+        "waitForDiceSoNice": true,
+        "hideTag": [
+          ".midi-qol-hits-display"
+        ],
+        "displayId": "bzt0ml236a5ym0gr"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1648352380645,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Drakronos has sent Wagon 1 Hunting Trap",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648352431151,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Drakronos has sent Wagon 1 Displacer Beast Meat",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648352816662,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Drakronos has sent Wagon 1 Leather",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648352839550,
+    "name": "Aketo",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"8fK5xJYxZUUHwBaO\" data-lootsheet-loot-id=\"8fK5xJYxZUUHwBaO-sell-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.8fK5xJYxZUUHwBaO\">\n            <img src=\"characters/PCs/Goblin%20Alchemist%20without%20shadow.png\" class=\"looter-icon character-icon\" title=\"Aketo\" />\n        </a>\n        <span class=\"action-message\"> Aketo sold to Armory Merchant </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.gYuAX66zpZuniHEk\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Armory Merchant\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity=\"Item\" data-id=\"xsqfstxj1jkdm8ef\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.gYuAX66zpZuniHEk.Item.xsqfstxj1jkdm8ef\">\n                        <img class=\"item-image\" src=\"icons/weapons/swords/scimitar-guard-brown.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity=\"Item\" data-id=\"xsqfstxj1jkdm8ef\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.gYuAX66zpZuniHEk.Item.xsqfstxj1jkdm8ef\">\n                            Pristine Scimitar\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 25.00 gp\">\n                        25.00 (25.00 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 1,
+            "priceTotal": "25.00",
+            "data": {
+              "documentName": "Item",
+              "img": "icons/weapons/swords/scimitar-guard-brown.webp",
+              "name": "Pristine Scimitar",
+              "id": "xsqfstxj1jkdm8ef",
+              "uuid": "Scene.0orvTxQEbOIh0nZj.Token.gYuAX66zpZuniHEk.Item.xsqfstxj1jkdm8ef",
+              "price": "25.00",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "8fK5xJYxZUUHwBaO-sell-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648352992610,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Drakronos has sent Wagon 1 Displacer Beast Meat",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648353044568,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Drakronos has sent Wagon 1 Displacer Beast Meat",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648353095647,
+    "name": "GM - MAC",
+    "flavor": "",
+    "content": "Drakronos has sent Wagon 9 Displacer Beast Meat",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648353162003,
+    "name": "44815051",
+    "flavor": "Strength",
+    "content": "7",
+    "roll": "{\"diceNotationStr\":\"1d20+3\",\"result\":\"4+3\",\"values\":[4],\"total\":7,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1648353169420,
+    "name": "44815051",
+    "flavor": "Strength",
+    "content": "23",
+    "roll": "{\"diceNotationStr\":\"1d20+3\",\"result\":\"20+3\",\"values\":[20],\"total\":23,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1648353179783,
+    "name": "44815051",
+    "flavor": "Dexterity",
+    "content": "4",
+    "roll": "{\"diceNotationStr\":\"1d20+2\",\"result\":\"2+2\",\"values\":[2],\"total\":4,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1648353188383,
+    "name": "44815051",
+    "flavor": "Dexterity",
+    "content": "11",
+    "roll": "{\"diceNotationStr\":\"1d20+2\",\"result\":\"9+2\",\"values\":[9],\"total\":11,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1648353196087,
+    "name": "44815051",
+    "flavor": "Constitution",
+    "content": "8",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"7+1\",\"values\":[7],\"total\":8,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1648353209264,
+    "name": "44815051",
+    "flavor": "Constitution",
+    "content": "7",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"6+1\",\"values\":[6],\"total\":7,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1648353217352,
+    "name": "44815051",
+    "flavor": "Intelligence",
+    "content": "11",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"10+1\",\"values\":[10],\"total\":11,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1648353228742,
+    "name": "44815051",
+    "flavor": "Charisma",
+    "content": "6",
+    "roll": "{\"diceNotationStr\":\"1d20+1\",\"result\":\"5+1\",\"values\":[5],\"total\":6,\"rollType\":\"check\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1648353238673,
+    "name": "44815051",
+    "flavor": "custom",
+    "content": "7",
+    "roll": "{\"diceNotationStr\":\"1d8\",\"result\":\"7\",\"values\":[7],\"total\":7,\"rollType\":\"roll\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1648353253129,
+    "name": "44815051",
+    "flavor": "custom",
+    "content": "6",
+    "roll": "{\"diceNotationStr\":\"2d12\",\"result\":\"1+5\",\"values\":[1,5],\"total\":6,\"rollType\":\"roll\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1648353277603,
+    "name": "44815051",
+    "flavor": "custom",
+    "content": "11",
+    "roll": "{\"diceNotationStr\":\"3d10\",\"result\":\"6+2+3\",\"values\":[6,2,3],\"total\":11,\"rollType\":\"roll\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1648353290814,
+    "name": "44815051",
+    "flavor": "custom",
+    "content": "1",
+    "roll": "{\"diceNotationStr\":\"1d6\",\"result\":\"1\",\"values\":[1],\"total\":1,\"rollType\":\"roll\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1648353301662,
+    "name": "44815051",
+    "flavor": "custom",
+    "content": "26",
+    "roll": "{\"diceNotationStr\":\"2d20\",\"result\":\"6+20\",\"values\":[6,20],\"total\":26,\"rollType\":\"roll\"}",
+    "flags": null
+  },
+  {
+    "timestamp": 1648353853128,
+    "name": "Aketo",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"8fK5xJYxZUUHwBaO\" data-lootsheet-loot-id=\"8fK5xJYxZUUHwBaO-sell-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.8fK5xJYxZUUHwBaO\">\n            <img src=\"characters/PCs/Goblin%20Alchemist%20without%20shadow.png\" class=\"looter-icon character-icon\" title=\"Aketo\" />\n        </a>\n        <span class=\"action-message\"> Aketo sold to Leatherworker Merchant </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.ShV829nBspkCBjW5\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Leatherworker Merchant\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                        <img class=\"item-image\" src=\"icons/equipment/chest/breastplate-scale-leather.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                            Hide\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 10.00 gp\">\n                        10.00 (10.00 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 1,
+            "priceTotal": "10.00",
+            "data": {
+              "img": "icons/equipment/chest/breastplate-scale-leather.webp",
+              "name": "Hide",
+              "price": "10.00",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "8fK5xJYxZUUHwBaO-sell-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648353853158,
+    "name": "Aketo",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"8fK5xJYxZUUHwBaO\" data-lootsheet-loot-id=\"8fK5xJYxZUUHwBaO-sell-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.8fK5xJYxZUUHwBaO\">\n            <img src=\"characters/PCs/Goblin%20Alchemist%20without%20shadow.png\" class=\"looter-icon character-icon\" title=\"Aketo\" />\n        </a>\n        <span class=\"action-message\"> Aketo sold to Leatherworker Merchant </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.ShV829nBspkCBjW5\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Leatherworker Merchant\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                        <img class=\"item-image\" src=\"icons/equipment/chest/breastplate-rivited-red.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                            Studded Leather Armor\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 45.00 gp\">\n                        45.00 (45.00 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 1,
+            "priceTotal": "45.00",
+            "data": {
+              "img": "icons/equipment/chest/breastplate-rivited-red.webp",
+              "name": "Studded Leather Armor",
+              "price": "45.00",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "8fK5xJYxZUUHwBaO-sell-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648354089466,
+    "name": "Mako",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"hA281AIaEstOBwvW\" data-lootsheet-loot-id=\"hA281AIaEstOBwvW-buy-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.hA281AIaEstOBwvW\">\n            <img src=\"ddb-images/characters/Mako.jpeg\" class=\"looter-icon character-icon\" title=\"Mako\" />\n        </a>\n        <span class=\"action-message\"> Mako purchased from Leatherworker Merchant </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.ShV829nBspkCBjW5\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Leatherworker Merchant\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                        <img class=\"item-image\" src=\"icons/equipment/shield/oval-wooden-boss-steel.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                            Shield\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 10.00 gp\">\n                        10.00 (10.00 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 1,
+            "priceTotal": "10.00",
+            "data": {
+              "img": "icons/equipment/shield/oval-wooden-boss-steel.webp",
+              "name": "Shield",
+              "price": "10.00",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "hA281AIaEstOBwvW-buy-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648354534252,
+    "name": "Aketo",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"8fK5xJYxZUUHwBaO\" data-lootsheet-loot-id=\"8fK5xJYxZUUHwBaO-buy-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.8fK5xJYxZUUHwBaO\">\n            <img src=\"characters/PCs/Goblin%20Alchemist%20without%20shadow.png\" class=\"looter-icon character-icon\" title=\"Aketo\" />\n        </a>\n        <span class=\"action-message\"> Aketo purchased from Leatherworker Merchant </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.ShV829nBspkCBjW5\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Leatherworker Merchant\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>1  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                        <img class=\"item-image\" src=\"icons/weapons/slings/slingshot-wood.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                            Sling\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"1 × 0.10 gp\">\n                        0.10 (0.10 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 1,
+            "priceTotal": "0.10",
+            "data": {
+              "img": "icons/weapons/slings/slingshot-wood.webp",
+              "name": "Sling",
+              "price": "0.10",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "8fK5xJYxZUUHwBaO-buy-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648354582798,
+    "name": "Drakronos",
+    "flavor": "",
+    "content": "<div class=\"dnd5e lsnpc chat-card item-card loot-item-card\" data-actor-id=\"rlalZ9R1qrub70YS\" data-lootsheet-loot-id=\"rlalZ9R1qrub70YS-buy-mefKPDFumH6gaITj\" style=\"--sheettint:rgba(0,0,0,0);--avatartint:rgba(0,0,0,0);--blendmode: ;--style: \">\n    <div class=\"loot-info flexrow\" style=\"align-items:center;justify-content:center\">\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Actor.rlalZ9R1qrub70YS\">\n            <img src=\"ddb-images/characters/Drakronos.jpeg\" class=\"looter-icon character-icon\" title=\"Drakronos\" />\n        </a>\n        <span class=\"action-message\"> Drakronos purchased from Fletcher/Bowyer </span>\n        <a class=\"lsnpc-document-link\" draggable=\"true\" data-entity=\"Actor\" data-uuid=\"Scene.0orvTxQEbOIh0nZj.Token.TeqcqflVtej7l0Jz\">\n            <img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Humans/Human_Male_Commoner_02.png\" class=\"looter-icon npc-icon\" title=\"Fletcher/Bowyer\" />\n        </a>\n    </div>\n\n    <header class=\"card-header flexrow\">\n        <span class=\"item-name\"> ↕ Toggle Details ↕ </span>\n    </header>\n\n    <div class=\"card-content\" style=\"display:none\">\n        <ol class=\"loot-results item-list\">\n                \n                <li class=\"table-result item flexrow\">\n                    <div class=\"item-quantity\">\n                        <strong>5  ×</strong>\n                    </div>\n                    <a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                        <img class=\"item-image\" src=\"icons/weapons/ammunition/arrow-head-war.webp\" />\n                        </a><div class=\"item-name\"><a class=\"item-link lsnpc-document-link\" draggable=\"true\" data-entity data-id data-uuid>\n                            Holy Arrow (Magical)\n                        </a>\n                    </div>\n                    <div class=\"item-price\" title=\"5 × 10.00 gp\">\n                        50.00 (10.00 ) <i class=\"fas fa-coins\"></i>\n                    </div>\n                </li>\n        </ol>\n    </div>\n</div>",
+    "roll": null,
+    "flags": {
+      "lootsheetnpc5e": {
+        "loot": [
+          {
+            "quantity": 5,
+            "priceTotal": "50.00",
+            "data": {
+              "img": "icons/weapons/ammunition/arrow-head-war.webp",
+              "name": "Holy Arrow (Magical)",
+              "price": "10.00",
+              "rarity": "common"
+            }
+          }
+        ],
+        "lootId": "rlalZ9R1qrub70YS-buy-mefKPDFumH6gaITj"
+      }
+    }
+  },
+  {
+    "timestamp": 1648354791290,
+    "name": "Drakronos",
+    "flavor": "Animal Handling Skill Check: Drakronos (Advantage)",
+    "content": "22",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Animal Handling Skill Check: Drakronos\",\"advantageMode\":1,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"2d20kh +  - 1 + 8 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1,\"advantage\":true},\"evaluated\":true,\"number\":2,\"faces\":20,\"modifiers\":[\"kh\"],\"results\":[{\"result\":2,\"active\":false,\"discarded\":true},{\"result\":15,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":8},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":22,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "ani"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1648354812248,
+    "name": "Drakronos",
+    "flavor": "Animal Handling Skill Check: Drakronos (Advantage)",
+    "content": "22",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Animal Handling Skill Check: Drakronos\",\"advantageMode\":1,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"2d20kh +  - 1 + 8 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1,\"advantage\":true},\"evaluated\":true,\"number\":2,\"faces\":20,\"modifiers\":[\"kh\"],\"results\":[{\"result\":15,\"active\":true},{\"result\":1,\"active\":false,\"discarded\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":8},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":22,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "ani"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1648354872571,
+    "name": "Drakronos",
+    "flavor": "Animal Handling Skill Check: Drakronos (Advantage)",
+    "content": "22",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Animal Handling Skill Check: Drakronos\",\"advantageMode\":1,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"2d20kh +  - 1 + 8 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1,\"advantage\":true},\"evaluated\":true,\"number\":2,\"faces\":20,\"modifiers\":[\"kh\"],\"results\":[{\"result\":15,\"active\":true},{\"result\":13,\"active\":false,\"discarded\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":8},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":22,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "ani"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1648354936270,
+    "name": "Mako",
+    "flavor": "Charisma Ability Check: Mako (Advantage)",
+    "content": "21",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Charisma Ability Check: Mako\",\"advantageMode\":1,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"2d20kh + 2\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1,\"advantage\":true},\"evaluated\":true,\"number\":2,\"faces\":20,\"modifiers\":[\"kh\"],\"results\":[{\"result\":19,\"active\":true},{\"result\":13,\"active\":false,\"discarded\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":21,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "check",
+          "abilityId": "cha"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1648354944454,
+    "name": "Mako",
+    "flavor": "Charisma Ability Check: Mako (Advantage)",
+    "content": "22",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Charisma Ability Check: Mako\",\"advantageMode\":1,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"2d20kh + 2\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1,\"advantage\":true},\"evaluated\":true,\"number\":2,\"faces\":20,\"modifiers\":[\"kh\"],\"results\":[{\"result\":3,\"active\":false,\"discarded\":true},{\"result\":20,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":22,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "check",
+          "abilityId": "cha"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1648354950217,
+    "name": "Mako",
+    "flavor": "Charisma Ability Check: Mako (Advantage)",
+    "content": "13",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Charisma Ability Check: Mako\",\"advantageMode\":1,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"2d20kh + 2\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1,\"advantage\":true},\"evaluated\":true,\"number\":2,\"faces\":20,\"modifiers\":[\"kh\"],\"results\":[{\"result\":10,\"active\":false,\"discarded\":true},{\"result\":11,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":13,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "check",
+          "abilityId": "cha"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1648355882768,
+    "name": "hpSkFBSeIKa9OPHh",
+    "flavor": "",
+    "content": "<div class=\"chat-images-container\"><img src=\"uploaded-chat-images/image_omti43wo3zrljn2ik0m5w.png\" /></div>",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1648356731731,
+    "name": "Drakronos",
+    "flavor": "",
+    "content": "Drakronos has sent Wagon 10 Iron Spike",
+    "roll": null,
+    "flags": {}
+  }
+]

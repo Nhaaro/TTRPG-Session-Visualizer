@@ -1,0 +1,159 @@
+[
+  {
+    "timestamp": 1657514912520,
+    "name": "Changeable Commoner (8)",
+    "flavor": "<h4 class=\"action\">Melee Strike: Sickle</h4><div class=\"target-dc-result\">\n    <div class=\"target-dc\" data-visibility=\"gm\"><span data-visibility=\"gm\" data-whose=\"target\">Target: Noble Skeleton Guard (12)</span> <span data-visibility=\"gm\" data-whose=\"target\">(AC 16)</span></div>\n    <div class=\"result degree-of-success\" data-visibility=\"all\">Result: <span data-visibility=\"all\" data-whose=\"self\" class=\"failure\">Miss</span> <span data-visibility=\"gm\" data-whose=\"target\">by -1</span></div>\n</div><div class=\"tags\"><span class=\"tag\" data-slug=\"attack\" data-description=\"PF2E.TraitDescriptionAttack\">Attack</span><hr class=\"vr\" /><span class=\"tag tag_alt\" data-slug=\"agile\" data-description=\"PF2E.TraitDescriptionAgile\">Agile</span><span class=\"tag tag_alt\" data-slug=\"trip\" data-description=\"PF2E.TraitDescriptionTrip\">Trip</span></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"base-modifier\">Base Modifier +2</span><span class=\"tag tag_transparent\" data-slug=\"strength\">Strength +3</span></div>",
+    "content": "15",
+    "roll": null,
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "actor": "4VU7bxIt7TEMkPwu",
+          "target": {
+            "actor": "Scene.DdMFpnjaQIqy8UWv.Token.gwNpA5lfpQ3oCJIQ",
+            "token": "Scene.DdMFpnjaQIqy8UWv.Token.gwNpA5lfpQ3oCJIQ"
+          },
+          "type": "attack-roll",
+          "options": [
+            "self:type:npc",
+            "self:level:-1",
+            "self:effect:purple",
+            "self:mode:living",
+            "self:trait:human",
+            "self:trait:humanoid",
+            "self:size:2",
+            "self:size:medium",
+            "target:type:npc",
+            "target:level:-1",
+            "target:mode:undead",
+            "target:trait:mindless",
+            "target:trait:skeleton",
+            "target:trait:undead",
+            "target:trait:evil",
+            "target:size:2",
+            "target:size:medium",
+            "attack",
+            "target:distance:5",
+            "agile",
+            "trip",
+            "weapon:equipped",
+            "weapon:id:o8GJ3AVTDFtS1dFG",
+            "weapon:melee",
+            "weapon:sickle",
+            "weapon:trait:agile",
+            "weapon:trait:trip",
+            "melee"
+          ],
+          "notes": [],
+          "dc": {
+            "scope": "attack",
+            "slug": "ac",
+            "value": 16
+          },
+          "rollTwice": false,
+          "traits": [
+            {
+              "name": "attack",
+              "label": "Attack",
+              "description": "PF2E.TraitDescriptionAttack"
+            }
+          ],
+          "skipDialog": true,
+          "outcome": "failure",
+          "unadjustedOutcome": "failure",
+          "token": null,
+          "secret": false,
+          "rollMode": "gmroll",
+          "title": "PF2E.Check.Label",
+          "substitutions": [],
+          "isReroll": false
+        },
+        "unsafe": "<h4 class=\"action\">Melee Strike: Sickle</h4><div class=\"target-dc-result\">\n    <div class=\"target-dc\" data-visibility=\"gm\"><span data-visibility=\"gm\" data-whose=\"target\">Target: Noble Skeleton Guard (12)</span> <span data-visibility=\"gm\" data-whose=\"target\">(AC 16)</span></div>\n    <div class=\"result degree-of-success\" data-visibility=\"all\">Result: <span data-visibility=\"all\" data-whose=\"self\" class=\"failure\">Miss</span> <span data-visibility=\"gm\" data-whose=\"target\">by -1</span></div>\n</div><div class=\"tags\"><span class=\"tag\" data-slug=\"attack\" data-description=\"PF2E.TraitDescriptionAttack\">Attack</span><hr class=\"vr\"><span class=\"tag tag_alt\" data-slug=\"agile\" data-description=\"PF2E.TraitDescriptionAgile\">Agile</span><span class=\"tag tag_alt\" data-slug=\"trip\" data-description=\"PF2E.TraitDescriptionTrip\">Trip</span></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"base-modifier\">Base Modifier +2</span><span class=\"tag tag_transparent\" data-slug=\"strength\">Strength +3</span></div>",
+        "modifierName": "Melee Strike: Sickle",
+        "modifiers": [
+          {
+            "label": "Base Modifier",
+            "slug": "base-modifier",
+            "modifier": 2,
+            "type": "untyped",
+            "ability": null,
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          },
+          {
+            "label": "Strength",
+            "slug": "strength",
+            "modifier": 3,
+            "type": "ability",
+            "ability": null,
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          },
+          {
+            "label": "Power of the Mob",
+            "slug": "power-of-the-mob",
+            "modifier": 1,
+            "type": "untyped",
+            "ability": null,
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": false,
+            "ignored": true,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [
+                "power-of-the-mob"
+              ],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          }
+        ],
+        "origin": {
+          "uuid": "Scene.DdMFpnjaQIqy8UWv.Token.9gHjrTAdGZGi56kC.Item.o8GJ3AVTDFtS1dFG",
+          "type": "melee"
+        }
+      }
+    }
+  }
+]

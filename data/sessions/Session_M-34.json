@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": 1657514912609,
+    "name": "Beemiw",
+    "flavor": "Heal - Healing\n<div class=\"item-properties tags\"><span class=\"tag\" data-trait=\"healing\" data-description=\"PF2E.TraitDescriptionHealing\">Healing</span><span class=\"tag\" data-trait=\"positive\" data-description=\"PF2E.TraitDescriptionPositive\">Positive</span></div>",
+    "content": "2",
+    "roll": null,
+    "flags": {
+      "pf2e": {
+        "origin": {
+          "uuid": "Actor.O6C3SvXkV17WiAlg.Item.rfZpqmj0AIIdkVIs",
+          "type": "spell"
+        }
+      },
+      "core": {}
+    }
+  }
+]

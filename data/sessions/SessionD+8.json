@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": 1646528158771,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1646530046364,
+    "name": "44815051",
+    "flavor": "History",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1646530535938,
+    "name": "44815051",
+    "flavor": "Arcana",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1646535182608,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "16",
+    "roll": ""
+  },
+  {
+    "timestamp": 1646535392311,
+    "name": "44815051",
+    "flavor": "Initiative",
+    "content": "5",
+    "roll": "{\"diceNotationStr\":\"1d20+2\",\"result\":\"3+2\",\"values\":[3],\"total\":5,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1646536287088,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "16",
+    "roll": ""
+  },
+  {
+    "timestamp": 1646536292790,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1646538438628,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "13",
+    "roll": ""
+  },
+  {
+    "timestamp": 1646538453223,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "5",
+    "roll": ""
+  },
+  {
+    "timestamp": 1646539667070,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1646541342230,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1646542811175,
+    "name": "44815051",
+    "flavor": "Perception",
+    "content": "2",
+    "roll": ""
+  },
+  {
+    "timestamp": 1646542968068,
+    "name": "44815051",
+    "flavor": "custom",
+    "content": "11",
+    "roll": "{\"diceNotationStr\":\"2d12\",\"result\":\"2+9\",\"values\":[2,9],\"total\":11,\"rollType\":\"roll\"}"
+  }
+]

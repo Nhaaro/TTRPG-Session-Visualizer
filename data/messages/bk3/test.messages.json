@@ -1,0 +1,584 @@
+[
+  {
+    "whisper": [
+      "yQTG3i2JbB4S26xO"
+    ],
+    "speaker": {
+      "alias": "Foundry Virtual Tabletop",
+      "scene": null,
+      "actor": null,
+      "token": null
+    },
+    "flags": {
+      "core": {
+        "nue": true,
+        "canPopout": true
+      },
+      "pf2e": {}
+    },
+    "content": "<h3 class=\"nue\">Getting Started</h3>\n      <p class=\"nue\">It looks like this is a new world. To get started, you should first add any additional players you might need via the <a class=\"nue-tab\" data-tab=\"settings\">User Management</a> configuration. From there, you can create <a class=\"nue-tab\" data-tab=\"actors\">Actors</a> for them, as well as any other important personas you need to represent. Maps and other visuals can be set up using <a class=\"nue-tab\" data-tab=\"scenes\">Scenes</a>, and handouts, notes, and other information can be stored in <a class=\"nue-tab\" data-tab=\"journal\">Journal Entries</a>.</p>\n      <p class=\"nue\">Be sure to investigate all of the tabs available in this sidebar, and for more in-depth information, you can review the <a href=\"https://foundryvtt.com/article/tutorial/\" target=\"_blank\">Gamemaster Tutorial</a> series in our <a href=\"https://foundryvtt.com/kb/\" target=\"_blank\">Knowledge Base</a>.</p>\n      <footer class=\"nue\"><i class=\"fas fa-info-circle\"></i> This chat card can be popped out by right-clicking it, or you can pop out the entire chat tab by right-clicking the speech bubble icon at the top. You can do the same thing to popout any of the other sidebar tabs as well.</footer>",
+    "type": 0,
+    "user": "yQTG3i2JbB4S26xO",
+    "timestamp": 1669577382911,
+    "flavor": "",
+    "blind": false,
+    "rolls": [],
+    "sound": null,
+    "emote": false,
+    "_id": "DxqYkBfRbTY6OFkv"
+  },
+  {
+    "whisper": [
+      "yQTG3i2JbB4S26xO"
+    ],
+    "speaker": {
+      "alias": "Foundry Virtual Tabletop",
+      "scene": null,
+      "actor": null,
+      "token": null
+    },
+    "flags": {
+      "core": {
+        "nue": true,
+        "canPopout": true
+      },
+      "pf2e": {}
+    },
+    "content": "<h3 class=\"nue\">Inviting Your Players</h3>\n      <p class=\"nue\">When everything is set up and you're ready to invite your players, you can send them a link to your world from the <a class=\"nue-action\" data-action=\"invite\">Invitation Links</a>.</p>\n      <p class=\"nue\">If the Invitation Links dialog indicates that your connection is closed, you may need to set up port forwarding. You can find instructions on how to do this in our <a href=\"https://foundryvtt.com/article/port-forwarding/\" target=\"_blank\">Port Forwarding Guide</a>. If you still need help, you are welcome to join our Discord and make a post in <a href=\"https://discord.com/channels/170995199584108546/689889940590690323\" target=\"_blank\">#install-and-connection</a> for invite issues, <a href=\"https://discord.com/channels/170995199584108546/486930822465716249\" target=\"_blank\">#troubleshooting</a> for general issues with the software, or <a href=\"https://discord.com/channels/170995199584108546/713259405667205193\" target=\"_blank\">#core-how-to</a> to find out how to do something in Foundry VTT.</p>\n      <footer class=\"nue\"><i class=\"fas fa-info-circle\"></i> This chat card can be popped out by right-clicking it, or you can pop out the entire chat tab by right-clicking the speech bubble icon at the top. You can do the same thing to popout any of the other sidebar tabs as well.</footer>",
+    "type": 0,
+    "user": "yQTG3i2JbB4S26xO",
+    "timestamp": 1669577383041,
+    "flavor": "",
+    "blind": false,
+    "rolls": [],
+    "sound": null,
+    "emote": false,
+    "_id": "OU3dt4jTYTOi87Vz"
+  },
+  {
+    "user": "yQTG3i2JbB4S26xO",
+    "speaker": {
+      "scene": "K3jnQftAHjFVfNzj",
+      "actor": null,
+      "token": null,
+      "alias": "Gamemaster"
+    },
+    "content": "<div class=\"div-styled\" style=\"padding:5px\">\n        <div style=\"text-align:justify;color:#E7E7E7;padding:10px;background-color:#212121;border:3px solid #FFBA00;border-radius:10px\">\n            <p style=\"text-align:center\">\n                <a href=\"https:\\jb2a.com\">\n                    <video autoplay=\"true\" muted=\"true\" loop style=\"max-width:150px\">\n                        <source src=\"modules/JB2A_DnD5e/artwork/Circle_Icon_4sec_400x400.webm\" type=\"video/webm\"></source>\n                    </video>\n                </a>\n            </p>\n            <hr />\n            <div>\n                <p style=\"text-align:justify\">All you need to know should be on our website. Feel free to join our Discord for more help ! </p>\n                <p style=\"text-align:center\"> <a href=\"https://jb2a.com\">Website</a></p>\n                <p style=\"text-align:center;line-height:150%\"> <a href=\"https://www.patreon.com/JB2A\">Patreon</a></p>\n                <p style=\"text-align:center;line-height:150%\"> <a href=\"https://discord.gg/gmd8MAPX4m\">Discord</a></p><p> \n\n\n\n            </p></div>\n            <hr />\n            <div class=\"div-styled\" style=\"font-style:italic\">\n                <p style=\"text-align:justify\">\n                This chat card will only be shown once. Activate once more in the settings if needed.\n                </p>\n            </div>\n\n        </div>\n    </div>",
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "type": 0,
+    "timestamp": 1669577509903,
+    "flavor": "",
+    "whisper": [],
+    "blind": false,
+    "rolls": [],
+    "sound": null,
+    "emote": false,
+    "_id": "Awhd3prclFggKQzV"
+  },
+  {
+    "speaker": {
+      "scene": "K3jnQftAHjFVfNzj",
+      "token": "c4TmMtrv7ZqdFnAd",
+      "actor": "ALy3nplhyAuInuEn",
+      "alias": "New Actor"
+    },
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "origin": {
+          "uuid": "Actor.ALy3nplhyAuInuEn.Item.RnHlOectNGIbK4Wy",
+          "type": "spell"
+        },
+        "casting": {
+          "id": "9oIJcU5bkdhpjmRE",
+          "level": 1,
+          "tradition": "arcane"
+        },
+        "isFromConsumable": false
+      }
+    },
+    "type": 0,
+    "content": "<div class=\"pf2e chat-card item-card\" data-spell-lvl=\"1\" data-cast-level=\"1\" data-actor-id=\"ALy3nplhyAuInuEn\" data-item-id=\"RnHlOectNGIbK4Wy\">\n    <header class=\"card-header flexrow\">\n        <img src=\"systems/pf2e/icons/spells/animate-dead.webp\" title=\"Animate Dead\" width=\"36\" height=\"36\" />\n        <h3>Animate Dead</h3>\n        <h4>Spell 1</h4>\n    </header>\n\n    <section class=\"item-properties tags\">                <span class=\"tag\" data-trait=\"concentrate\" data-description=\"PF2E.TraitDescriptionConcentrate\">Concentrate</span>\n                <span class=\"tag\" data-trait=\"manipulate\" data-description=\"PF2E.TraitDescriptionManipulate\">Manipulate</span>\n            <hr class=\"vr\" />            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionArcane\">Arcane</span>\n            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionNecromancy\">Necromancy</span>\n    </section>\n\n    <section class=\"card-content\">\n        <p>Your magic dredges up a corpse or skeleton and fills it with necromantic life, and you force the dead to fight at your command. You summon a common creature that has the undead trait and whose level is -1; this creature gains the summoned trait. Heightening the spell increases the maximum level of creature you can summon.</p>\n<hr />\n<p><strong>Heightened (2nd)</strong> Level 1.</p>\n<p><strong>Heightened (3rd)</strong> Level 2.</p>\n<p><strong>Heightened (4th)</strong> Level 3.</p>\n<p><strong>Heightened (5th)</strong> Level 5.</p>\n<p><strong>Heightened (6th)</strong> Level 7.</p>\n<p><strong>Heightened (7th)</strong> Level 9.</p>\n<p><strong>Heightened (8th)</strong> Level 11.</p>\n<p><strong>Heightened (9th)</strong> Level 13.</p>\n<p><strong>Heightened (10th)</strong> Level 15.</p>\n    </section>\n\n    <section class=\"card-buttons\">\n    </section>\n\n    <footer class=\"card-footer\">\n            <span>Components: MSV</span>\n            <span>Range: 30 feet</span>\n            <span>Cast Time: 3</span>\n            <span>Duration: sustained up to 1 minute</span>\n    </footer>\n</div>",
+    "user": "yQTG3i2JbB4S26xO",
+    "timestamp": 1669577535691,
+    "flavor": "",
+    "whisper": [],
+    "blind": false,
+    "rolls": [],
+    "sound": null,
+    "emote": false,
+    "_id": "5A795LUkNTs3dLE9"
+  },
+  {
+    "speaker": {
+      "scene": "K3jnQftAHjFVfNzj",
+      "token": "c4TmMtrv7ZqdFnAd",
+      "actor": "ALy3nplhyAuInuEn",
+      "alias": "New Actor"
+    },
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "origin": {
+          "uuid": "Actor.ALy3nplhyAuInuEn.Item.RnHlOectNGIbK4Wy",
+          "type": "spell"
+        },
+        "casting": {
+          "id": "9oIJcU5bkdhpjmRE",
+          "level": 1,
+          "tradition": "arcane"
+        },
+        "isFromConsumable": false
+      }
+    },
+    "type": 0,
+    "content": "<div class=\"pf2e chat-card item-card\" data-spell-lvl=\"1\" data-cast-level=\"1\" data-actor-id=\"ALy3nplhyAuInuEn\" data-item-id=\"RnHlOectNGIbK4Wy\">\n    <header class=\"card-header flexrow\">\n        <img src=\"systems/pf2e/icons/spells/animate-dead.webp\" title=\"Animate Dead\" width=\"36\" height=\"36\" />\n        <h3>Animate Dead</h3>\n        <h4>Spell 1</h4>\n    </header>\n\n    <section class=\"item-properties tags\">                <span class=\"tag\" data-trait=\"concentrate\" data-description=\"PF2E.TraitDescriptionConcentrate\">Concentrate</span>\n                <span class=\"tag\" data-trait=\"manipulate\" data-description=\"PF2E.TraitDescriptionManipulate\">Manipulate</span>\n            <hr class=\"vr\" />            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionArcane\">Arcane</span>\n            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionNecromancy\">Necromancy</span>\n    </section>\n\n    <section class=\"card-content\">\n        <p>Your magic dredges up a corpse or skeleton and fills it with necromantic life, and you force the dead to fight at your command. You summon a common creature that has the undead trait and whose level is -1; this creature gains the summoned trait. Heightening the spell increases the maximum level of creature you can summon.</p>\n<hr />\n<p><strong>Heightened (2nd)</strong> Level 1.</p>\n<p><strong>Heightened (3rd)</strong> Level 2.</p>\n<p><strong>Heightened (4th)</strong> Level 3.</p>\n<p><strong>Heightened (5th)</strong> Level 5.</p>\n<p><strong>Heightened (6th)</strong> Level 7.</p>\n<p><strong>Heightened (7th)</strong> Level 9.</p>\n<p><strong>Heightened (8th)</strong> Level 11.</p>\n<p><strong>Heightened (9th)</strong> Level 13.</p>\n<p><strong>Heightened (10th)</strong> Level 15.</p>\n    </section>\n\n    <section class=\"card-buttons\">\n    </section>\n\n    <footer class=\"card-footer\">\n            <span>Components: MSV</span>\n            <span>Range: 30 feet</span>\n            <span>Cast Time: 3</span>\n            <span>Duration: sustained up to 1 minute</span>\n    </footer>\n</div>",
+    "user": "yQTG3i2JbB4S26xO",
+    "timestamp": 1669577595275,
+    "flavor": "",
+    "whisper": [],
+    "blind": false,
+    "rolls": [],
+    "sound": null,
+    "emote": false,
+    "_id": "CPdfRZmVpoFNU7hO"
+  },
+  {
+    "speaker": {
+      "scene": "K3jnQftAHjFVfNzj",
+      "token": "c4TmMtrv7ZqdFnAd",
+      "actor": "ALy3nplhyAuInuEn",
+      "alias": "New Actor"
+    },
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "origin": {
+          "uuid": "Actor.ALy3nplhyAuInuEn.Item.RnHlOectNGIbK4Wy",
+          "type": "spell"
+        },
+        "casting": {
+          "id": "9oIJcU5bkdhpjmRE",
+          "level": 1,
+          "tradition": "arcane"
+        },
+        "isFromConsumable": false
+      }
+    },
+    "type": 0,
+    "content": "<div class=\"pf2e chat-card item-card\" data-spell-lvl=\"1\" data-cast-level=\"1\" data-actor-id=\"ALy3nplhyAuInuEn\" data-item-id=\"RnHlOectNGIbK4Wy\">\n    <header class=\"card-header flexrow\">\n        <img src=\"systems/pf2e/icons/spells/animate-dead.webp\" title=\"Animate Dead\" width=\"36\" height=\"36\" />\n        <h3>Animate Dead</h3>\n        <h4>Spell 1</h4>\n    </header>\n\n    <section class=\"item-properties tags\">                <span class=\"tag\" data-trait=\"concentrate\" data-description=\"PF2E.TraitDescriptionConcentrate\">Concentrate</span>\n                <span class=\"tag\" data-trait=\"manipulate\" data-description=\"PF2E.TraitDescriptionManipulate\">Manipulate</span>\n            <hr class=\"vr\" />            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionArcane\">Arcane</span>\n            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionNecromancy\">Necromancy</span>\n    </section>\n\n    <section class=\"card-content\">\n        <p>Your magic dredges up a corpse or skeleton and fills it with necromantic life, and you force the dead to fight at your command. You summon a common creature that has the undead trait and whose level is -1; this creature gains the summoned trait. Heightening the spell increases the maximum level of creature you can summon.</p>\n<hr />\n<p><strong>Heightened (2nd)</strong> Level 1.</p>\n<p><strong>Heightened (3rd)</strong> Level 2.</p>\n<p><strong>Heightened (4th)</strong> Level 3.</p>\n<p><strong>Heightened (5th)</strong> Level 5.</p>\n<p><strong>Heightened (6th)</strong> Level 7.</p>\n<p><strong>Heightened (7th)</strong> Level 9.</p>\n<p><strong>Heightened (8th)</strong> Level 11.</p>\n<p><strong>Heightened (9th)</strong> Level 13.</p>\n<p><strong>Heightened (10th)</strong> Level 15.</p>\n    </section>\n\n    <section class=\"card-buttons\">\n    </section>\n\n    <footer class=\"card-footer\">\n            <span>Components: MSV</span>\n            <span>Range: 30 feet</span>\n            <span>Cast Time: 3</span>\n            <span>Duration: sustained up to 1 minute</span>\n    </footer>\n</div>",
+    "user": "yQTG3i2JbB4S26xO",
+    "timestamp": 1669577609353,
+    "flavor": "",
+    "whisper": [],
+    "blind": false,
+    "rolls": [],
+    "sound": null,
+    "emote": false,
+    "_id": "RYzOYyE9HIecxVhO"
+  },
+  {
+    "speaker": {
+      "scene": "K3jnQftAHjFVfNzj",
+      "token": "c4TmMtrv7ZqdFnAd",
+      "actor": "ALy3nplhyAuInuEn",
+      "alias": "New Actor"
+    },
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "origin": {
+          "uuid": "Actor.ALy3nplhyAuInuEn.Item.RnHlOectNGIbK4Wy",
+          "type": "spell"
+        },
+        "casting": {
+          "id": "9oIJcU5bkdhpjmRE",
+          "level": 2,
+          "tradition": "arcane"
+        },
+        "isFromConsumable": false
+      }
+    },
+    "type": 0,
+    "content": "<div class=\"pf2e chat-card item-card\" data-spell-lvl=\"2\" data-cast-level=\"2\" data-actor-id=\"ALy3nplhyAuInuEn\" data-item-id=\"RnHlOectNGIbK4Wy\">\n    <header class=\"card-header flexrow\">\n        <img src=\"systems/pf2e/icons/spells/animate-dead.webp\" title=\"Animate Dead\" width=\"36\" height=\"36\" />\n        <h3>Animate Dead</h3>\n        <h4>Spell 2</h4>\n    </header>\n\n    <section class=\"item-properties tags\">                <span class=\"tag\" data-trait=\"concentrate\" data-description=\"PF2E.TraitDescriptionConcentrate\">Concentrate</span>\n                <span class=\"tag\" data-trait=\"manipulate\" data-description=\"PF2E.TraitDescriptionManipulate\">Manipulate</span>\n            <hr class=\"vr\" />            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionArcane\">Arcane</span>\n            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionNecromancy\">Necromancy</span>\n    </section>\n\n    <section class=\"card-content\">\n        <p>Your magic dredges up a corpse or skeleton and fills it with necromantic life, and you force the dead to fight at your command. You summon a common creature that has the undead trait and whose level is -1; this creature gains the summoned trait. Heightening the spell increases the maximum level of creature you can summon.</p>\n<hr />\n<p><strong>Heightened (2nd)</strong> Level 1.</p>\n<p><strong>Heightened (3rd)</strong> Level 2.</p>\n<p><strong>Heightened (4th)</strong> Level 3.</p>\n<p><strong>Heightened (5th)</strong> Level 5.</p>\n<p><strong>Heightened (6th)</strong> Level 7.</p>\n<p><strong>Heightened (7th)</strong> Level 9.</p>\n<p><strong>Heightened (8th)</strong> Level 11.</p>\n<p><strong>Heightened (9th)</strong> Level 13.</p>\n<p><strong>Heightened (10th)</strong> Level 15.</p>\n    </section>\n\n    <section class=\"card-buttons\">\n    </section>\n\n    <footer class=\"card-footer\">\n            <span>Base: 1st</span>\n            <span>Heightened: +1</span>\n            <span>Components: MSV</span>\n            <span>Range: 30 feet</span>\n            <span>Cast Time: 3</span>\n            <span>Duration: sustained up to 1 minute</span>\n    </footer>\n</div>",
+    "user": "yQTG3i2JbB4S26xO",
+    "timestamp": 1669577711293,
+    "flavor": "",
+    "whisper": [],
+    "blind": false,
+    "rolls": [],
+    "sound": null,
+    "emote": false,
+    "_id": "y3QMNquY41iOvuwZ"
+  },
+  {
+    "speaker": {
+      "scene": "K3jnQftAHjFVfNzj",
+      "token": "c4TmMtrv7ZqdFnAd",
+      "actor": "ALy3nplhyAuInuEn",
+      "alias": "New Actor"
+    },
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "origin": {
+          "uuid": "Actor.ALy3nplhyAuInuEn.Item.RnHlOectNGIbK4Wy",
+          "type": "spell"
+        },
+        "casting": {
+          "id": "9oIJcU5bkdhpjmRE",
+          "level": 2,
+          "tradition": "arcane"
+        },
+        "isFromConsumable": false
+      }
+    },
+    "type": 0,
+    "content": "<div class=\"pf2e chat-card item-card\" data-spell-lvl=\"2\" data-cast-level=\"2\" data-actor-id=\"ALy3nplhyAuInuEn\" data-item-id=\"RnHlOectNGIbK4Wy\">\n    <header class=\"card-header flexrow\">\n        <img src=\"systems/pf2e/icons/spells/animate-dead.webp\" title=\"Animate Dead\" width=\"36\" height=\"36\" />\n        <h3>Animate Dead</h3>\n        <h4>Spell 2</h4>\n    </header>\n\n    <section class=\"item-properties tags\">                <span class=\"tag\" data-trait=\"concentrate\" data-description=\"PF2E.TraitDescriptionConcentrate\">Concentrate</span>\n                <span class=\"tag\" data-trait=\"manipulate\" data-description=\"PF2E.TraitDescriptionManipulate\">Manipulate</span>\n            <hr class=\"vr\" />            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionArcane\">Arcane</span>\n            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionNecromancy\">Necromancy</span>\n    </section>\n\n    <section class=\"card-content\">\n        <p>Your magic dredges up a corpse or skeleton and fills it with necromantic life, and you force the dead to fight at your command. You summon a common creature that has the undead trait and whose level is -1; this creature gains the summoned trait. Heightening the spell increases the maximum level of creature you can summon.</p>\n<hr />\n<p><strong>Heightened (2nd)</strong> Level 1.</p>\n<p><strong>Heightened (3rd)</strong> Level 2.</p>\n<p><strong>Heightened (4th)</strong> Level 3.</p>\n<p><strong>Heightened (5th)</strong> Level 5.</p>\n<p><strong>Heightened (6th)</strong> Level 7.</p>\n<p><strong>Heightened (7th)</strong> Level 9.</p>\n<p><strong>Heightened (8th)</strong> Level 11.</p>\n<p><strong>Heightened (9th)</strong> Level 13.</p>\n<p><strong>Heightened (10th)</strong> Level 15.</p>\n    </section>\n\n    <section class=\"card-buttons\">\n    </section>\n\n    <footer class=\"card-footer\">\n            <span>Base: 1st</span>\n            <span>Heightened: +1</span>\n            <span>Components: MSV</span>\n            <span>Range: 30 feet</span>\n            <span>Cast Time: 3</span>\n            <span>Duration: sustained up to 1 minute</span>\n    </footer>\n</div>",
+    "user": "yQTG3i2JbB4S26xO",
+    "timestamp": 1669577838855,
+    "flavor": "",
+    "whisper": [],
+    "blind": false,
+    "rolls": [],
+    "sound": null,
+    "emote": false,
+    "_id": "fMGWElDqW4TTjyGP"
+  },
+  {
+    "speaker": {
+      "scene": "K3jnQftAHjFVfNzj",
+      "token": "c4TmMtrv7ZqdFnAd",
+      "actor": "ALy3nplhyAuInuEn",
+      "alias": "New Actor"
+    },
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "origin": {
+          "uuid": "Actor.ALy3nplhyAuInuEn.Item.RnHlOectNGIbK4Wy",
+          "type": "spell"
+        },
+        "casting": {
+          "id": "9oIJcU5bkdhpjmRE",
+          "level": 2,
+          "tradition": "arcane"
+        },
+        "isFromConsumable": false
+      }
+    },
+    "type": 0,
+    "content": "<div class=\"pf2e chat-card item-card\" data-spell-lvl=\"2\" data-cast-level=\"2\" data-actor-id=\"ALy3nplhyAuInuEn\" data-item-id=\"RnHlOectNGIbK4Wy\">\n    <header class=\"card-header flexrow\">\n        <img src=\"systems/pf2e/icons/spells/animate-dead.webp\" title=\"Animate Dead\" width=\"36\" height=\"36\" />\n        <h3>Animate Dead</h3>\n        <h4>Spell 2</h4>\n    </header>\n\n    <section class=\"item-properties tags\">                <span class=\"tag\" data-trait=\"concentrate\" data-description=\"PF2E.TraitDescriptionConcentrate\">Concentrate</span>\n                <span class=\"tag\" data-trait=\"manipulate\" data-description=\"PF2E.TraitDescriptionManipulate\">Manipulate</span>\n            <hr class=\"vr\" />            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionArcane\">Arcane</span>\n            <span class=\"tag tag_alt\" data-trait data-description=\"PF2E.TraitDescriptionNecromancy\">Necromancy</span>\n    </section>\n\n    <section class=\"card-content\">\n        <p>Your magic dredges up a corpse or skeleton and fills it with necromantic life, and you force the dead to fight at your command. You summon a common creature that has the undead trait and whose level is -1; this creature gains the summoned trait. Heightening the spell increases the maximum level of creature you can summon.</p>\n<hr />\n<p><strong>Heightened (2nd)</strong> Level 1.</p>\n<p><strong>Heightened (3rd)</strong> Level 2.</p>\n<p><strong>Heightened (4th)</strong> Level 3.</p>\n<p><strong>Heightened (5th)</strong> Level 5.</p>\n<p><strong>Heightened (6th)</strong> Level 7.</p>\n<p><strong>Heightened (7th)</strong> Level 9.</p>\n<p><strong>Heightened (8th)</strong> Level 11.</p>\n<p><strong>Heightened (9th)</strong> Level 13.</p>\n<p><strong>Heightened (10th)</strong> Level 15.</p>\n    </section>\n\n    <section class=\"card-buttons\">\n    </section>\n\n    <footer class=\"card-footer\">\n            <span>Base: 1st</span>\n            <span>Heightened: +1</span>\n            <span>Components: MSV</span>\n            <span>Range: 30 feet</span>\n            <span>Cast Time: 3</span>\n            <span>Duration: sustained up to 1 minute</span>\n    </footer>\n</div>",
+    "user": "yQTG3i2JbB4S26xO",
+    "timestamp": 1669577861181,
+    "flavor": "",
+    "whisper": [],
+    "blind": false,
+    "rolls": [],
+    "sound": null,
+    "emote": false,
+    "_id": "aZINsChmOh0MZE25"
+  },
+  {
+    "user": "yQTG3i2JbB4S26xO",
+    "type": 5,
+    "content": "11",
+    "sound": "sounds/dice.wav",
+    "speaker": {
+      "scene": "K3jnQftAHjFVfNzj",
+      "token": "ISMbJ6Db0AcTyBtn",
+      "actor": "FTiC49hc78CxcKoz",
+      "alias": "Ash Skeleton"
+    },
+    "flavor": "<h4 class=\"action\">Melee Strike: Jaws</h4><div class=\"target-dc-result\">\n    <div class=\"target-dc\"><span data-visibility=\"all\" data-whose=\"target\">Target: Festrog</span> <span data-visibility=\"gm\" data-whose=\"target\">(AC 15)</span></div>\n    <div class=\"result degree-of-success\">Result: <span data-visibility=\"all\" data-whose=\"self\" class=\"failure\">Miss</span> <span data-visibility=\"gm\" data-whose=\"target\">by -4</span></div>\n</div><div class=\"tags\"><span class=\"tag\" data-slug=\"attack\" data-description=\"PF2E.TraitDescriptionAttack\">Attack</span><hr class=\"vr\" /><span class=\"tag tag_alt\" data-slug=\"reach-10\" data-description=\"PF2E.TraitDescriptionReach\">Reach 10 ft</span></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"base\">Modifier +9</span></div>",
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "type": "attack-roll",
+          "actor": "FTiC49hc78CxcKoz",
+          "target": {
+            "actor": "Scene.K3jnQftAHjFVfNzj.Token.AHdkIu0p45WC5AII",
+            "token": "Scene.K3jnQftAHjFVfNzj.Token.AHdkIu0p45WC5AII"
+          },
+          "domains": [
+            "attack",
+            "mundane-attack",
+            "jaws-attack",
+            "str-attack",
+            "str-based",
+            "mXCvZIGjp70W0gZJ-attack",
+            "weapon-attack-roll",
+            "melee-attack-roll",
+            "strike-attack-roll",
+            "attack-roll",
+            "all"
+          ],
+          "options": [
+            "attack",
+            "hp-percent:100",
+            "hp-remaining:12",
+            "item:equipped",
+            "item:id:mXCvZIGjp70W0gZJ",
+            "item:jaws",
+            "item:melee",
+            "item:slug:jaws",
+            "item:trait:reach-10",
+            "item:type:melee",
+            "melee",
+            "reach-10",
+            "self:level:1",
+            "self:mode:undead",
+            "self:negative-healing",
+            "self:size:3",
+            "self:size:large",
+            "self:trait:evil",
+            "self:trait:mindless",
+            "self:trait:skeleton",
+            "self:trait:undead",
+            "self:type:npc",
+            "target:distance:5",
+            "target:level:1",
+            "target:mode:undead",
+            "target:negative-healing",
+            "target:size:2",
+            "target:size:medium",
+            "target:trait:evil",
+            "target:trait:undead",
+            "target:type:npc"
+          ],
+          "notes": [],
+          "dc": {
+            "scope": "attack",
+            "slug": "ac",
+            "value": 15
+          },
+          "rollTwice": false,
+          "substitutions": [],
+          "traits": [
+            {
+              "name": "attack",
+              "label": "Attack",
+              "description": "PF2E.TraitDescriptionAttack"
+            }
+          ],
+          "skipDialog": false,
+          "rollMode": "selfroll",
+          "outcome": "failure",
+          "unadjustedOutcome": "failure",
+          "token": null,
+          "title": "PF2E.Check.Label",
+          "isReroll": false
+        },
+        "unsafe": "<h4 class=\"action\">Melee Strike: Jaws</h4><div class=\"target-dc-result\">\n    <div class=\"target-dc\"><span data-visibility=\"all\" data-whose=\"target\">Target: Festrog</span> <span data-visibility=\"gm\" data-whose=\"target\">(AC 15)</span></div>\n    <div class=\"result degree-of-success\">Result: <span data-visibility=\"all\" data-whose=\"self\" class=\"failure\">Miss</span> <span data-visibility=\"gm\" data-whose=\"target\">by -4</span></div>\n</div><div class=\"tags\"><span class=\"tag\" data-slug=\"attack\" data-description=\"PF2E.TraitDescriptionAttack\">Attack</span><hr class=\"vr\"><span class=\"tag tag_alt\" data-slug=\"reach-10\" data-description=\"PF2E.TraitDescriptionReach\">Reach 10 ft</span></div><hr><div class=\"tags\"><span class=\"tag tag_transparent\" data-slug=\"base\">Modifier +9</span></div>",
+        "modifierName": "Melee Strike: Jaws",
+        "modifiers": [
+          {
+            "label": "Modifier",
+            "slug": "base",
+            "modifier": 9,
+            "type": "untyped",
+            "ability": null,
+            "force": false,
+            "adjustments": [],
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "source": null,
+            "predicate": [],
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false,
+            "damageType": null,
+            "damageCategory": null,
+            "critical": null
+          }
+        ],
+        "origin": {
+          "uuid": "Scene.K3jnQftAHjFVfNzj.Token.ISMbJ6Db0AcTyBtn.Item.mXCvZIGjp70W0gZJ",
+          "type": "melee"
+        },
+        "strike": {
+          "actor": "Scene.K3jnQftAHjFVfNzj.Token.ISMbJ6Db0AcTyBtn",
+          "index": 0,
+          "damaging": true,
+          "name": "Jaws"
+        }
+      }
+    },
+    "rolls": [
+      "{\"class\":\"StrikeAttackRoll\",\"options\":{\"rollerId\":\"yQTG3i2JbB4S26xO\",\"isReroll\":false,\"totalModifier\":9,\"strike\":{\"actor\":\"Scene.K3jnQftAHjFVfNzj.Token.ISMbJ6Db0AcTyBtn\",\"index\":0,\"damaging\":true,\"name\":\"Jaws\"},\"degreeOfSuccess\":1},\"dice\":[],\"formula\":\"1d20 + 9\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":9}],\"total\":11,\"evaluated\":true}"
+    ],
+    "timestamp": 1669577878016,
+    "whisper": [
+      "yQTG3i2JbB4S26xO"
+    ],
+    "blind": false,
+    "emote": false,
+    "_id": "ECMSzqgFfh9lCG0T"
+  },
+  {
+    "type": 5,
+    "speaker": {
+      "scene": "K3jnQftAHjFVfNzj",
+      "token": "ISMbJ6Db0AcTyBtn",
+      "actor": "FTiC49hc78CxcKoz",
+      "alias": "Ash Skeleton"
+    },
+    "flavor": "<strong>Damage Roll: Jaws</strong> (Hit)<div class=\"tags\"><span class=\"tag\" data-trait=\"attack\" data-description=\"PF2E.TraitDescriptionAttack\">Attack</span><hr class=\"vr\" /><span class=\"tag tag_alt\" data-trait=\"reach-10\" data-description=\"PF2E.TraitDescriptionReach\">Reach 10 ft</span></div><hr /><div class=\"tags\"><span class=\"tag tag_transparent\">1d6 + 4 Piercing</span></div>",
+    "content": "<div class=\"dice-roll\">\n    <div class=\"dice-result\">\n        <div class=\"dice-formula\">1d6 + 4</div>\n        <div class=\"dice-tooltip\">\n    <div class=\"damage-type piercing\">\n        <h3 class=\"flexrow\"><span>Piercing</span><i class=\"fa fa-bow-arrow\"></i></h3>\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <header class=\"part-header flexrow\">\n                    <span class=\"part-formula\">1d6 + 4</span>\n                    <span class=\"part-flavor\">Physical</span>\n                    <span class=\"part-total\">7</span>\n                </header>\n            </div>\n            <ol class=\"dice-rolls\">\n                    <li class=\"roll die d6\">3</li>\n            </ol>\n        </section>\n    </div>\n</div>\n\n        <h4 class=\"dice-total\">7</h4>\n    </div>\n</div>",
+    "sound": "sounds/dice.wav",
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "context": {
+          "type": "damage-roll",
+          "actor": "FTiC49hc78CxcKoz",
+          "token": "ISMbJ6Db0AcTyBtn",
+          "target": {
+            "actor": "Scene.K3jnQftAHjFVfNzj.Token.AHdkIu0p45WC5AII",
+            "token": "Scene.K3jnQftAHjFVfNzj.Token.AHdkIu0p45WC5AII"
+          },
+          "domains": [
+            "all",
+            "strike-damage",
+            "damage-roll"
+          ],
+          "options": [
+            "attack",
+            "hp-percent:100",
+            "hp-remaining:12",
+            "item:equipped",
+            "item:id:mXCvZIGjp70W0gZJ",
+            "item:jaws",
+            "item:melee",
+            "item:slug:jaws",
+            "item:trait:reach-10",
+            "item:type:melee",
+            "melee",
+            "proficiency:trained",
+            "reach-10",
+            "self:level:1",
+            "self:mode:undead",
+            "self:negative-healing",
+            "self:size:3",
+            "self:size:large",
+            "self:trait:evil",
+            "self:trait:mindless",
+            "self:trait:skeleton",
+            "self:trait:undead",
+            "self:type:npc",
+            "target:distance:5",
+            "target:level:1",
+            "target:mode:undead",
+            "target:negative-healing",
+            "target:size:2",
+            "target:size:medium",
+            "target:trait:evil",
+            "target:trait:undead",
+            "target:type:npc"
+          ],
+          "notes": [],
+          "secret": false,
+          "rollMode": "selfroll",
+          "traits": [],
+          "skipDialog": false,
+          "outcome": "success",
+          "unadjustedOutcome": null
+        },
+        "damageRoll": {
+          "outcome": "success",
+          "traits": [
+            "attack"
+          ],
+          "types": {
+            "piercing": {
+              "physical": 7
+            }
+          },
+          "total": 7,
+          "diceResults": {
+            "piercing": {
+              "physical": [
+                {
+                  "faces": 6,
+                  "result": 3
+                }
+              ]
+            }
+          },
+          "baseDamageDice": 1
+        },
+        "target": {
+          "actor": "Scene.K3jnQftAHjFVfNzj.Token.AHdkIu0p45WC5AII",
+          "token": "Scene.K3jnQftAHjFVfNzj.Token.AHdkIu0p45WC5AII"
+        },
+        "origin": {
+          "uuid": "Scene.K3jnQftAHjFVfNzj.Token.ISMbJ6Db0AcTyBtn.Item.mXCvZIGjp70W0gZJ",
+          "type": "melee"
+        },
+        "strike": {
+          "actor": "Scene.K3jnQftAHjFVfNzj.Token.ISMbJ6Db0AcTyBtn",
+          "index": 0,
+          "damaging": true,
+          "name": "Jaws",
+          "altUsage": null
+        },
+        "preformatted": "both"
+      }
+    },
+    "rolls": [
+      "{\"class\":\"DamageRoll\",\"options\":{\"rollerId\":\"yQTG3i2JbB4S26xO\",\"damage\":{\"name\":\"Damage Roll: Jaws\",\"base\":{\"diceNumber\":1,\"dieSize\":\"d6\",\"modifier\":4,\"category\":\"physical\",\"damageType\":\"piercing\"},\"effectDice\":1,\"diceModifiers\":[],\"numericModifiers\":[],\"notes\":[],\"traits\":[\"attack\"],\"materials\":[],\"formula\":{\"success\":{\"formula\":\"1d6 + 4\",\"partials\":{\"piercing\":{\"physical\":\"1d6 + 4\"}},\"data\":{\"baseDamageType\":\"piercing\",\"effectiveDamageDice\":1}},\"criticalSuccess\":{\"formula\":\"2 * (1d6 + 4)\",\"partials\":{\"piercing\":{\"physical\":\"2 * (1d6 + 4)\"}},\"data\":{\"baseDamageType\":\"piercing\",\"effectiveDamageDice\":1}}}},\"degreeOfSuccess\":2,\"result\":{\"outcome\":\"success\",\"traits\":[\"attack\"],\"types\":{\"piercing\":{\"physical\":7}},\"total\":7,\"diceResults\":{\"piercing\":{\"physical\":[{\"faces\":6,\"result\":3}]}},\"baseDamageDice\":1}},\"dice\":[],\"formula\":\"1d6 + 4\",\"terms\":[{\"class\":\"PoolTerm\",\"options\":{},\"evaluated\":true,\"terms\":[\"1d6 + 4\"],\"modifiers\":[],\"rolls\":[{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d6 + 4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":6,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4}],\"total\":7,\"evaluated\":true}],\"results\":[{\"result\":7,\"active\":true}]}],\"total\":7,\"evaluated\":true}"
+    ],
+    "user": "yQTG3i2JbB4S26xO",
+    "timestamp": 1669577883235,
+    "whisper": [
+      "yQTG3i2JbB4S26xO"
+    ],
+    "blind": false,
+    "emote": false,
+    "_id": "zQvl1g7ByzLiWcRC"
+  },
+  {
+    "speaker": {
+      "alias": "Festrog",
+      "token": "AHdkIu0p45WC5AII",
+      "scene": null,
+      "actor": null
+    },
+    "content": "<p>Festrog takes 7 damage.</p>",
+    "type": 3,
+    "whisper": [],
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    },
+    "user": "yQTG3i2JbB4S26xO",
+    "timestamp": 1669577885360,
+    "flavor": "",
+    "blind": false,
+    "rolls": [],
+    "sound": null,
+    "emote": false,
+    "_id": "nOLAQoKKq1fk04XY"
+  }
+]

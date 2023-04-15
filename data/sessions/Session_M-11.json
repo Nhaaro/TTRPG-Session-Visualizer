@@ -1,0 +1,908 @@
+[
+  {
+    "timestamp": 1647738996416,
+    "name": "7lDAA3yG4tlFsWdc",
+    "flavor": "",
+    "content": "<div class=\"dice-so-nice\">\n    <p>It seems like you're using 3D dice for the first time in this world.</p>\n    <p>You can configure (or disable) your 3D dice by clicking this button:</p>\n    <p><button type=\"button\" class=\"dice-so-nice-btn-settings\" data-key=\"dice-so-nice.dice-so-nice\"><i class=\"fas fa-dice-d20\"></i> My Dice Settings</button></p>\n    <p>You can always change these settings later under 'Configure Settings &gt; Module Settings &gt; Dice So Nice!'</p>\n    <p>You won't see this message again. Happy rolling!</p>\n</div>",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1647739001352,
+    "name": "7lDAA3yG4tlFsWdc",
+    "flavor": "",
+    "content": "<div class=\"dice-so-nice\">\n    <p>It seems like you're using 3D dice for the first time in this world.</p>\n    <p>You can configure (or disable) your 3D dice by clicking this button:</p>\n    <p><button type=\"button\" class=\"dice-so-nice-btn-settings\" data-key=\"dice-so-nice.dice-so-nice\"><i class=\"fas fa-dice-d20\"></i> My Dice Settings</button></p>\n    <p>You can always change these settings later under 'Configure Settings &gt; Module Settings &gt; Dice So Nice!'</p>\n    <p>You won't see this message again. Happy rolling!</p>\n</div>",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1647740607511,
+    "name": "Beemiw",
+    "flavor": "Arcana Skill Check: Beemiw",
+    "content": "6",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Arcana Skill Check: Beemiw\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 2 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":6,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "arc"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647741114079,
+    "name": "Drakronos",
+    "flavor": "Short Rest (8 hours)",
+    "content": "Drakronos takes a short rest.",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1647741157996,
+    "name": "Mako",
+    "flavor": "Roll Hit Dice: Mako",
+    "content": "6",
+    "roll": "{\"class\":\"DamageRoll\",\"options\":{\"flavor\":\"Roll Hit Dice: Mako\",\"critical\":false,\"multiplyNumeric\":false,\"powerfulCritical\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d8 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{\"baseNumber\":1},\"evaluated\":true,\"number\":1,\"faces\":8,\"modifiers\":[],\"results\":[{\"result\":5,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1}],\"total\":6,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "hitDie"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647741178131,
+    "name": "Mako",
+    "flavor": "Short Rest (8 hours)",
+    "content": "Mako takes a short rest spending 1 Hit Dice to recover 6 Hit Points.",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1647741285101,
+    "name": "Aketo",
+    "flavor": "Short Rest (New Day)",
+    "content": "Aketo takes a short rest.",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1647741293971,
+    "name": "Beemiw",
+    "flavor": "Short Rest (New Day)",
+    "content": "Beemiw takes a short rest.",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1647741574560,
+    "name": "Vickyan",
+    "flavor": "Greataxe",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"9XSY9lP778mZJ3O9\" data-item-id=\"LzUtKI6qTTbi7Ely\" data-actor-uuid=\"Actor.9XSY9lP778mZJ3O9\" data-item-uuid=\"Actor.9XSY9lP778mZJ3O9.Item.LzUtKI6qTTbi7Ely\" data-token-id=\"Scene.h1dGp1pJi24vNSAC.Token.Hm5OVFAm53EfjTOo\" data-token-uuid=\"Scene.h1dGp1pJi24vNSAC.Token.Hm5OVFAm53EfjTOo\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/weapons/axes/axe-double.webp\" title=\"Greataxe\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Greataxe</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>Proficiency with a greataxe allows you to add your proficiency bonus to the attack roll for any attack you make with it.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div style=\"text-align:center\">Attack</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">19</h4>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n      <div class=\"dice-formula\">1d20 + 3 + 2</div>\n    </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d20</span>\n                \n                <span class=\"part-total\">14</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d20\">14</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Slashing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">12</h4>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n      <div class=\"dice-formula\">1d12[slashing] + 3</div>\n    </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d12</span>\n                <span class=\"part-flavor\">slashing</span>\n                <span class=\"part-total\">9</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d12\">9</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <div></div>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"midi-qol-single-hit-card\">\n  <div class=\"midi-qol-nobox\">\n  </div>\n</div><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Martial Melee</span>\n    <span>Equipped</span>\n    <span>Proficient</span>\n    <span>1 Action</span>\n    <span>5 Feet</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.9XSY9lP778mZJ3O9.Item.LzUtKI6qTTbi7Ely",
+        "actorUuid": "Actor.9XSY9lP778mZJ3O9",
+        "sound": "none",
+        "type": 0,
+        "itemId": "LzUtKI6qTTbi7Ely",
+        "workflowId": "Actor.9XSY9lP778mZJ3O9.Item.LzUtKI6qTTbi7Ely",
+        "waitForDiceSoNice": true,
+        "hideTag": [
+          ".midi-qol-damage-roll",
+          ".midi-qol.other-roll"
+        ],
+        "displayId": "iuye45mlyekhc793",
+        "roll": {},
+        "isCritical": false,
+        "isFumble": false,
+        "isHit": false,
+        "isHitEC": false,
+        "d20AttackRoll": 14,
+        "damageDetail": [
+          {
+            "damage": 12,
+            "type": "slashing"
+          }
+        ],
+        "damageTotal": 12,
+        "otherDamageDetail": []
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647743066054,
+    "name": "Drakronos",
+    "flavor": "Persuasion Skill Check: Drakronos",
+    "content": "11",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Persuasion Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 3 + 4 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":11,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "per"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647743102046,
+    "name": "Drakronos",
+    "flavor": "Persuasion Skill Check: Drakronos (Advantage)",
+    "content": "20",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Persuasion Skill Check: Drakronos\",\"advantageMode\":1,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"2d20kh + 3 + 4 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1,\"advantage\":true},\"evaluated\":true,\"number\":2,\"faces\":20,\"modifiers\":[\"kh\"],\"results\":[{\"result\":12,\"active\":false,\"discarded\":true},{\"result\":13,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":20,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "per"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647743889111,
+    "name": "hpSkFBSeIKa9OPHh",
+    "flavor": "",
+    "content": "attunment",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1647744226517,
+    "name": "Drakronos",
+    "flavor": "Survival Skill Check: Drakronos",
+    "content": "25",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Survival Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 8 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":18,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":8},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":25,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "sur"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647744362075,
+    "name": "Wolf",
+    "flavor": "Perception Skill Check: Wolf (Disadvantage)",
+    "content": "15",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Perception Skill Check: Wolf\",\"advantageMode\":-1,\"defaultRollMode\":\"gmroll\",\"critical\":20,\"fumble\":1},\"dice\":[],\"formula\":\"2d20kl + 1 + 2 + 4\",\"terms\":[{\"class\":\"Die\",\"options\":{\"disadvantage\":true,\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":2,\"faces\":20,\"modifiers\":[\"kl\"],\"results\":[{\"result\":8,\"active\":true},{\"result\":10,\"active\":false,\"discarded\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4}],\"total\":15,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "prc"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647744419290,
+    "name": "Drakronos",
+    "flavor": "Perception Skill Check: Drakronos",
+    "content": "22",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Perception Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 4 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":19,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":22,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "prc"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647744721821,
+    "name": "Mako",
+    "flavor": "Charisma Ability Check: Mako",
+    "content": "22",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Charisma Ability Check: Mako\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 2\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":20,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":22,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "check",
+          "abilityId": "cha"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647744978978,
+    "name": "Drakronos",
+    "flavor": "Investigation Skill Check: Drakronos",
+    "content": "13",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Investigation Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 4 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":13,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "inv"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647745011102,
+    "name": "Vickyan",
+    "flavor": "Investigation Skill Check: Vickyan",
+    "content": "11",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Investigation Skill Check: Vickyan\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 1 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":11,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "inv"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647745026236,
+    "name": "Beemiw",
+    "flavor": "Investigation Skill Check: Beemiw",
+    "content": "21",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Investigation Skill Check: Beemiw\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":19,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":21,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "inv"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647745061885,
+    "name": "Aketo",
+    "flavor": "Investigation Skill Check: Aketo",
+    "content": "6",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Investigation Skill Check: Aketo\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 3 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":6,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "inv"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647745105270,
+    "name": "Mako",
+    "flavor": "Investigation Skill Check: Mako",
+    "content": "8",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Investigation Skill Check: Mako\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":8,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "inv"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647745671776,
+    "name": "Beemiw",
+    "flavor": "Detect Magic",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"FKpCXWIr6NUjuciW\" data-item-id=\"Ye7Yt9kGATZ1BPlg\" data-actor-uuid=\"Actor.FKpCXWIr6NUjuciW\" data-item-uuid=\"Actor.FKpCXWIr6NUjuciW.Item.Ye7Yt9kGATZ1BPlg\" data-token-id=\"Scene.wwWDNxyGmOLYCgIh.Token.esbale26ZBeOMSUC\" data-token-uuid=\"Scene.wwWDNxyGmOLYCgIh.Token.esbale26ZBeOMSUC\" data-spell-level=\"1\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"systems/dnd5e/icons/spells/light-blue-2.jpg\" title=\"Detect Magic\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Detect Magic</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.</p>\n<p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n\n\n\n\n    <button data-action=\"placeTemplate\">Place Measured Template</button>\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>1st Level</span>\n    <span>V,S,R,C</span>\n    <span>1 Action</span>\n    <span>30 Feet Sphere</span>\n    <span>Self</span>\n    <span>10 Minutes</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.FKpCXWIr6NUjuciW.Item.Ye7Yt9kGATZ1BPlg",
+        "actorUuid": "Actor.FKpCXWIr6NUjuciW",
+        "sound": "none",
+        "type": 0,
+        "itemId": "Ye7Yt9kGATZ1BPlg",
+        "workflowId": "Actor.FKpCXWIr6NUjuciW.Item.Ye7Yt9kGATZ1BPlg"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647745864575,
+    "name": "Beemiw",
+    "flavor": "Arcana Skill Check: Beemiw",
+    "content": "7",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Arcana Skill Check: Beemiw\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 2 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":7,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "arc"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647745882287,
+    "name": "hpSkFBSeIKa9OPHh",
+    "flavor": "",
+    "content": "<div class=\"chat-images-container\"><img src=\"uploaded-chat-images/image_d1cmjagwd86kizht6siuwe.png\" /></div>",
+    "roll": null,
+    "flags": {}
+  },
+  {
+    "timestamp": 1647756706279,
+    "name": "Noble",
+    "flavor": "Arcana Skill Check: Noble",
+    "content": "18",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Arcana Skill Check: Noble\",\"advantageMode\":0,\"defaultRollMode\":\"gmroll\",\"critical\":20,\"fumble\":1,\"reliableTalent\":false,\"rollMode\":\"gmroll\"},\"dice\":[],\"formula\":\"1d20 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":17,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1}],\"total\":18,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "arc"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647757235000,
+    "name": "Drakronos",
+    "flavor": "Drakronos rolls for Initiative!",
+    "content": "11.17",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 3 + 0.17\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0.17}],\"total\":11.17,\"evaluated\":true}",
+    "flags": {
+      "core": {
+        "initiativeRoll": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647757238195,
+    "name": "Commoner",
+    "flavor": "Commoner rolls for Initiative!",
+    "content": "20.1",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 0 + 0.1\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":20,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0.1}],\"total\":20.1,\"evaluated\":true}",
+    "flags": {
+      "core": {
+        "initiativeRoll": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647757255135,
+    "name": "Beemiw",
+    "flavor": "Beemiw rolls for Initiative!",
+    "content": "19.13",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 1 + 0.13\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":18,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0.13}],\"total\":19.13,\"evaluated\":true}",
+    "flags": {
+      "core": {
+        "initiativeRoll": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647757256793,
+    "name": "Vickyan",
+    "flavor": "Vickyan rolls for Initiative!",
+    "content": "12.15",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 2 + 0.15\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0.15}],\"total\":12.15,\"evaluated\":true}",
+    "flags": {
+      "core": {
+        "initiativeRoll": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647757257727,
+    "name": "Dretch",
+    "flavor": "Dretch rolls for Initiative!",
+    "content": "14.11",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 0 + 0.11\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":14,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0.11}],\"total\":14.11,\"evaluated\":true}",
+    "flags": {
+      "core": {
+        "initiativeRoll": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647757260606,
+    "name": "Mako",
+    "flavor": "Mako rolls for Initiative!",
+    "content": "20.16",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 3 + 0.16\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":17,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0.16}],\"total\":20.16,\"evaluated\":true}",
+    "flags": {
+      "core": {
+        "initiativeRoll": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647757270662,
+    "name": "Aketo",
+    "flavor": "Aketo rolls for Initiative!",
+    "content": "3.1",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 0 + 0.1\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0.1}],\"total\":3.1,\"evaluated\":true}",
+    "flags": {
+      "core": {
+        "initiativeRoll": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647757345274,
+    "name": "Mako",
+    "flavor": "Eldritch Blast",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"hA281AIaEstOBwvW\" data-item-id=\"VwVoflSiXuLAJYcx\" data-actor-uuid=\"Actor.hA281AIaEstOBwvW\" data-item-uuid=\"Actor.hA281AIaEstOBwvW.Item.VwVoflSiXuLAJYcx\" data-token-id=\"Scene.NUJMJ2xAkt7H1xMF.Token.H79VJg7gi2IJUB8p\" data-token-uuid=\"Scene.NUJMJ2xAkt7H1xMF.Token.H79VJg7gi2IJUB8p\" data-spell-level=\"0\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"systems/dnd5e/icons/spells/fireball-eerie-1.jpg\" title=\"Eldritch Blast\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Eldritch Blast</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.</p>\n<p>The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    <button data-action=\"attack\">Attack</button>\n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div style=\"text-align:center\">Attack</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">6</h4>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n      <div class=\"dice-formula\">1d20 + 2 + 2</div>\n    </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d20</span>\n                \n                <span class=\"part-total\">2</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d20\">2</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <button data-action=\"damage\">Damage</button>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"midi-qol-single-hit-card\">\n  <div class=\"midi-qol-nobox\">\n    <div class=\"midi-qol-flex-container\">\n      <div class=\"midi-qol-target-npc-GM midi-qol-target-name\" id=\"9tUKcZD8mViqC1j3\"> Commoner</div>\n      <div class=\"midi-qol-target-npc-Player midi-qol-target-name\" id=\"9tUKcZD8mViqC1j3\"> Unknown Creature</div>\n      <div><img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Half_Elves/HalfElf_Male_Commoner_01.png\" width=\"30\" height=\"30\" style=\"border:0px\" /></div>\n    </div>\n  </div>\n</div><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Cantrip</span>\n    <span>V,S</span>\n    <span>1 Action</span>\n    <span>1 Creature</span>\n    <span>120 Feet</span>\n    <span>Instantaneous</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.hA281AIaEstOBwvW.Item.VwVoflSiXuLAJYcx",
+        "actorUuid": "Actor.hA281AIaEstOBwvW",
+        "sound": "none",
+        "type": 3,
+        "itemId": "VwVoflSiXuLAJYcx",
+        "workflowId": "Actor.hA281AIaEstOBwvW.Item.VwVoflSiXuLAJYcx",
+        "waitForDiceSoNice": true,
+        "hideTag": [
+          ".midi-qol-attack-roll",
+          "midi-qol-damage-roll"
+        ],
+        "displayId": "ufic9pvmvk8bbi14",
+        "roll": {},
+        "isCritical": false,
+        "isFumble": false,
+        "isHit": true,
+        "isHitEC": false,
+        "d20AttackRoll": 2
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647757361455,
+    "name": null,
+    "flavor": "Round Start",
+    "content": null,
+    "roll": null,
+    "flags": {
+      "monks-little-details": {
+        "roundmarker": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647757463371,
+    "name": "Beemiw",
+    "flavor": "Thorn Whip",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"FKpCXWIr6NUjuciW\" data-item-id=\"4HLjlTrkLatXEVNE\" data-actor-uuid=\"Actor.FKpCXWIr6NUjuciW\" data-item-uuid=\"Actor.FKpCXWIr6NUjuciW.Item.4HLjlTrkLatXEVNE\" data-token-id=\"Scene.NUJMJ2xAkt7H1xMF.Token.XV2x7K0Z4yyB158C\" data-token-uuid=\"Scene.NUJMJ2xAkt7H1xMF.Token.XV2x7K0Z4yyB158C\" data-spell-level=\"0\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"systems/dnd5e/icons/skills/green_17.jpg\" title=\"Thorn Whip\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Thorn Whip</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if the creature is Large or smaller, you pull the creature up to 10 feet closer to you.</p>\n<p>The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</p>\n    <p><strong>Required Materials.</strong> the stem of a plant with thorns</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    <button data-action=\"attack\">Attack</button>\n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <button data-action=\"damage\">\n      Damage\n    </button>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"midi-qol-single-hit-card\">\n  <div class=\"midi-qol-nobox\">\n    <div class=\"midi-qol-flex-container\">\n      <div class=\"midi-qol-target-npc-GM midi-qol-target-name\" id=\"9tUKcZD8mViqC1j3\"> Commoner</div>\n      <div class=\"midi-qol-target-npc-Player midi-qol-target-name\" id=\"9tUKcZD8mViqC1j3\"> Unknown Creature</div>\n      <div><img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Half_Elves/HalfElf_Male_Commoner_01.png\" width=\"30\" height=\"30\" style=\"border:0px\" /></div>\n    </div>\n  </div>\n</div><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Cantrip</span>\n    <span>V,S,M (the stem of a plant with thorns)</span>\n    <span>1 Action</span>\n    <span>30 Feet</span>\n    <span>Instantaneous</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.FKpCXWIr6NUjuciW.Item.4HLjlTrkLatXEVNE",
+        "actorUuid": "Actor.FKpCXWIr6NUjuciW",
+        "sound": "none",
+        "type": 1,
+        "itemId": "4HLjlTrkLatXEVNE",
+        "workflowId": "Actor.FKpCXWIr6NUjuciW.Item.4HLjlTrkLatXEVNE",
+        "waitForDiceSoNice": true,
+        "hideTag": [
+          ".midi-qol-hits-display"
+        ],
+        "displayId": "dau7h79vmmui5tif"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647757541823,
+    "name": "Beemiw",
+    "flavor": "Shortbow",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"FKpCXWIr6NUjuciW\" data-item-id=\"I5uGgalR49RJFum1\" data-actor-uuid=\"Actor.FKpCXWIr6NUjuciW\" data-item-uuid=\"Actor.FKpCXWIr6NUjuciW.Item.I5uGgalR49RJFum1\" data-token-id=\"Scene.NUJMJ2xAkt7H1xMF.Token.XV2x7K0Z4yyB158C\" data-token-uuid=\"Scene.NUJMJ2xAkt7H1xMF.Token.XV2x7K0Z4yyB158C\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/weapons/bows/shortbow-recurve.webp\" title=\"Shortbow\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Shortbow</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>Proficiency with a shortbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    <button data-action=\"attack\">Attack</button>\n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div style=\"text-align:center\">Attack</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">8</h4>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n      <div class=\"dice-formula\">1d20 + 1</div>\n    </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d20</span>\n                \n                <span class=\"part-total\">7</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d20\">7</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <button data-action=\"damage\">Damage</button>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"midi-qol-single-hit-card\">\n  <div class=\"midi-qol-nobox\">\n    <div class=\"midi-qol-flex-container\">\n      <div class=\"midi-qol-target-npc-GM midi-qol-target-name\" id=\"9tUKcZD8mViqC1j3\"> Commoner</div>\n      <div class=\"midi-qol-target-npc-Player midi-qol-target-name\" id=\"9tUKcZD8mViqC1j3\"> Unknown Creature</div>\n      <div><img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Half_Elves/HalfElf_Male_Commoner_01.png\" width=\"30\" height=\"30\" style=\"border:0px\" /></div>\n    </div>\n  </div>\n</div><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Simple Ranged</span>\n    <span>Equipped</span>\n    <span>Not Proficient</span>\n    <span>1 Action</span>\n    <span>80 / 320 Feet</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.FKpCXWIr6NUjuciW.Item.I5uGgalR49RJFum1",
+        "actorUuid": "Actor.FKpCXWIr6NUjuciW",
+        "sound": "none",
+        "type": 3,
+        "itemId": "I5uGgalR49RJFum1",
+        "workflowId": "Actor.FKpCXWIr6NUjuciW.Item.I5uGgalR49RJFum1",
+        "waitForDiceSoNice": true,
+        "hideTag": [
+          ".midi-qol-attack-roll",
+          "midi-qol-damage-roll"
+        ],
+        "displayId": "efl059d0rq8sylak",
+        "roll": {},
+        "isCritical": false,
+        "isFumble": false,
+        "isHit": true,
+        "isHitEC": false,
+        "d20AttackRoll": 7
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647757667603,
+    "name": "Drakronos",
+    "flavor": "Longbow",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"rlalZ9R1qrub70YS\" data-item-id=\"k3XqNi9P8i9rfBUe\" data-actor-uuid=\"Actor.rlalZ9R1qrub70YS\" data-item-uuid=\"Actor.rlalZ9R1qrub70YS.Item.k3XqNi9P8i9rfBUe\" data-token-id=\"Scene.NUJMJ2xAkt7H1xMF.Token.b4q6UZGaNHyhmCIf\" data-token-uuid=\"Scene.NUJMJ2xAkt7H1xMF.Token.b4q6UZGaNHyhmCIf\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/weapons/bows/longbow-leather-green.webp\" title=\"Longbow\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Longbow</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>Proficiency with a longbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div style=\"text-align:center\">Attack</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">18</h4>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n      <div class=\"dice-formula\">1d20 + 3 + 4 + 2 + 0</div>\n    </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d20</span>\n                \n                <span class=\"part-total\">9</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d20\">9</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Piercing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">11</h4>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n      <div class=\"dice-formula\">1d8[piercing] + 3</div>\n    </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d8</span>\n                <span class=\"part-flavor\">piercing</span>\n                <span class=\"part-total\">8</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d8 max\">8</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <div></div>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"midi-qol-single-hit-card\">\n  <div class=\"midi-qol-nobox\">\n    <div class=\"midi-qol-flex-container\">\n      <div class=\"midi-qol-target-npc-GM midi-qol-target-name\" id=\"9tUKcZD8mViqC1j3\"> Commoner</div>\n      <div class=\"midi-qol-target-npc-Player midi-qol-target-name\" id=\"9tUKcZD8mViqC1j3\"> Unknown Creature</div>\n      <div><img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Half_Elves/HalfElf_Male_Commoner_01.png\" width=\"30\" height=\"30\" style=\"border:0px\" /></div>\n    </div>\n  </div>\n</div><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Martial Ranged</span>\n    <span>Equipped</span>\n    <span>Proficient</span>\n    <span>1 Action</span>\n    <span>150 / 600 Feet</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.rlalZ9R1qrub70YS.Item.k3XqNi9P8i9rfBUe",
+        "actorUuid": "Actor.rlalZ9R1qrub70YS",
+        "sound": "none",
+        "type": 0,
+        "itemId": "k3XqNi9P8i9rfBUe",
+        "workflowId": "Actor.rlalZ9R1qrub70YS.Item.k3XqNi9P8i9rfBUe",
+        "waitForDiceSoNice": true,
+        "hideTag": [
+          ".midi-qol-damage-roll",
+          ".midi-qol.other-roll"
+        ],
+        "displayId": "iriwhtjc9tyriblo",
+        "roll": {},
+        "isCritical": false,
+        "isFumble": false,
+        "isHit": true,
+        "isHitEC": false,
+        "d20AttackRoll": 9,
+        "damageDetail": [
+          {
+            "damage": 11,
+            "type": "piercing"
+          }
+        ],
+        "damageTotal": 11,
+        "otherDamageDetail": []
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647757819143,
+    "name": "Aketo",
+    "flavor": "Shortbow",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"8fK5xJYxZUUHwBaO\" data-item-id=\"5iflnjB3r34We9WO\" data-actor-uuid=\"Actor.8fK5xJYxZUUHwBaO\" data-item-uuid=\"Actor.8fK5xJYxZUUHwBaO.Item.5iflnjB3r34We9WO\" data-token-id=\"Scene.NUJMJ2xAkt7H1xMF.Token.rJ1ddEtsjvsipj50\" data-token-uuid=\"Scene.NUJMJ2xAkt7H1xMF.Token.rJ1ddEtsjvsipj50\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/weapons/bows/shortbow-recurve.webp\" title=\"Shortbow\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Shortbow</h3>\n  </header>\n\n  <div class=\"card-content\">\n    \n<p>The Goblin attacks with its Shortbow.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div style=\"text-align:center\">Attack</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">14</h4>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n      <div class=\"dice-formula\">1d20 + 0 + 0 + 2</div>\n    </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d20</span>\n                \n                <span class=\"part-total\">12</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d20\">12</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Piercing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">5</h4>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n      <div class=\"dice-formula\">1d6 + 0</div>\n    </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d6</span>\n                \n                <span class=\"part-total\">5</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d6\">5</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <div></div>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"midi-qol-single-hit-card\">\n  <div class=\"midi-qol-nobox\">\n    <div class=\"midi-qol-flex-container\">\n      <div class=\"midi-qol-target-npc-GM midi-qol-target-name\" id=\"9tUKcZD8mViqC1j3\"> Commoner</div>\n      <div class=\"midi-qol-target-npc-Player midi-qol-target-name\" id=\"9tUKcZD8mViqC1j3\"> Unknown Creature</div>\n      <div><img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Half_Elves/HalfElf_Male_Commoner_01.png\" width=\"30\" height=\"30\" style=\"border:0px\" /></div>\n    </div>\n  </div>\n</div><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Simple Ranged</span>\n    <span>Equipped</span>\n    <span>Proficient</span>\n    <span>1 Action</span>\n    <span>80 / 320 Feet</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.8fK5xJYxZUUHwBaO.Item.5iflnjB3r34We9WO",
+        "actorUuid": "Actor.8fK5xJYxZUUHwBaO",
+        "sound": "none",
+        "type": 0,
+        "itemId": "5iflnjB3r34We9WO",
+        "workflowId": "Actor.8fK5xJYxZUUHwBaO.Item.5iflnjB3r34We9WO",
+        "waitForDiceSoNice": true,
+        "hideTag": [
+          ".midi-qol-damage-roll",
+          ".midi-qol.other-roll"
+        ],
+        "displayId": "y220qk4md3158s8v",
+        "roll": {},
+        "isCritical": false,
+        "isFumble": false,
+        "isHit": true,
+        "isHitEC": false,
+        "d20AttackRoll": 12,
+        "damageDetail": [
+          {
+            "damage": 5,
+            "type": "piercing"
+          }
+        ],
+        "damageTotal": 5,
+        "otherDamageDetail": []
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647757820165,
+    "name": null,
+    "flavor": "Round 2",
+    "content": null,
+    "roll": null,
+    "flags": {
+      "monks-little-details": {
+        "roundmarker": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647757883267,
+    "name": "Mako",
+    "flavor": "Acrobatics Skill Check: Mako",
+    "content": "10",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Acrobatics Skill Check: Mako\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 3 + 4 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":10,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "acr"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647757960848,
+    "name": "Mako",
+    "flavor": "Crossbow, Light",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"hA281AIaEstOBwvW\" data-item-id=\"kO7m3TWk7VcYC54x\" data-actor-uuid=\"Actor.hA281AIaEstOBwvW\" data-item-uuid=\"Actor.hA281AIaEstOBwvW.Item.kO7m3TWk7VcYC54x\" data-token-id=\"Scene.NUJMJ2xAkt7H1xMF.Token.H79VJg7gi2IJUB8p\" data-token-uuid=\"Scene.NUJMJ2xAkt7H1xMF.Token.H79VJg7gi2IJUB8p\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"systems/dnd5e/icons/items/weapons/crossbow-light.jpg\" title=\"Crossbow, Light\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Crossbow, Light</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>Proficiency with a light crossbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.</p>\n\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div style=\"text-align:center\">Attack</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">22</h4>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n      <div class=\"dice-formula\">1d20 + 0 + 3 + 2 + 0</div>\n    </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d20</span>\n                \n                <span class=\"part-total\">17</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d20\">17</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Piercing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">12</h4>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n      <div class=\"dice-formula\">2d6[piercing] + 3</div>\n    </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">2d6</span>\n                <span class=\"part-flavor\">piercing</span>\n                <span class=\"part-total\">9</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d6\">5</li>\n                <li class=\"roll die d6\">4</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div style=\"text-align:center\">Sneak Attack<div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">11</h4>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n      <div class=\"dice-formula\">2d6</div>\n    </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">2d6</span>\n                \n                <span class=\"part-total\">11</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d6\">5</li>\n                <li class=\"roll die d6 max\">6</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div></div><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <div></div>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"midi-qol-single-hit-card\">\n  <div class=\"midi-qol-nobox\">\n    <div class=\"midi-qol-flex-container\">\n      <div class=\"midi-qol-target-npc-GM midi-qol-target-name\" id=\"9tUKcZD8mViqC1j3\"> Commoner</div>\n      <div class=\"midi-qol-target-npc-Player midi-qol-target-name\" id=\"9tUKcZD8mViqC1j3\"> Unknown Creature</div>\n      <div><img src=\"modules/forgotten-adventures/assets/tokens/NPCs/Commoners/Half_Elves/HalfElf_Male_Commoner_01.png\" width=\"30\" height=\"30\" style=\"border:0px\" /></div>\n    </div>\n  </div>\n</div><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Simple Ranged</span>\n    <span>Equipped</span>\n    <span>Proficient</span>\n    <span>1 Action</span>\n    <span>80 / 320 Feet</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.hA281AIaEstOBwvW.Item.kO7m3TWk7VcYC54x",
+        "actorUuid": "Actor.hA281AIaEstOBwvW",
+        "sound": "none",
+        "type": 0,
+        "itemId": "kO7m3TWk7VcYC54x",
+        "workflowId": "Actor.hA281AIaEstOBwvW.Item.kO7m3TWk7VcYC54x",
+        "waitForDiceSoNice": true,
+        "hideTag": [
+          ".midi-qol-damage-roll",
+          ".midi-qol.other-roll"
+        ],
+        "displayId": "dddtchq2nki14i14",
+        "roll": {},
+        "isCritical": false,
+        "isFumble": false,
+        "isHit": true,
+        "isHitEC": false,
+        "d20AttackRoll": 17,
+        "damageDetail": [
+          {
+            "damage": 12,
+            "type": "piercing"
+          }
+        ],
+        "damageTotal": 12,
+        "otherDamageDetail": [],
+        "bonusDamageDetail": [
+          {
+            "damage": 11,
+            "type": "piercing"
+          }
+        ],
+        "bonusDamageTotal": 11
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647758028361,
+    "name": null,
+    "flavor": "Round End",
+    "content": null,
+    "roll": null,
+    "flags": {
+      "monks-little-details": {
+        "roundmarker": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647758255223,
+    "name": "Mako",
+    "flavor": "Totem of healing",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"hA281AIaEstOBwvW\" data-item-id=\"k2YdjHUlOtl1svFp\" data-actor-uuid=\"Actor.hA281AIaEstOBwvW\" data-item-uuid=\"Actor.hA281AIaEstOBwvW.Item.k2YdjHUlOtl1svFp\" data-token-id=\"Scene.NUJMJ2xAkt7H1xMF.Token.H79VJg7gi2IJUB8p\" data-token-uuid=\"Scene.NUJMJ2xAkt7H1xMF.Token.H79VJg7gi2IJUB8p\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/weapons/wands/wand-totem.webp\" title=\"Totem of healing\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Totem of healing</h3>\n  </header>\n\n  <div class=\"card-content\">\n    <p>As an action you can pray to this token, it heals 1d4 + your Constitution modifier.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Healing)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">3</h4>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n      <div class=\"dice-formula\">1d4 + 1</div>\n    </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d4</span>\n                \n                <span class=\"part-total\">2</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d4\">2</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n    <div></div>\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Trinket</span>\n    <span>10 AC</span>\n    <span>Not Equipped</span>\n    <span>Proficient</span>\n    <span>1 Bonus Action</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Actor.hA281AIaEstOBwvW.Item.k2YdjHUlOtl1svFp",
+        "actorUuid": "Actor.hA281AIaEstOBwvW",
+        "sound": "none",
+        "type": 0,
+        "itemId": "k2YdjHUlOtl1svFp",
+        "workflowId": "Actor.hA281AIaEstOBwvW.Item.k2YdjHUlOtl1svFp",
+        "waitForDiceSoNice": true,
+        "roll": {},
+        "damageDetail": [
+          {
+            "damage": 3,
+            "type": "healing"
+          }
+        ],
+        "damageTotal": 3,
+        "otherDamageDetail": [],
+        "hideTag": [
+          ".midi-qol-damage-roll",
+          ".midi-qol.other-roll"
+        ],
+        "displayId": "p5g4yj4fmv9exibl"
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647758439871,
+    "name": "Drakronos",
+    "flavor": "Survival Skill Check: Drakronos",
+    "content": "15",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Survival Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 8 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":8},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":15,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "sur"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647758793845,
+    "name": "Beemiw",
+    "flavor": "History Skill Check: Beemiw",
+    "content": "3",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Beemiw\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":3,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647758800445,
+    "name": "Aketo",
+    "flavor": "History Skill Check: Aketo",
+    "content": "19",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Aketo\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 3 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":16,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":19,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647758808808,
+    "name": "Mako",
+    "flavor": "History Skill Check: Mako",
+    "content": "3",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Mako\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":3,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647759171641,
+    "name": "Drakronos",
+    "flavor": "History Skill Check: Drakronos",
+    "content": null,
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 +  - 1 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":0,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647759354280,
+    "name": "Commoner (Doppelganger)",
+    "flavor": "Strength Ability Check: Commoner (Doppelganger)",
+    "content": "17",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Strength Ability Check: Commoner (Doppelganger)\",\"advantageMode\":0,\"defaultRollMode\":\"gmroll\",\"critical\":20,\"fumble\":1,\"rollMode\":\"gmroll\"},\"dice\":[],\"formula\":\"1d20 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":17,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":17,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "check",
+          "abilityId": "str"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647759436421,
+    "name": "Commoner (Doppelganger)",
+    "flavor": "Slam",
+    "content": "<div class=\"dnd5e chat-card item-card midi-qol-item-card\" data-actor-id=\"huYIaN3jVB4bdJId\" data-item-id=\"scZU8bs551DZRvgC\" data-actor-uuid=\"Scene.NUJMJ2xAkt7H1xMF.Token.9tUKcZD8mViqC1j3\" data-item-uuid=\"Scene.NUJMJ2xAkt7H1xMF.Token.9tUKcZD8mViqC1j3.Item.scZU8bs551DZRvgC\" data-token-id=\"Scene.NUJMJ2xAkt7H1xMF.Token.9tUKcZD8mViqC1j3\" data-token-uuid=\"Scene.NUJMJ2xAkt7H1xMF.Token.9tUKcZD8mViqC1j3\">\n  \n  <header class=\"card-header flexrow\">\n    <img src=\"icons/skills/melee/unarmed-punch-fist-yellow-red.webp\" title=\"Slam\" width=\"36\" height=\"36\" />\n    <h3 class=\"item-name\">Slam</h3>\n  </header>\n\n  <div class=\"card-content\">\n    \n<p>The Doppelganger attacks with its Slam.</p>\n  </div>\n\n  <div class=\"card-buttons\">\n    \n\n    <div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-attack-roll\"><div style=\"text-align:center\">Attack</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">20</h4>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n      <div class=\"dice-formula\">1d20 + 4 + 2</div>\n    </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d20</span>\n                \n                <span class=\"part-total\">14</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d20\">14</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-attack-roll\"></div>\n        </div>\n      </div>\n      <div class=\"flexrow 1\">\n        <div class=\"midi-qol-damage-roll\"><div style=\"text-align:center\">(Bludgeoning)</div><div class=\"dice-roll\">\n  <div class=\"dice-result\">\n    <h4 class=\"dice-total\">5</h4>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n      <div class=\"dice-formula\">1d6 + 4</div>\n    </section>\n    </div>\n    <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d6</span>\n                \n                <span class=\"part-total\">1</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d6 min\">1</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n  </div>\n</div><div class=\"end-midi-qol-damage-roll\"></div>\n        </div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-bonus-roll\"><div class=\"end-midi-qol-bonus-roll\"></div>\n      </div>\n    </div>\n    <div class=\"flexrow 1\">\n      <div class=\"midi-qol-other-roll\"><div class=\"end-midi-qol-other-roll\"></div>\n      </div>\n    </div>\n\n\n\n\n\n\n    \n    <div class=\"midi-qol-hits-display\"><div class=\"end-midi-qol-hits-display\"></div>\n    </div>\n    <div class=\"midi-qol-saves-display\"><div class=\"end-midi-qol-saves-display\"></div>\n    </div>\n  </div>\n\n  <footer class=\"card-footer\">\n    <span>Natural</span>\n    <span>Equipped</span>\n    <span>Proficient</span>\n    <span>1 Action</span>\n    <span>5 Feet</span>\n  </footer>\n</div>",
+    "roll": null,
+    "flags": {
+      "midi-qol": {
+        "itemUuid": "Scene.NUJMJ2xAkt7H1xMF.Token.9tUKcZD8mViqC1j3.Item.scZU8bs551DZRvgC",
+        "actorUuid": "Scene.NUJMJ2xAkt7H1xMF.Token.9tUKcZD8mViqC1j3",
+        "sound": "none",
+        "type": 0,
+        "itemId": "scZU8bs551DZRvgC",
+        "workflowId": "Scene.NUJMJ2xAkt7H1xMF.Token.9tUKcZD8mViqC1j3.Item.scZU8bs551DZRvgC",
+        "waitForDiceSoNice": true,
+        "hideTag": [],
+        "roll": {},
+        "displayId": "eg6x88cu1khss3rc",
+        "isCritical": false,
+        "isFumble": false,
+        "isHit": false,
+        "isHitEC": false,
+        "d20AttackRoll": 14,
+        "damageDetail": [
+          {
+            "damage": 5,
+            "type": "bludgeoning"
+          }
+        ],
+        "damageTotal": 5,
+        "otherDamageDetail": []
+      },
+      "core": {
+        "canPopout": true
+      }
+    }
+  },
+  {
+    "timestamp": 1647759505405,
+    "name": "Commoner (Doppelganger)",
+    "flavor": "Dexterity Ability Check: Commoner (Doppelganger)",
+    "content": "14",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Dexterity Ability Check: Commoner (Doppelganger)\",\"advantageMode\":0,\"defaultRollMode\":\"gmroll\",\"critical\":20,\"fumble\":1,\"rollMode\":\"gmroll\"},\"dice\":[],\"formula\":\"1d20 + 4\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":10,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4}],\"total\":14,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "check",
+          "abilityId": "dex"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647759521438,
+    "name": "Drakronos",
+    "flavor": "Dexterity Ability Check: Drakronos",
+    "content": "23",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Dexterity Ability Check: Drakronos\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"rollMode\":\"publicroll\"},\"dice\":[],\"formula\":\"1d20 + 3\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":20,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3}],\"total\":23,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "check",
+          "abilityId": "dex"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1647759692049,
+    "name": "Vickyan",
+    "flavor": "History Skill Check: Vickyan",
+    "content": "18",
+    "roll": "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"History Skill Check: Vickyan\",\"advantageMode\":0,\"defaultRollMode\":\"gmroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"reliableTalent\":false,\"rollMode\":\"gmroll\"},\"dice\":[],\"formula\":\"1d20 + 1 + 2 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":15,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":18,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "skill",
+          "skillId": "his"
+        }
+      }
+    }
+  }
+]

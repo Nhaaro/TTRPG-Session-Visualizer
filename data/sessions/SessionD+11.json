@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1647839794961,
+    "name": "44815051",
+    "flavor": "Initiative",
+    "content": "15",
+    "roll": "{\"diceNotationStr\":\"1d20+2\",\"result\":\"13+2\",\"values\":[13],\"total\":15,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1647842083418,
+    "name": "44815051",
+    "flavor": "Athletics",
+    "content": "20",
+    "roll": ""
+  },
+  {
+    "timestamp": 1647842114786,
+    "name": "44815051",
+    "flavor": "Strength",
+    "content": "23",
+    "roll": ""
+  },
+  {
+    "timestamp": 1647842509666,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "16",
+    "roll": ""
+  },
+  {
+    "timestamp": 1647842524271,
+    "name": "44815051",
+    "flavor": "Greataxe",
+    "content": "4",
+    "roll": ""
+  },
+  {
+    "timestamp": 1647843833297,
+    "name": "44815051",
+    "flavor": "Strength",
+    "content": "18",
+    "roll": ""
+  }
+]

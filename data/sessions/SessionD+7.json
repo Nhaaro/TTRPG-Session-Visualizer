@@ -1,0 +1,79 @@
+[
+  {
+    "timestamp": 1645928457228,
+    "name": "44815051",
+    "flavor": "Acrobatics",
+    "content": "6",
+    "roll": ""
+  },
+  {
+    "timestamp": 1645928882394,
+    "name": "44815051",
+    "flavor": "Initiative",
+    "content": "17",
+    "roll": "{\"diceNotationStr\":\"1d20+2\",\"result\":\"15+2\",\"values\":[15],\"total\":17,\"rollType\":\"roll\"}"
+  },
+  {
+    "timestamp": 1645929589412,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "21",
+    "roll": ""
+  },
+  {
+    "timestamp": 1645929604530,
+    "name": "44815051",
+    "flavor": "Handaxe",
+    "content": "14",
+    "roll": ""
+  },
+  {
+    "timestamp": 1645929628887,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "9",
+    "roll": ""
+  },
+  {
+    "timestamp": 1645931322284,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "12",
+    "roll": ""
+  },
+  {
+    "timestamp": 1645931369389,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "21",
+    "roll": ""
+  },
+  {
+    "timestamp": 1645932748524,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "19",
+    "roll": ""
+  },
+  {
+    "timestamp": 1645936448732,
+    "name": "44815051",
+    "flavor": "Investigation",
+    "content": "18",
+    "roll": ""
+  },
+  {
+    "timestamp": 1645936500778,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "8",
+    "roll": ""
+  },
+  {
+    "timestamp": 1645936503592,
+    "name": "44815051",
+    "flavor": "Javelin",
+    "content": "5",
+    "roll": ""
+  }
+]

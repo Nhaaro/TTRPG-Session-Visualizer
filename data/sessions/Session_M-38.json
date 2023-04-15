@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": 1660444095929,
+    "name": "Riding Drake Companion",
+    "flavor": "<strong>\n    <span class=\"pf2-icon larger\">1</span>\n    Interact: Loot item\n</strong>\n    <div class=\"tags\">\n            <span class=\"tag\" title=\"You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions.\">Manipulate</span>\n    </div>\n<hr class=\"action-divider\" />",
+    "content": "<p class=\"action-content\"><img src=\"systems/pf2e/icons/equipment/weapons/scimitar.webp\" />Riding Drake Companion loots Scimitar off Shy Skeleton Guard.</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {},
+      "pf2e-dorako-ui": {
+        "userAvatar": {
+          "name": "Riding Drake Companion",
+          "image": "icons/svg/mystery-man.svg",
+          "type": "avatar"
+        },
+        "combatantAvatar": null,
+        "tokenAvatar": null,
+        "actorAvatar": null
+      }
+    }
+  }
+]

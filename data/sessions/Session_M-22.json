@@ -1,0 +1,756 @@
+[
+  {
+    "timestamp": 1651307873747,
+    "name": "test level up",
+    "flavor": "Roll Warlock Hit Points",
+    "content": "1",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d8\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":8,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "hitPoints"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1651307874924,
+    "name": "test level up",
+    "flavor": "Roll Warlock Hit Points",
+    "content": "2",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d8\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":8,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]}],\"total\":2,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "hitPoints"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1651307878866,
+    "name": "test level up",
+    "flavor": "Roll Warlock Hit Points",
+    "content": "3",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d8\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":8,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]}],\"total\":3,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "hitPoints"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1651307881034,
+    "name": "test level up",
+    "flavor": "Roll Warlock Hit Points",
+    "content": "7",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d8\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":8,\"modifiers\":[],\"results\":[{\"result\":7,\"active\":true}]}],\"total\":7,\"evaluated\":true}",
+    "flags": {
+      "dnd5e": {
+        "roll": {
+          "type": "hitPoints"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1651308043937,
+    "name": "Gamemaster",
+    "flavor": "Draws a result from the Personality Traits (Acolyte) table",
+    "content": "<div class=\"table-draw\" data-table-id=\"HDzErjwy3TseLOZX\">\n    <div class=\"dice-roll\">\n    <div class=\"dice-result\">\n        <div class=\"dice-formula\">1d8</div>\n        <div class=\"dice-tooltip\">\n    <section class=\"tooltip-part\">\n        <div class=\"dice\">\n            <header class=\"part-header flexrow\">\n                <span class=\"part-formula\">1d8</span>\n                \n                <span class=\"part-total\">2</span>\n            </header>\n            <ol class=\"dice-rolls\">\n                <li class=\"roll die d8\">2</li>\n            </ol>\n        </div>\n    </section>\n</div>\n\n        <h4 class=\"dice-total\">2</h4>\n    </div>\n</div>\n\n    <ol class=\"table-results\">\n        <li class=\"table-result flexrow\" data-result-id=\"obotHmmCsn6EC6et\">\n            <img class=\"result-image\" src=\"icons/svg/d20-black.svg\" />\n            <div class=\"result-text\">I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.</div>\n        </li>\n    </ol>\n</div>",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d8\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":8,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]}],\"total\":2,\"evaluated\":true}",
+    "flags": {
+      "core": {
+        "RollTable": "HDzErjwy3TseLOZX"
+      }
+    }
+  },
+  {
+    "timestamp": 1651312127884,
+    "name": "test PC",
+    "flavor": "<h4 class=\"action\">Strike: Shortbow</h4><div class=\"tags\">\n<span class=\"tag\" data-trait=\"attack\" data-description=\"PF2E.TraitDescriptionAttack\">Attack</span><span class=\"tag\" data-trait=\"deadly-d10\" data-description=\"PF2E.TraitDescriptionDeadly\">Deadly d10</span>\n<span class=\"tag tag_secondary\">Range Increment 60 ft.</span></div><hr /><div class=\"tags\"><span class=\"tag tag_alt\">Dexterity +0</span><span class=\"tag tag_alt\">Untrained -2</span></div>",
+    "content": "16",
+    "roll": "{\"class\":\"StrikeAttackRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 +  - 2\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":18,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":16,\"evaluated\":true,\"data\":{\"rollerId\":\"I9QO2IlN0IMUup2N\",\"strike\":{\"actor\":\"Actor.onspBGGu10KwFGUi\",\"index\":9,\"name\":\"Shortbow\"}}}",
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "canReroll": true,
+        "context": {
+          "actor": "onspBGGu10KwFGUi",
+          "target": null,
+          "type": "attack-roll",
+          "options": [
+            "self:type:character",
+            "feature:research-field",
+            "feature:alchemy",
+            "feature:formula-book",
+            "class:alchemist",
+            "feature:chirurgeon",
+            "feat:alchemical-crafting",
+            "feature:infused-reagents",
+            "feature:advanced-alchemy",
+            "feature:quick-alchemy",
+            "feat:battle-medicine",
+            "self:heritage:skilled-heritage",
+            "self:ancestry:pureblood-tiefling",
+            "self:trait:fiend",
+            "self:trait:humanoid",
+            "self:trait:tiefling",
+            "feat:alchemical-savant",
+            "feat:fiendish-wings",
+            "feat:new-feat",
+            "feat:power-attack",
+            "crafting:entry:alchemist",
+            "self:mode:living",
+            "self:level:3",
+            "perception:rank:1",
+            "ability:str:score:10",
+            "ability:dex:score:10",
+            "ability:con:score:10",
+            "ability:int:score:20",
+            "ability:wis:score:10",
+            "ability:cha:score:10",
+            "skill:acr:rank:0",
+            "skill:arc:rank:0",
+            "skill:ath:rank:0",
+            "skill:cra:rank:1",
+            "skill:dec:rank:0",
+            "skill:dip:rank:0",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:0",
+            "skill:occ:rank:0",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:0",
+            "skill:sur:rank:0",
+            "skill:thi:rank:0",
+            "defense:unarmored:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:heavy:rank:0",
+            "attack:unarmed:rank:1",
+            "attack:simple:rank:1",
+            "attack:martial:rank:0",
+            "attack:advanced:rank:0",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:1",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "self:caster",
+            "self:size:2",
+            "self:size:medium",
+            "target:distance:null",
+            "deadly-d10",
+            "weapon:shortbow",
+            "weapon:trait:deadly-d10",
+            "weapon:level:0",
+            "weapon:category:martial",
+            "weapon:group:bow",
+            "weapon:base:shortbow",
+            "weapon:usage:hands:1+",
+            "weapon:range-increment:60",
+            "weapon:reload:0",
+            "weapon:damage:die:faces:6",
+            "weapon:damage-dice:1",
+            "weapon:ranged",
+            "weapon:proficiency:rank:0",
+            "ranged",
+            "skill:rank:0",
+            "proficiency:untrained"
+          ],
+          "notes": [],
+          "dc": null,
+          "traits": [
+            {
+              "name": "attack",
+              "label": "Attack",
+              "description": "PF2E.TraitDescriptionAttack"
+            },
+            {
+              "name": "deadly-d10",
+              "label": "Deadly d10",
+              "description": "PF2E.TraitDescriptionDeadly"
+            }
+          ],
+          "rollTwice": "no",
+          "skipDialog": true,
+          "token": null,
+          "secret": false,
+          "rollMode": "gmroll",
+          "title": "PF2E.Check.Label",
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Strike: Shortbow</h4><div class=\"tags\">\n<span class=\"tag\" data-trait=\"attack\" data-description=\"PF2E.TraitDescriptionAttack\">Attack</span><span class=\"tag\" data-trait=\"deadly-d10\" data-description=\"PF2E.TraitDescriptionDeadly\">Deadly d10</span>\n<span class=\"tag tag_secondary\">Range Increment 60 ft.</span></div><hr /><div class=\"tags\"><span class=\"tag tag_alt\">Dexterity +0</span><span class=\"tag tag_alt\">Untrained -2</span></div>",
+        "modifierName": "Strike: Shortbow",
+        "modifiers": [
+          {
+            "label": "Dexterity",
+            "slug": "dexterity",
+            "modifier": 0,
+            "type": "ability",
+            "ability": "dex",
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          },
+          {
+            "label": "Untrained",
+            "slug": "untrained",
+            "modifier": -2,
+            "type": "proficiency",
+            "ability": null,
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          }
+        ],
+        "origin": {
+          "uuid": "Actor.onspBGGu10KwFGUi.Item.Vr8tBMc27nf7i5Lg",
+          "type": "weapon"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1651312135551,
+    "name": "test PC",
+    "flavor": "<b>Damage Roll: Shortbow</b> (Hit)<div class=\"tags\"><span class=\"damage-tag damage-tag-base\">Base 1d6 Piercing</span></div>",
+    "content": "<div class=\"dice-roll\">\n        <div class=\"dice-result\">\n            <div class=\"dice-formula\">1d6</div>\n            <div class=\"dice-tooltip\" style=\"display:none\"><div class=\"damage-type piercing\"><h3 class=\"flexrow\"><span>piercing</span><i class=\"fa fa-bow-arrow\"></i></h3>\n            <section class=\"tooltip-part\">\n                <div class=\"dice\">\n                    <header class=\"part-header flexrow\">\n                        <span class=\"part-formula\">1d6</span>\n                        <span class=\"part-flavor\">physical</span>\n                        <span class=\"part-total\">1</span>\n                    </header>\n                    <ol class=\"dice-rolls\"><li class=\"roll die d6\">1</li></ol>\n                </div>\n            </section>\n            </div></div><h4 class=\"dice-total\"><span id=\"value\">1</span></h4></div></div>",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":6,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}",
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "damageRoll": {
+          "outcome": "success",
+          "rollMode": "gmroll",
+          "traits": [
+            "attack",
+            "deadly-d10"
+          ],
+          "types": {
+            "piercing": {
+              "physical": 1
+            }
+          },
+          "total": 1,
+          "diceResults": {
+            "piercing": {
+              "physical": [
+                1
+              ]
+            }
+          },
+          "baseDamageDice": 1
+        },
+        "target": null,
+        "origin": {
+          "uuid": "Actor.onspBGGu10KwFGUi.Item.Vr8tBMc27nf7i5Lg",
+          "type": "weapon"
+        },
+        "preformatted": "both"
+      }
+    }
+  },
+  {
+    "timestamp": 1651312167182,
+    "name": "test PC",
+    "flavor": "<h4 class=\"action\">Strike: Shortbow</h4><div class=\"tags\">\n<span class=\"tag\" data-trait=\"attack\" data-description=\"PF2E.TraitDescriptionAttack\">Attack</span><span class=\"tag\" data-trait=\"deadly-d10\" data-description=\"PF2E.TraitDescriptionDeadly\">Deadly d10</span>\n<span class=\"tag tag_secondary\">Range Increment 60 ft.</span></div><hr /><div class=\"tags\"><span class=\"tag tag_alt\">Dexterity +0</span><span class=\"tag tag_alt\">Untrained -2</span></div>",
+    "content": "6",
+    "roll": "{\"class\":\"StrikeAttackRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 +  - 2\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":6,\"evaluated\":true,\"data\":{\"rollerId\":\"I9QO2IlN0IMUup2N\",\"strike\":{\"actor\":\"Actor.onspBGGu10KwFGUi\",\"index\":9,\"name\":\"Shortbow\"}}}",
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "canReroll": true,
+        "context": {
+          "actor": "onspBGGu10KwFGUi",
+          "target": null,
+          "type": "attack-roll",
+          "options": [
+            "self:type:character",
+            "feature:research-field",
+            "feature:alchemy",
+            "feature:formula-book",
+            "class:alchemist",
+            "feature:chirurgeon",
+            "feat:alchemical-crafting",
+            "feature:infused-reagents",
+            "feature:advanced-alchemy",
+            "feature:quick-alchemy",
+            "feat:battle-medicine",
+            "self:heritage:skilled-heritage",
+            "self:ancestry:pureblood-tiefling",
+            "self:trait:fiend",
+            "self:trait:humanoid",
+            "self:trait:tiefling",
+            "feat:alchemical-savant",
+            "feat:fiendish-wings",
+            "feat:new-feat",
+            "feat:power-attack",
+            "crafting:entry:alchemist",
+            "self:mode:living",
+            "self:level:3",
+            "perception:rank:1",
+            "ability:str:score:10",
+            "ability:dex:score:10",
+            "ability:con:score:10",
+            "ability:int:score:20",
+            "ability:wis:score:10",
+            "ability:cha:score:10",
+            "skill:acr:rank:0",
+            "skill:arc:rank:0",
+            "skill:ath:rank:0",
+            "skill:cra:rank:1",
+            "skill:dec:rank:0",
+            "skill:dip:rank:0",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:0",
+            "skill:occ:rank:0",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:0",
+            "skill:sur:rank:0",
+            "skill:thi:rank:0",
+            "defense:unarmored:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:heavy:rank:0",
+            "attack:unarmed:rank:1",
+            "attack:simple:rank:1",
+            "attack:martial:rank:0",
+            "attack:advanced:rank:0",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:1",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "self:caster",
+            "self:size:2",
+            "self:size:medium",
+            "target:distance:null",
+            "deadly-d10",
+            "weapon:shortbow",
+            "weapon:trait:deadly-d10",
+            "weapon:level:0",
+            "weapon:category:martial",
+            "weapon:group:bow",
+            "weapon:base:shortbow",
+            "weapon:usage:hands:1+",
+            "weapon:range-increment:60",
+            "weapon:reload:0",
+            "weapon:damage:die:faces:6",
+            "weapon:damage-dice:1",
+            "weapon:ranged",
+            "weapon:proficiency:rank:0",
+            "ranged",
+            "skill:rank:0",
+            "proficiency:untrained"
+          ],
+          "notes": [],
+          "dc": null,
+          "traits": [
+            {
+              "name": "attack",
+              "label": "Attack",
+              "description": "PF2E.TraitDescriptionAttack"
+            },
+            {
+              "name": "deadly-d10",
+              "label": "Deadly d10",
+              "description": "PF2E.TraitDescriptionDeadly"
+            }
+          ],
+          "rollTwice": "no",
+          "skipDialog": true,
+          "token": null,
+          "secret": false,
+          "rollMode": "gmroll",
+          "title": "PF2E.Check.Label",
+          "isReroll": false,
+          "outcome": null,
+          "unadjustedOutcome": null
+        },
+        "unsafe": "<h4 class=\"action\">Strike: Shortbow</h4><div class=\"tags\">\n<span class=\"tag\" data-trait=\"attack\" data-description=\"PF2E.TraitDescriptionAttack\">Attack</span><span class=\"tag\" data-trait=\"deadly-d10\" data-description=\"PF2E.TraitDescriptionDeadly\">Deadly d10</span>\n<span class=\"tag tag_secondary\">Range Increment 60 ft.</span></div><hr /><div class=\"tags\"><span class=\"tag tag_alt\">Dexterity +0</span><span class=\"tag tag_alt\">Untrained -2</span></div>",
+        "modifierName": "Strike: Shortbow",
+        "modifiers": [
+          {
+            "label": "Dexterity",
+            "slug": "dexterity",
+            "modifier": 0,
+            "type": "ability",
+            "ability": "dex",
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          },
+          {
+            "label": "Untrained",
+            "slug": "untrained",
+            "modifier": -2,
+            "type": "proficiency",
+            "ability": null,
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          }
+        ],
+        "origin": {
+          "uuid": "Actor.onspBGGu10KwFGUi.Item.Vr8tBMc27nf7i5Lg",
+          "type": "weapon"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1651312171678,
+    "name": "test PC",
+    "flavor": "<b>Damage Roll: Shortbow</b> (Hit)<div class=\"tags\"><span class=\"damage-tag damage-tag-base\">Base 1d6 Piercing</span></div>",
+    "content": "<div class=\"dice-roll\">\n        <div class=\"dice-result\">\n            <div class=\"dice-formula\">1d6</div>\n            <div class=\"dice-tooltip\" style=\"display:none\"><div class=\"damage-type piercing\"><h3 class=\"flexrow\"><span>piercing</span><i class=\"fa fa-bow-arrow\"></i></h3>\n            <section class=\"tooltip-part\">\n                <div class=\"dice\">\n                    <header class=\"part-header flexrow\">\n                        <span class=\"part-formula\">1d6</span>\n                        <span class=\"part-flavor\">physical</span>\n                        <span class=\"part-total\">3</span>\n                    </header>\n                    <ol class=\"dice-rolls\"><li class=\"roll die d6\">3</li></ol>\n                </div>\n            </section>\n            </div></div><h4 class=\"dice-total\"><span id=\"value\">3</span></h4></div></div>",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":6,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]}],\"total\":3,\"evaluated\":true}",
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "damageRoll": {
+          "outcome": "success",
+          "rollMode": "gmroll",
+          "traits": [
+            "attack",
+            "deadly-d10"
+          ],
+          "types": {
+            "piercing": {
+              "physical": 3
+            }
+          },
+          "total": 3,
+          "diceResults": {
+            "piercing": {
+              "physical": [
+                3
+              ]
+            }
+          },
+          "baseDamageDice": 1
+        },
+        "target": null,
+        "origin": {
+          "uuid": "Actor.onspBGGu10KwFGUi.Item.Vr8tBMc27nf7i5Lg",
+          "type": "weapon"
+        },
+        "preformatted": "both"
+      }
+    }
+  },
+  {
+    "timestamp": 1651312253888,
+    "name": "test PC",
+    "flavor": "<h4 class=\"action\">Strike: Shortbow</h4><div class=\"target-dc-result\">\n    <div class=\"target-dc\" data-visibility=\"gm\"><span data-visibility=\"gm\" data-whose=\"target\">Target: Giant Rat</span> <span data-visibility=\"gm\" data-whose=\"target\">(AC 15)</span></div>\n    <div class=\"result degree-of-success\" data-visibility=\"all\">Result: <span data-visibility=\"all\" data-whose=\"self\" class=\"success\">Hit</span> <span data-visibility=\"gm\" data-whose=\"target\">by +0</span></div>\n</div><div class=\"tags\">\n<span class=\"tag\" data-trait=\"attack\" data-description=\"PF2E.TraitDescriptionAttack\">Attack</span><span class=\"tag\" data-trait=\"deadly-d10\" data-description=\"PF2E.TraitDescriptionDeadly\">Deadly d10</span>\n<span class=\"tag tag_secondary\">Range Increment 60 ft.</span></div><hr /><div class=\"tags\"><span class=\"tag tag_alt\">Dexterity +0</span><span class=\"tag tag_alt\">Untrained -2</span></div>",
+    "content": "15",
+    "roll": "{\"class\":\"StrikeAttackRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 +  - 2\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":17,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":15,\"evaluated\":true,\"data\":{\"rollerId\":\"I9QO2IlN0IMUup2N\",\"strike\":{\"actor\":\"Actor.onspBGGu10KwFGUi\",\"index\":9,\"name\":\"Shortbow\"},\"degreeOfSuccess\":2}}",
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "canReroll": true,
+        "context": {
+          "actor": "onspBGGu10KwFGUi",
+          "target": {
+            "actor": "Scene.cgv9iVmx3dNIL3YA.Token.zqbICZ4qsODTnLAg",
+            "token": "Scene.cgv9iVmx3dNIL3YA.Token.zqbICZ4qsODTnLAg"
+          },
+          "type": "attack-roll",
+          "options": [
+            "self:type:character",
+            "feature:research-field",
+            "feature:alchemy",
+            "feature:formula-book",
+            "class:alchemist",
+            "feature:chirurgeon",
+            "feat:alchemical-crafting",
+            "feature:infused-reagents",
+            "feature:advanced-alchemy",
+            "feature:quick-alchemy",
+            "feat:battle-medicine",
+            "self:heritage:skilled-heritage",
+            "self:ancestry:pureblood-tiefling",
+            "self:trait:fiend",
+            "self:trait:humanoid",
+            "self:trait:tiefling",
+            "feat:alchemical-savant",
+            "feat:fiendish-wings",
+            "feat:new-feat",
+            "feat:power-attack",
+            "crafting:entry:alchemist",
+            "self:mode:living",
+            "self:level:3",
+            "perception:rank:1",
+            "ability:str:score:10",
+            "ability:dex:score:10",
+            "ability:con:score:10",
+            "ability:int:score:20",
+            "ability:wis:score:10",
+            "ability:cha:score:10",
+            "skill:acr:rank:0",
+            "skill:arc:rank:0",
+            "skill:ath:rank:0",
+            "skill:cra:rank:1",
+            "skill:dec:rank:0",
+            "skill:dip:rank:0",
+            "skill:itm:rank:0",
+            "skill:med:rank:1",
+            "skill:nat:rank:0",
+            "skill:occ:rank:0",
+            "skill:prf:rank:0",
+            "skill:rel:rank:0",
+            "skill:soc:rank:0",
+            "skill:ste:rank:0",
+            "skill:sur:rank:0",
+            "skill:thi:rank:0",
+            "defense:unarmored:rank:1",
+            "defense:light:rank:1",
+            "defense:medium:rank:1",
+            "defense:heavy:rank:0",
+            "attack:unarmed:rank:1",
+            "attack:simple:rank:1",
+            "attack:martial:rank:0",
+            "attack:advanced:rank:0",
+            "save:fortitude:rank:2",
+            "save:reflex:rank:2",
+            "save:will:rank:1",
+            "hands-free:0",
+            "hands-free:but-really:0",
+            "self:caster",
+            "self:size:2",
+            "self:size:medium",
+            "target:type:npc",
+            "target:level:-1",
+            "target:mode:living",
+            "target:trait:animal",
+            "target:size:1",
+            "target:size:small",
+            "target:distance:5",
+            "deadly-d10",
+            "weapon:shortbow",
+            "weapon:trait:deadly-d10",
+            "weapon:level:0",
+            "weapon:category:martial",
+            "weapon:group:bow",
+            "weapon:base:shortbow",
+            "weapon:usage:hands:1+",
+            "weapon:range-increment:60",
+            "weapon:reload:0",
+            "weapon:damage:die:faces:6",
+            "weapon:damage-dice:1",
+            "weapon:ranged",
+            "weapon:proficiency:rank:0",
+            "ranged",
+            "skill:rank:0",
+            "proficiency:untrained",
+            "target:range-increment:1"
+          ],
+          "notes": [],
+          "dc": {
+            "scope": "attack",
+            "slug": "ac",
+            "value": 15
+          },
+          "traits": [
+            {
+              "name": "attack",
+              "label": "Attack",
+              "description": "PF2E.TraitDescriptionAttack"
+            },
+            {
+              "name": "deadly-d10",
+              "label": "Deadly d10",
+              "description": "PF2E.TraitDescriptionDeadly"
+            }
+          ],
+          "rollTwice": "no",
+          "skipDialog": true,
+          "outcome": "success",
+          "unadjustedOutcome": "success",
+          "token": null,
+          "secret": false,
+          "rollMode": "gmroll",
+          "title": "PF2E.Check.Label",
+          "isReroll": false
+        },
+        "unsafe": "<h4 class=\"action\">Strike: Shortbow</h4><div class=\"target-dc-result\">\n    <div class=\"target-dc\" data-visibility=\"gm\"><span data-visibility=\"gm\" data-whose=\"target\">Target: Giant Rat</span> <span data-visibility=\"gm\" data-whose=\"target\">(AC 15)</span></div>\n    <div class=\"result degree-of-success\" data-visibility=\"all\">Result: <span data-visibility=\"all\" data-whose=\"self\" class=\"success\">Hit</span> <span data-visibility=\"gm\" data-whose=\"target\">by +0</span></div>\n</div><div class=\"tags\">\n<span class=\"tag\" data-trait=\"attack\" data-description=\"PF2E.TraitDescriptionAttack\">Attack</span><span class=\"tag\" data-trait=\"deadly-d10\" data-description=\"PF2E.TraitDescriptionDeadly\">Deadly d10</span>\n<span class=\"tag tag_secondary\">Range Increment 60 ft.</span></div><hr /><div class=\"tags\"><span class=\"tag tag_alt\">Dexterity +0</span><span class=\"tag tag_alt\">Untrained -2</span></div>",
+        "modifierName": "Strike: Shortbow",
+        "modifiers": [
+          {
+            "label": "Dexterity",
+            "slug": "dexterity",
+            "modifier": 0,
+            "type": "ability",
+            "ability": "dex",
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          },
+          {
+            "label": "Untrained",
+            "slug": "untrained",
+            "modifier": -2,
+            "type": "proficiency",
+            "ability": null,
+            "adjustments": [],
+            "damageType": null,
+            "damageCategory": null,
+            "enabled": true,
+            "ignored": false,
+            "custom": false,
+            "critical": null,
+            "source": null,
+            "predicate": {
+              "all": [],
+              "any": [],
+              "not": [],
+              "isValid": true
+            },
+            "notes": "",
+            "traits": [],
+            "hideIfDisabled": false
+          }
+        ],
+        "origin": {
+          "uuid": "Actor.onspBGGu10KwFGUi.Item.Vr8tBMc27nf7i5Lg",
+          "type": "weapon"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1651312267751,
+    "name": "test PC",
+    "flavor": "<b>Damage Roll: Shortbow</b> (Hit)<div class=\"tags\"><span class=\"tag\" data-trait=\"attack\" data-description=\"PF2E.TraitDescriptionAttack\">Attack</span><span class=\"tag\" data-trait=\"deadly-d10\" data-description=\"PF2E.TraitDescriptionDeadly\">Deadly d10</span></div><hr /><div class=\"tags\"><span class=\"damage-tag damage-tag-base\">Base 1d6 Piercing</span></div>",
+    "content": "<div class=\"dice-roll\">\n        <div class=\"dice-result\">\n            <div class=\"dice-formula\">1d6</div>\n            <div class=\"dice-tooltip\" style=\"display:none\"><div class=\"damage-type piercing\"><h3 class=\"flexrow\"><span>piercing</span><i class=\"fa fa-bow-arrow\"></i></h3>\n            <section class=\"tooltip-part\">\n                <div class=\"dice\">\n                    <header class=\"part-header flexrow\">\n                        <span class=\"part-formula\">1d6</span>\n                        <span class=\"part-flavor\">physical</span>\n                        <span class=\"part-total\">4</span>\n                    </header>\n                    <ol class=\"dice-rolls\"><li class=\"roll die d6\">4</li></ol>\n                </div>\n            </section>\n            </div></div><h4 class=\"dice-total\"><span id=\"value\">4</span></h4></div></div>",
+    "roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":6,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]}],\"total\":4,\"evaluated\":true}",
+    "flags": {
+      "core": {
+        "canPopout": true
+      },
+      "pf2e": {
+        "damageRoll": {
+          "outcome": "success",
+          "rollMode": "gmroll",
+          "traits": [
+            "attack",
+            "deadly-d10"
+          ],
+          "types": {
+            "piercing": {
+              "physical": 4
+            }
+          },
+          "total": 4,
+          "diceResults": {
+            "piercing": {
+              "physical": [
+                4
+              ]
+            }
+          },
+          "baseDamageDice": 1
+        },
+        "target": {
+          "actor": "Scene.cgv9iVmx3dNIL3YA.Token.zqbICZ4qsODTnLAg",
+          "token": "Scene.cgv9iVmx3dNIL3YA.Token.zqbICZ4qsODTnLAg"
+        },
+        "origin": {
+          "uuid": "Actor.onspBGGu10KwFGUi.Item.Vr8tBMc27nf7i5Lg",
+          "type": "weapon"
+        },
+        "preformatted": "both"
+      }
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": 1655003649472,
+    "name": "Vickyan",
+    "flavor": "Uses Elixir of Life (Minor)",
+    "content": "6",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    }
+  },
+  {
+    "timestamp": 1655003676949,
+    "name": "Aketo",
+    "flavor": "",
+    "content": "Aketo has 14/14 SP and spends a resolve point, taking a 10 minute breather. Stamina Refreshed.",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    }
+  },
+  {
+    "timestamp": 1655003676949,
+    "name": "Aketo",
+    "flavor": "",
+    "content": "Aketo has 14/14 SP and spends a resolve point, taking a 10 minute breather. Stamina Refreshed.",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    }
+  },
+  {
+    "timestamp": 1655003701037,
+    "name": "Vickyan",
+    "flavor": "",
+    "content": "<p>Vickyan is healed for 3 damage.</p>",
+    "roll": null,
+    "flags": {
+      "core": {},
+      "pf2e": {}
+    }
+  }
+]
