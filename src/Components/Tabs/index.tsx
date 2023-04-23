@@ -75,7 +75,7 @@ const TabListItem = styled.li<{ active: boolean }>`
 `;
 const TabContent = styled.div`
   margin-block-end: 10px;
-  padding: 40px;
+  padding: 20px;
   border: 1px solid #2f2f2f;
   border-radius: 0 0 0.5rem 0.5rem;
   border-top: 0;
