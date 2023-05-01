@@ -13,80 +13,80 @@ const Messages = () => {
   ]);
 
   const loadMessages = (group: string, log: string) => async () => {
-    setGroups(new Map());
     setSelectedModule([log, group, `${group}/${log}`]);
 
-    console.log(group, log);
     const modulePath = `${prefix}${group}/${log}${sufix}`;
     const module = (await jsonModules[modulePath]()) as { default: Message[] };
-    groupMsgs(module.default, MS.day);
+
+    groupByDay(module.default, MS.day);
+    groupByStructure(module.default);
   };
 
   const [groups, setGroups] = useState(new Map<key, Message[]>());
 
-  const groupMsgs = (array: Message[], ms: number, difference = 0) => {
-    console.log(array, ms, difference);
+  const groupByDay = async (array: Message[], ms: number, difference = 0) => {
+    setGroups(new Map());
     const sources = new Set<string>();
-    console.log('before');
-    console.time('group');
-    array.forEach((curr, index) => {
-      if ('$$deleted' in curr) return;
-      const timestamp = difference ? curr.timestamp : Math.round(curr.timestamp / ms) * ms;
-      let offsetedDate: Date;
 
-      const keys = [...groups.keys()];
-      const keyIndex = keys.findIndex((key) => key.timestamp === timestamp);
-      let key: key;
-      let diff;
-      if (difference && keys.length > 0) {
-        const tmp = keys[keyIndex === -1 ? keys.length - 1 : keyIndex];
-        const tmp2 = keys[keyIndex - 1] || tmp;
-        diff = curr.timestamp - tmp.endTimestamp!;
-        if (diff < difference) key = tmp2;
-      }
-      key ||= keys.find((key) => key.timestamp === timestamp) || {
-        timestamp,
-        diff,
-        sources: {},
-      };
+    for (const [index, curr] of array.entries()) {
+      setGroups((groups) => {
+        const timestamp = difference ? curr.timestamp : Math.round(curr.timestamp / ms) * ms;
+        let offsetedDate: Date;
 
-      offsetedDate = new Date(key.timestamp - offset * 60 * 1000);
-      // console.log(key, curr);
-      key.date = offsetedDate.toISOString().split('T')[0];
+        const keys = [...groups.keys()];
+        const keyIndex = keys.findIndex((key) => key.timestamp === timestamp);
+        let key: key;
+        let diff;
+        if (difference && keys.length > 0) {
+          const tmp = keys[keyIndex === -1 ? keys.length - 1 : keyIndex];
+          const tmp2 = keys[keyIndex - 1] || tmp;
+          diff = curr.timestamp - tmp.endTimestamp!;
+          if (diff < difference) key = tmp2;
+        }
+        key ||= keys.find((key) => key.timestamp === timestamp) || {
+          timestamp,
+          diff,
+          sources: {},
+        };
 
-      offsetedDate = new Date(difference ? curr.timestamp : Math.floor(curr.timestamp / MS(5)) * MS(5));
-      key.startTime =
-        key.startTime ||
-        offsetedDate.toLocaleString('en-UK', {
+        offsetedDate = new Date(key.timestamp - offset * 60 * 1000);
+        key.date = offsetedDate.toISOString().split('T')[0];
+
+        offsetedDate = new Date(difference ? curr.timestamp : Math.floor(curr.timestamp / MS(5)) * MS(5));
+        key.startTime =
+          key.startTime ||
+          offsetedDate.toLocaleString('en-UK', {
+            hour: '2-digit',
+            minute: '2-digit',
+          });
+        offsetedDate = new Date(difference ? curr.timestamp : Math.ceil(curr.timestamp / MS(5)) * MS(5));
+        key.endTime = offsetedDate.toLocaleString('en-UK', {
           hour: '2-digit',
           minute: '2-digit',
         });
-      offsetedDate = new Date(difference ? curr.timestamp : Math.ceil(curr.timestamp / MS(5)) * MS(5));
-      key.endTime = offsetedDate.toLocaleString('en-UK', {
-        hour: '2-digit',
-        minute: '2-digit',
-      });
 
-      sources.add(curr.src ?? selectedFile);
-      for (const src of sources) {
-        if (src === curr.src) {
-          const json = (key.sources[src] = key.sources[src] ?? {});
+        sources.add(curr.src ?? selectedFile);
+        for (const src of sources) {
+          if (src === curr.src) {
+            const json = (key.sources[src] = key.sources[src] ?? {});
 
-          json.startIndex = json.startIndex ?? curr.index; // keep index 0
-          json.endIndex = curr.index + 1; // jq's endIndex is exclusive
-          json.startTimestamp = json.startTimestamp || curr.timestamp;
-          json.endTimestamp = curr.timestamp;
+            json.startIndex = json.startIndex ?? curr.index; // keep index 0
+            json.endIndex = curr.index + 1; // jq's endIndex is exclusive
+            json.startTimestamp = json.startTimestamp || curr.timestamp;
+            json.endTimestamp = curr.timestamp;
+          }
+          key.startIndex = key.startIndex ?? index; // keep index 0
+          key.endIndex = index + 1; // jq's endIndex is exclusive
+          key.startTimestamp = key.startTimestamp || curr.timestamp;
+          key.endTimestamp = curr.timestamp;
         }
-        key.startIndex = key.startIndex ?? index; // keep index 0
-        key.endIndex = index + 1; // jq's endIndex is exclusive
-        key.startTimestamp = key.startTimestamp || curr.timestamp;
-        key.endTimestamp = curr.timestamp;
-      }
 
-      const acc = groups.get(key) || [];
-      setGroups((groups) => new Map(groups.set(key, [...acc, curr])));
-    });
-    console.timeEnd('group');
+        const acc = groups.get(key) || [];
+        const map = new Map(groups.set(key, [...acc, curr]));
+        return map;
+      });
+      await timeout(100);
+    }
   };
 
   return (
