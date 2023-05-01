@@ -19,7 +19,6 @@ const Messages = () => {
     const module = (await jsonModules[modulePath]()) as { default: Message[] };
 
     groupByDay(module.default, MS.day);
-    groupByStructure(module.default);
   };
 
   const [groups, setGroups] = useState(new Map<key, Message[]>());
@@ -111,34 +110,42 @@ const Messages = () => {
           ))}
         </ul>
       </LogsSection>
+
       <MessagesSection>
-        {[...groups.entries()].map(([key, group]) => (
-          <Details key={key.date} style={{ display: 'contents' }}>
-            <summary>
-              <span style={{ color: 'gray', fontStyle: 'italic' }}>{key.timestamp.toString().slice(0, 8)}</span>
-              &nbsp;
-              <span>{new Date(key.timestamp - offset * 60 * 1000).toISOString().split('T')[0]}</span>
-              &nbsp;
-              <span style={{ color: 'white', fontWeight: 'bold' }}>
-                {new Date(key.timestamp).toLocaleString('en-US', {
-                  weekday: 'short',
-                  day: '2-digit',
-                  month: 'short',
-                })}
-              </span>
-              &nbsp;&nbsp;
-              <span style={{ color: 'gray' }}>{`${key.startTime} - ${key.endTime}`}</span>
-            </summary>
-            <div>
-              <pre>
-                {Object.entries({ date: key.date, startTime: key.startTime, endTime: key.endTime })
-                  .map(([k, v]) => `${k}: ${v}`)
-                  .join('\n')}
-              </pre>
-              <pre>{JSON.stringify({ ...key.sources, [selectedModule]: key }, null, 2)}</pre>
-            </div>
-          </Details>
-        ))}
+        <h3>
+          <strong>{selectedGroup}</strong>
+          {selectedModule && ' - '}
+          <span>{selectedModule.replaceAll('-', ' ').replace('.messages', ' ')}</span>
+        </h3>
+        <ul>
+          {[...groups.entries()].map(([key, group], i) => (
+            <Details key={key.date} style={{ display: 'contents' }} open={i === groups.size - 1}>
+              <summary>
+                <span style={{ color: 'gray', fontStyle: 'italic' }}>{key.timestamp.toString().slice(0, 8)}</span>
+                &nbsp;
+                <span>{new Date(key.timestamp - offset * 60 * 1000).toISOString().split('T')[0]}</span>
+                &nbsp;
+                <span style={{ color: 'white', fontWeight: 'bold' }}>
+                  {new Date(key.timestamp).toLocaleString('en-US', {
+                    weekday: 'short',
+                    day: '2-digit',
+                    month: 'short',
+                  })}
+                </span>
+                &nbsp;&nbsp;
+                <span style={{ color: 'gray' }}>{`${key.startTime} - ${key.endTime}`}</span>
+              </summary>
+              <div>
+                <pre>
+                  {Object.entries({ date: key.date, startTime: key.startTime, endTime: key.endTime })
+                    .map(([k, v]) => `${k}: ${v}`)
+                    .join('\n')}
+                </pre>
+                <pre>{JSON.stringify({ ...key.sources, [selectedModule]: key }, null, 2)}</pre>
+              </div>
+            </Details>
+          ))}
+        </ul>
       </MessagesSection>
     </Grid>
   );
