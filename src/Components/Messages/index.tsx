@@ -202,6 +202,53 @@ const MessagesSection = styled.section`
     }
   }
 `;
+const TemplatesSection = styled.section`
+  grid-area: templates;
+  display: flex;
+  flex-direction: column;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    flex: 1;
+    overflow: scroll;
+    padding-right: 0.8rem;
+
+    li {
+      &:hover {
+        background-color: rgba(255, 255, 255, 0.04);
+      }
+      &.active {
+        background-color: rgba(255, 255, 255, 0.08);
+      }
+    }
+  }
+`;
+
+const ObjectsSection = styled.section`
+  grid-area: objects;
+  display: flex;
+  flex-direction: column;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    flex: 1;
+    overflow: scroll;
+    padding-right: 0.8rem;
+
+    li {
+      &:hover {
+        background-color: rgba(255, 255, 255, 0.04);
+      }
+      &.active {
+        background-color: rgba(255, 255, 255, 0.08);
+      }
+    }
+  }
+`;
 
 const Details = styled.details`
   summary {
