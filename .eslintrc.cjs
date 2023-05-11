@@ -3,7 +3,7 @@ const config = {
   root: true,
   parser: '@typescript-eslint/parser',
   extends: ['eslint:recommended', 'plugin:@typescript-eslint/recommended', 'prettier'],
-  plugins: ['@typescript-eslint', 'prettier'],
+  plugins: ['@typescript-eslint', 'prettier', 'react-refresh'],
   ignorePatterns: ['*.cjs'],
   settings: {},
   parserOptions: {
@@ -20,6 +20,7 @@ const config = {
     'no-constant-condition': 'warn',
     'no-empty': 'warn',
     // 'jsx-a11y/click-events-have-key-events': 'off',
+    'react-refresh/only-export-components': 'warn',
   },
 };
 
