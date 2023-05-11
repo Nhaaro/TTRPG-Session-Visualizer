@@ -6,14 +6,16 @@ import { MS, offset } from 'Utils/utils';
 import { jsonModules, key, paths, prefix, sufix } from './utils';
 
 const Messages = () => {
-  const [[selectedModule, selectedGroup, selectedFile], setSelectedModule] = useState<[string, string, string]>([
-    '',
-    '',
-    '',
-  ]);
+  const [selected, setSelectedModule] = useState<{
+    log: string;
+    group: string;
+    file: string;
+    length: number;
+    module: Message[];
+  }>({ log: '', group: '', file: '', length: 0, module: [] });
 
   const loadMessages = (group: string, log: string) => async () => {
-    setSelectedModule([log, group, `${group}/${log}`]);
+    setSelectedModule({ log, group, file: `${group}/${log}`, length: 0, module: [] });
 
     const modulePath = `${prefix}${group}/${log}${sufix}`;
     const module = (await jsonModules[modulePath]()) as { default: Message[] };
@@ -64,7 +66,7 @@ const Messages = () => {
           minute: '2-digit',
         });
 
-        sources.add(curr.src ?? selectedFile);
+        sources.add(curr.src ?? selected.file);
         for (const src of sources) {
           if (src === curr.src) {
             const json = (key.sources[src] = key.sources[src] ?? {});
@@ -100,7 +102,7 @@ const Messages = () => {
                   <li
                     key={log}
                     onClick={loadMessages(group, log)}
-                    className={selectedFile === `${group}/${log}` ? 'active' : ''}
+                    className={selected.file === `${group}/${log}` ? 'active' : ''}
                   >
                     <span style={{ paddingLeft: '1rem' }}>{log}</span>
                   </li>
@@ -112,14 +114,18 @@ const Messages = () => {
       </LogsSection>
 
       <MessagesSection>
-        <h3>
-          <strong>{selectedGroup}</strong>
-          {selectedModule && ' - '}
-          <span>{selectedModule.replaceAll('-', ' ').replace('.messages', ' ')}</span>
+        <h3 style={{ display: 'flex', justifyContent: 'space-between' }}>
+          <strong>{selected.group}</strong>
+          {selected.log && ' - '}
+          <span>{selected.log.replaceAll('-', ' ').replace('.messages', ' ')}</span>
         </h3>
         <ul>
           {[...groups.entries()].map(([key, group], i) => (
-            <Details key={key.date} style={{ display: 'contents' }} open={i === groups.size - 1}>
+            <Details
+              key={key.date}
+              style={{ display: 'contents' }}
+              open={i === group.size - 1 && key.endIndex != selected.length}
+            >
               <summary>
                 <span style={{ color: 'gray', fontStyle: 'italic' }}>{key.timestamp.toString().slice(0, 8)}</span>
                 &nbsp;
@@ -141,7 +147,7 @@ const Messages = () => {
                     .map(([k, v]) => `${k}: ${v}`)
                     .join('\n')}
                 </pre>
-                <pre>{JSON.stringify({ ...key.sources, [selectedModule]: key }, null, 2)}</pre>
+                <pre>{JSON.stringify({ ...key.sources, [selected.log]: key }, null, 2)}</pre>
               </div>
             </Details>
           ))}
