@@ -2,7 +2,7 @@ import { useState } from 'react';
 import styled from 'styled-components';
 
 import type { Message } from 'Types/Messages';
-import { MS, offset } from 'Utils/utils';
+import { MS, offset, useArrayIterator } from 'Utils/utils';
 import { jsonModules, key, paths, prefix, sufix } from './utils';
 
 const Messages = () => {
@@ -20,17 +20,17 @@ const Messages = () => {
     const modulePath = `${prefix}${group}/${log}${sufix}`;
     const module = (await jsonModules[modulePath]()) as { default: Message[] };
 
-    groupByDay(module.default, MS.day);
+    setSelectedModule({ log, group, file: `${group}/${log}`, length: module.default.length, module: module.default });
   };
 
-  const [groups, setGroups] = useState(new Map<key, Message[]>());
+  const [days, setDays] = useState(new Map<key, Message[]>());
+  useArrayIterator(
+    { array: selected.module, deps: [setDays, selected.module] as const },
+    (index, curr, [setDays]) => {
+      const difference = 0;
+      const ms = MS.day;
 
-  const groupByDay = async (array: Message[], ms: number, difference = 0) => {
-    setGroups(new Map());
-    const sources = new Set<string>();
-
-    for (const [index, curr] of array.entries()) {
-      setGroups((groups) => {
+      setDays((groups) => {
         const timestamp = difference ? curr.timestamp : Math.round(curr.timestamp / ms) * ms;
         let offsetedDate: Date;
 
@@ -66,6 +66,7 @@ const Messages = () => {
           minute: '2-digit',
         });
 
+        const sources = new Set<string>();
         sources.add(curr.src ?? selected.file);
         for (const src of sources) {
           if (src === curr.src) {
@@ -86,9 +87,9 @@ const Messages = () => {
         const map = new Map(groups.set(key, [...acc, curr]));
         return map;
       });
-      await timeout(100);
-    }
-  };
+    },
+    () => setDays(new Map())
+  );
 
   return (
     <Grid>
@@ -115,16 +116,26 @@ const Messages = () => {
 
       <MessagesSection>
         <h3 style={{ display: 'flex', justifyContent: 'space-between' }}>
-          <strong>{selected.group}</strong>
-          {selected.log && ' - '}
-          <span>{selected.log.replaceAll('-', ' ').replace('.messages', ' ')}</span>
+          <div>
+            <strong>{selected.group}</strong>
+            {selected.log && ' - '}
+            <span>{selected.log.replaceAll('-', ' ').replace('.messages', ' ')}</span>
+          </div>
+          <div style={{ fontSize: '0.75em', alignSelf: 'center', color: 'gray' }}>
+            {(!!selected.length &&
+              days.size &&
+              `${[...days.keys()][days.size - 1].endIndex}/${selected.length} - ${Math.round(
+                ([...days.keys()][days.size - 1].endIndex! / selected.length) * 100
+              )}%`) ||
+              ''}
+          </div>
         </h3>
         <ul>
-          {[...groups.entries()].map(([key, group], i) => (
+          {[...days.keys()].map((key, i) => (
             <Details
               key={key.date}
               style={{ display: 'contents' }}
-              open={i === group.size - 1 && key.endIndex != selected.length}
+              open={i === days.size - 1 && key.endIndex != selected.length}
             >
               <summary>
                 <span style={{ color: 'gray', fontStyle: 'italic' }}>{key.timestamp.toString().slice(0, 8)}</span>
@@ -204,53 +215,6 @@ const MessagesSection = styled.section`
     padding: 0;
     flex: 1;
     overflow: scroll;
-
-    li {
-      &:hover {
-        background-color: rgba(255, 255, 255, 0.04);
-      }
-      &.active {
-        background-color: rgba(255, 255, 255, 0.08);
-      }
-    }
-  }
-`;
-const TemplatesSection = styled.section`
-  grid-area: templates;
-  display: flex;
-  flex-direction: column;
-
-  ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    flex: 1;
-    overflow: scroll;
-    padding-right: 0.8rem;
-
-    li {
-      &:hover {
-        background-color: rgba(255, 255, 255, 0.04);
-      }
-      &.active {
-        background-color: rgba(255, 255, 255, 0.08);
-      }
-    }
-  }
-`;
-
-const ObjectsSection = styled.section`
-  grid-area: objects;
-  display: flex;
-  flex-direction: column;
-
-  ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    flex: 1;
-    overflow: scroll;
-    padding-right: 0.8rem;
 
     li {
       &:hover {
