@@ -3,7 +3,8 @@ import styled from 'styled-components';
 
 import type { Message } from 'Types/Messages';
 import { MS, offset, useArrayIterator } from 'Utils/utils';
-import { jsonModules, key, paths, prefix, sufix } from './utils';
+import { jsonModules, key, paths, prefix, getStructure, sufix } from './utils';
+import UniqueStructures from './UniqueStructures';
 
 const Messages = () => {
   const [selected, setSelectedModule] = useState<{
@@ -91,6 +92,27 @@ const Messages = () => {
     () => setDays(new Map())
   );
 
+  const [structures, setStructures] = useState(new Set<string>());
+  useArrayIterator(
+    { array: selected.module, deps: [setStructures, selected.module] as const },
+    (index, value, [setStructures]) => {
+      if ('$$deleted' in value) return;
+
+      setStructures((structures) => {
+        const objectStructure = getStructure({ key: '', value, parent: { location: '' } }, !selected.module[index + 1])
+          .value as string;
+        const stringifiedStructure = JSON.stringify(objectStructure);
+
+        if (!structures.has(stringifiedStructure)) {
+          return new Set([...structures, stringifiedStructure]);
+        } else {
+          return new Set([...structures]);
+        }
+      });
+    },
+    () => setStructures(new Set())
+  );
+
   return (
     <Grid>
       <LogsSection>
@@ -164,6 +186,16 @@ const Messages = () => {
           ))}
         </ul>
       </MessagesSection>
+
+      <StructuresSection>
+        <ul>
+          {[...structures.values()].map((obj, i) => (
+            <li key={i}>
+              <UniqueStructures src={JSON.parse(obj)} />
+            </li>
+          ))}
+        </ul>
+      </StructuresSection>
     </Grid>
   );
 };
@@ -177,8 +209,8 @@ const Grid = styled.div`
   grid-gap: 0.5rem 20px;
   grid-auto-flow: row;
   grid-template-areas:
-    'logs messages templates objects'
-    'logs messages templates objects';
+    'logs messages structures'
+    'logs messages structures';
   flex: 1;
   overflow-y: hidden;
 `;
@@ -215,6 +247,30 @@ const MessagesSection = styled.section`
     padding: 0;
     flex: 1;
     overflow: scroll;
+
+    li {
+      &:hover {
+        background-color: rgba(255, 255, 255, 0.04);
+      }
+      &.active {
+        background-color: rgba(255, 255, 255, 0.08);
+      }
+    }
+  }
+`;
+
+const StructuresSection = styled.section`
+  grid-area: structures;
+  display: flex;
+  flex-direction: column;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    flex: 1;
+    overflow: scroll;
+    padding-right: 0.8rem;
 
     li {
       &:hover {
