@@ -136,7 +136,7 @@ const Messages = () => {
         </ul>
       </LogsSection>
 
-      <MessagesSection>
+      <SessionsSection>
         <h3 style={{ display: 'flex', justifyContent: 'space-between' }}>
           <div>
             <strong>{selected.group}</strong>
@@ -185,7 +185,7 @@ const Messages = () => {
             </Details>
           ))}
         </ul>
-      </MessagesSection>
+      </SessionsSection>
 
       <StructuresSection>
         <ul>
@@ -209,8 +209,8 @@ const Grid = styled.div`
   grid-gap: 0.5rem 20px;
   grid-auto-flow: row;
   grid-template-areas:
-    'logs messages structures'
-    'logs messages structures';
+    'logs sessions structures'
+    'logs sessions structures';
   flex: 1;
   overflow-y: hidden;
 `;
@@ -236,8 +236,8 @@ const LogsSection = styled.section`
     }
   }
 `;
-const MessagesSection = styled.section`
-  grid-area: messages;
+const SessionsSection = styled.section`
+  grid-area: sessions;
   display: flex;
   flex-direction: column;
 
