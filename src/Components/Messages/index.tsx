@@ -1,20 +1,19 @@
-import { useState } from 'react';
+import { useContext, useState } from 'react';
 import styled from 'styled-components';
 
+import { ModuleContext } from '../../App';
 import type { Message } from 'Types/Messages';
 import { MS, offset, useArrayIterator } from 'Utils/utils';
 import { jsonModules, key, paths, prefix, getStructure, sufix } from './utils';
 import UniqueStructures from './UniqueStructures';
 
 const Messages = () => {
-  const [selected, setSelectedModule] = useState<{
-    log: string;
-    group: string;
-    file: string;
-    length: number;
-    module: Message[];
-  }>({ log: '', group: '', file: '', length: 0, module: [] });
+  const messagesContext = useContext(ModuleContext);
+  if (!messagesContext) {
+    throw new Error('Unable to read messagesContext');
+  }
 
+  const { selectedModule, setSelectedModule } = messagesContext;
   const loadMessages = (group: string, log: string) => async () => {
     setSelectedModule({ log, group, file: `${group}/${log}`, length: 0, module: [] });
 
@@ -24,9 +23,9 @@ const Messages = () => {
     setSelectedModule({ log, group, file: `${group}/${log}`, length: module.default.length, module: module.default });
   };
 
-  const [days, setDays] = useState(new Map<key, Message[]>());
+  const { days, setDays } = messagesContext;
   useArrayIterator(
-    { array: selected.module, deps: [setDays, selected.module] as const },
+    { array: selectedModule.module, deps: [setDays, selectedModule.module] as const },
     (index, curr, [setDays]) => {
       const difference = 0;
       const ms = MS.day;
@@ -68,7 +67,7 @@ const Messages = () => {
         });
 
         const sources = new Set<string>();
-        sources.add(curr.src ?? selected.file);
+        sources.add(curr.src ?? selectedModule.file);
         for (const src of sources) {
           if (src === curr.src) {
             const json = (key.sources[src] = key.sources[src] ?? {});
@@ -94,13 +93,15 @@ const Messages = () => {
 
   const [structures, setStructures] = useState(new Set<string>());
   useArrayIterator(
-    { array: selected.module, deps: [setStructures, selected.module] as const },
+    { array: selectedModule.module, deps: [setStructures, selectedModule.module] as const },
     (index, value, [setStructures]) => {
       if ('$$deleted' in value) return;
 
       setStructures((structures) => {
-        const objectStructure = getStructure({ key: '', value, parent: { location: '' } }, !selected.module[index + 1])
-          .value as string;
+        const objectStructure = getStructure(
+          { key: '', value, parent: { location: '' } },
+          !selectedModule.module[index + 1]
+        ).value as string;
         const stringifiedStructure = JSON.stringify(objectStructure);
 
         if (!structures.has(stringifiedStructure)) {
@@ -125,7 +126,7 @@ const Messages = () => {
                   <li
                     key={log}
                     onClick={loadMessages(group, log)}
-                    className={selected.file === `${group}/${log}` ? 'active' : ''}
+                    className={selectedModule.file === `${group}/${log}` ? 'active' : ''}
                   >
                     <span style={{ paddingLeft: '1rem' }}>{log}</span>
                   </li>
@@ -139,15 +140,15 @@ const Messages = () => {
       <SessionsSection>
         <h3 style={{ display: 'flex', justifyContent: 'space-between' }}>
           <div>
-            <strong>{selected.group}</strong>
-            {selected.log && ' - '}
-            <span>{selected.log.replaceAll('-', ' ').replace('.messages', ' ')}</span>
+            <strong>{selectedModule.group}</strong>
+            {selectedModule.log && ' - '}
+            <span>{selectedModule.log.replaceAll('-', ' ').replace('.messages', ' ')}</span>
           </div>
           <div style={{ fontSize: '0.75em', alignSelf: 'center', color: 'gray' }}>
-            {(!!selected.length &&
+            {(!!selectedModule.length &&
               days.size &&
-              `${[...days.keys()][days.size - 1].endIndex}/${selected.length} - ${Math.round(
-                ([...days.keys()][days.size - 1].endIndex! / selected.length) * 100
+              `${[...days.keys()][days.size - 1].endIndex}/${selectedModule.length} - ${Math.round(
+                ([...days.keys()][days.size - 1].endIndex! / selectedModule.length) * 100
               )}%`) ||
               ''}
           </div>
@@ -157,7 +158,7 @@ const Messages = () => {
             <Details
               key={key.date}
               style={{ display: 'contents' }}
-              open={i === days.size - 1 && key.endIndex != selected.length}
+              open={i === days.size - 1 && key.endIndex != selectedModule.length}
             >
               <summary>
                 <span style={{ color: 'gray', fontStyle: 'italic' }}>{key.timestamp.toString().slice(0, 8)}</span>
@@ -180,7 +181,7 @@ const Messages = () => {
                     .map(([k, v]) => `${k}: ${v}`)
                     .join('\n')}
                 </pre>
-                <pre>{JSON.stringify({ ...key.sources, [selected.log]: key }, null, 2)}</pre>
+                <pre>{JSON.stringify({ ...key.sources, [selectedModule.log]: key }, null, 2)}</pre>
               </div>
             </Details>
           ))}
