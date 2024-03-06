@@ -1,5 +1,6 @@
-import React, { Key } from 'react';
+import React, { Key, useContext } from 'react';
 import { ReactNode, CSSProperties } from 'react';
+import { EventPathContext } from '../../context/EventPathContext';
 import { JSONValue, ObjectStructure } from './utils';
 
 interface UniqueStructuresProps {
@@ -8,6 +9,17 @@ interface UniqueStructuresProps {
 const UniqueStructures = (props: UniqueStructuresProps) => {
   const { src } = props;
   const brackets = (value: JSONValue) => (Array.isArray(value) ? ['[', ']'] : ['{', '}']);
+
+  const eventTrackerContext = useContext(EventPathContext);
+  if (!eventTrackerContext) {
+    throw new Error('ChildComponent must be used within an EventTracker');
+  }
+  const { registerPath, setPropagationFinished } = eventTrackerContext;
+
+  const handleEventCapture = (currentTarget: EventTarget & HTMLElement, key: string) => {
+    if (currentTarget.localName === 'ul') setPropagationFinished();
+    else registerPath(key);
+  };
 
   function format(i: unknown): ReactNode {
     switch (true) {
@@ -48,15 +60,24 @@ const UniqueStructures = (props: UniqueStructuresProps) => {
           <></>
         );
 
-      const RootElement: React.FC<React.HTMLAttributes<HTMLLIElement> & { key?: Key }> = ({ children, ...props }) =>
+      const RootElement: React.FC<
+        React.HTMLAttributes<HTMLLIElement> & { key?: Key; ['data-key']: string; ['data-is-array']?: boolean }
+      > = ({ children, ...props }) =>
         opt?.style?.display === 'contents' ? (
           <React.Fragment key={props.key}>{children}</React.Fragment>
         ) : (
-          <li {...props}>{children}</li>
+          <li
+            {...props}
+            onClick={(e) => {
+              handleEventCapture(e.currentTarget, props['data-key']);
+            }}
+          >
+            {children}
+          </li>
         );
 
       return isArray ? (
-        <li key={key} data-key={key} data-is-object data-is-array>
+        <RootElement key={key} data-key={key} data-is-object data-is-array>
           <KeyElement />
           {value.length > 1 ? (
             <pre style={{ marginBlock: 'initial', display: 'inline' }}>
@@ -69,7 +90,7 @@ const UniqueStructures = (props: UniqueStructuresProps) => {
           ) : (
             <>{renderNestedObject({ ['']: value[0] }, { value, style: { display: 'contents' } })}[]</>
           )}
-        </li>
+        </RootElement>
       ) : isObject ? (
         <RootElement key={key} data-key={key} data-is-object style={opt?.style}>
           <KeyElement />
@@ -94,7 +115,13 @@ const UniqueStructures = (props: UniqueStructuresProps) => {
   return (
     <pre style={{ marginBlock: 'initial', display: 'inline' }}>
       {brackets(src)[0]}
-      <ul className="_jsonList" style={{ paddingInlineStart: '1em' }}>
+      <ul
+        className="_jsonList"
+        style={{ paddingInlineStart: '1em' }}
+        onClick={(e) => {
+          handleEventCapture(e.currentTarget, '');
+        }}
+      >
         {renderNestedObject(src)}
       </ul>
       {brackets(src)[1]}

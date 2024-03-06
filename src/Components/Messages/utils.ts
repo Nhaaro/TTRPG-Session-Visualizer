@@ -95,11 +95,15 @@ export type ObjectStructure = { [key: string]: JSONValue };
 export type ArrayStructure = JSONValue[];
 
 export function getStructure(
-  curr: { key: string; value: JSONValue; parent: Parent },
+  curr: { key: string; value: JSONValue; parent: Parent; structuresMap: Map<string, Set<unknown>> },
   last?: boolean
 ): { key: string; value: string | string[] | ObjectStructure | false } {
-  const { parent } = curr;
+  const { parent, structuresMap } = curr;
   const { location } = parent;
+
+  const stringLocation = location + (parent.parent?.location && curr.key === location ? '[]' : '');
+  if (!structuresMap.has(stringLocation)) structuresMap.set(stringLocation, new Set());
+  structuresMap.get(stringLocation)?.add(curr.value);
 
   let type;
   if (['flags', '_id'].includes(location)) return { key: curr.key, value: false };
@@ -158,6 +162,7 @@ export function getStructure(
           key: location,
           value: JSON.parse(curr.value),
           parent: { parent, location: location },
+          structuresMap,
         }).value;
         assert([''], 'string::object', parent, {
           value: curr.value,
@@ -254,7 +259,10 @@ export function getStructure(
     } else if (curr.value.every((v) => typeof v === 'object' && v !== null)) {
       const types = [
         ...new Set(
-          curr.value.map((v) => getStructure({ key: location, value: v, parent: { parent, location: location } }).value)
+          curr.value.map(
+            (v) =>
+              getStructure({ key: location, value: v, parent: { parent, location: location }, structuresMap }).value
+          )
         ),
       ];
       type = types.map((t) => (isValidJSON(t as string) ? JSON.parse(t as string) : t));
@@ -262,7 +270,10 @@ export function getStructure(
     } else if (!curr.value.some((v) => v === null)) {
       const types = [
         ...new Set(
-          curr.value.map((v) => getStructure({ key: location, value: v, parent: { parent, location: location } }).value)
+          curr.value.map(
+            (v) =>
+              getStructure({ key: location, value: v, parent: { parent, location: location }, structuresMap }).value
+          )
         ),
       ];
       type = types.map((t) => (isValidJSON(t as string) ? JSON.parse(t as string) : t));
@@ -270,7 +281,10 @@ export function getStructure(
     } else {
       const types = [
         ...new Set(
-          curr.value.map((v) => getStructure({ key: location, value: v, parent: { parent, location: location } }).value)
+          curr.value.map(
+            (v) =>
+              getStructure({ key: location, value: v, parent: { parent, location: location }, structuresMap }).value
+          )
         ),
       ];
       type = types.map((t) => (isValidJSON(t as string) ? JSON.parse(t as string) : t));
@@ -303,7 +317,7 @@ export function getStructure(
         const val = curr.value[key];
         const location = parent?.location ? `${parent.location}.${key}` : key;
 
-        const { key: tKey, value } = getStructure({ key, value: val, parent: { parent, location } });
+        const { key: tKey, value } = getStructure({ key, value: val, parent: { parent, location }, structuresMap });
         if (value) sortedObj[tKey] = value;
 
         if (Object.keys(toVerify).includes(location)) toVerify[location].add(val);

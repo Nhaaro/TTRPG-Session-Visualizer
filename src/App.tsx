@@ -7,6 +7,7 @@ import Sessions from 'Components/Sessions';
 import React, { useState } from 'react';
 import type { Message } from 'Types/Messages';
 import { key } from 'Components/Messages/utils';
+import { EventTracker } from './context/EventPathContext';
 
 interface selectedModule {
   log: string;
@@ -22,6 +23,8 @@ export const ModuleContext = React.createContext<
       setSelectedModule: React.Dispatch<React.SetStateAction<selectedModule>>;
       days: Map<key, Message[]>;
       setDays: React.Dispatch<React.SetStateAction<Map<key, Message[]>>>;
+      structures: Set<string>;
+      setStructures: React.Dispatch<React.SetStateAction<Set<string>>>;
     }
   | undefined
 >(undefined);
@@ -41,11 +44,14 @@ function App() {
   });
 
   const [days, setDays] = useState(new Map<key, Message[]>());
+  const [structures, setStructures] = useState(new Set<string>());
 
   return (
-    <ModuleContext.Provider value={{ selectedModule, setSelectedModule, days, setDays }}>
-      <Tabs items={items} />
-    </ModuleContext.Provider>
+    <EventTracker>
+      <ModuleContext.Provider value={{ selectedModule, setSelectedModule, days, setDays, structures, setStructures }}>
+        <Tabs items={items} />
+      </ModuleContext.Provider>
+    </EventTracker>
   );
 }
 

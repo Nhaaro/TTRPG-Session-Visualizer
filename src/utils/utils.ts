@@ -29,7 +29,8 @@ export function isValidHtml(str: string): boolean {
 export function useArrayIterator<T, D extends DependencyList>(
   setup: { array: T[]; deps?: D },
   onIterate: (index: number, item: T, deps: D) => void,
-  reset?: () => void
+  reset?: () => void,
+  onComplete?: (array: T[]) => void
 ) {
   const memoizedOnIterate = useCallback(onIterate, setup.deps || []);
 
@@ -40,8 +41,11 @@ export function useArrayIterator<T, D extends DependencyList>(
       const interval = setInterval(() => {
         const currentItem = setup.array[currentIndex];
         if (currentItem) memoizedOnIterate(currentIndex, currentItem, setup.deps || ([] as unknown as D));
-        if (currentIndex === setup.array.length) clearInterval(interval);
-        else currentIndex = currentIndex + 1;
+        if (currentIndex !== setup.array.length) currentIndex = currentIndex + 1;
+        else {
+          clearInterval(interval);
+          onComplete?.(setup.array);
+        }
       }, 100);
 
       return () => {

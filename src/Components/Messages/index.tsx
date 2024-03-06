@@ -1,4 +1,4 @@
-import { useContext, useState } from 'react';
+import { useCallback, useContext } from 'react';
 import styled from 'styled-components';
 
 import { ModuleContext } from '../../App';
@@ -6,12 +6,20 @@ import type { Message } from 'Types/Messages';
 import { MS, offset, useArrayIterator } from 'Utils/utils';
 import { jsonModules, key, paths, prefix, getStructure, sufix } from './utils';
 import UniqueStructures from './UniqueStructures';
+import { EventPathContext } from '../..//context/EventPathContext';
+
+const structuresMap = ((globalThis as any).structuresMap = new Map<string, Set<unknown>>());
 
 const Messages = () => {
   const messagesContext = useContext(ModuleContext);
   if (!messagesContext) {
     throw new Error('Unable to read messagesContext');
   }
+  const eventTrackerContext = useContext(EventPathContext);
+  if (!eventTrackerContext) {
+    throw new Error('ChildComponent must be used within an EventTracker');
+  }
+  const { pathIdentifier } = eventTrackerContext;
 
   const { selectedModule, setSelectedModule } = messagesContext;
   const loadMessages = (group: string, log: string) => async () => {
@@ -91,7 +99,7 @@ const Messages = () => {
     () => setDays(new Map())
   );
 
-  const [structures, setStructures] = useState(new Set<string>());
+  const { structures, setStructures } = messagesContext;
   useArrayIterator(
     { array: selectedModule.module, deps: [setStructures, selectedModule.module] as const },
     (index, value, [setStructures]) => {
@@ -99,10 +107,10 @@ const Messages = () => {
 
       setStructures((structures) => {
         const objectStructure = getStructure(
-          { key: '', value, parent: { location: '' } },
+          { key: '', value, parent: { location: '' }, structuresMap },
           !selectedModule.module[index + 1]
-        ).value as string;
-        const stringifiedStructure = JSON.stringify(objectStructure);
+        );
+        const stringifiedStructure = JSON.stringify(objectStructure.value as string);
 
         if (!structures.has(stringifiedStructure)) {
           return new Set([...structures, stringifiedStructure]);
@@ -197,6 +205,17 @@ const Messages = () => {
           ))}
         </ul>
       </StructuresSection>
+
+      <ValuesSection>
+        <h3>{pathIdentifier}</h3>
+        <ul>
+          {[...(structuresMap.get(pathIdentifier)?.values() || [])].map((value, i) => (
+            <li key={i} className={Array.isArray(value) ? 'array' : typeof value}>
+              {JSON.stringify(value)}
+            </li>
+          ))}
+        </ul>
+      </ValuesSection>
     </Grid>
   );
 };
@@ -205,13 +224,13 @@ export default Messages;
 
 const Grid = styled.div`
   display: grid;
-  grid-template-columns: max-content max-content max-content max-content;
+  grid-template-columns: max-content max-content max-content max-content max-content;
   grid-template-rows: 1fr;
   grid-gap: 0.5rem 20px;
   grid-auto-flow: row;
   grid-template-areas:
-    'logs sessions structures'
-    'logs sessions structures';
+    'logs sessions structures values'
+    'logs sessions structures values';
   flex: 1;
   overflow-y: hidden;
 `;
@@ -309,5 +328,20 @@ const Details = styled.details`
         border-top-width: 0px;
       }
     }
+  }
+`;
+
+const ValuesSection = styled.section`
+  grid-area: values;
+  display: flex;
+  flex-direction: column;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    flex: 1;
+    overflow: scroll;
+    padding-right: 0.8rem;
   }
 `;
