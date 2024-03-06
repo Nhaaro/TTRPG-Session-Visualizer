@@ -46,6 +46,12 @@ function App() {
   const [days, setDays] = useState(new Map<key, Message[]>());
   const [structures, setStructures] = useState(new Set<string>());
 
+  (globalThis as any).moduleContext = {
+    selectedModule,
+    days,
+    structures,
+  };
+
   return (
     <EventTracker>
       <ModuleContext.Provider value={{ selectedModule, setSelectedModule, days, setDays, structures, setStructures }}>
