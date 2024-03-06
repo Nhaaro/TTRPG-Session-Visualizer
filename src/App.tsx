@@ -8,6 +8,7 @@ import React, { useState } from 'react';
 import type { Message } from 'Types/Messages';
 import { key } from 'Components/Modules/utils';
 import { EventTracker } from './context/EventPathContext';
+import { useLocalStorage } from 'usehooks-ts';
 
 interface selectedModule {
   log: string;
@@ -35,7 +36,7 @@ function App() {
     { label: 'Sessions', Component: Sessions },
   ];
 
-  const [selectedModule, setSelectedModule] = useState<selectedModule>({
+  const [selectedModule, setSelectedModule] = useLocalStorage<selectedModule>('selectedModule', {
     log: '',
     group: '',
     file: '',
