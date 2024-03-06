@@ -18,6 +18,8 @@ export const SessionsSection = () => {
       const difference = 0;
       const ms = MS.day;
 
+      if ('$$delete' in curr) return;
+
       setDays((groups) => {
         const timestamp = difference ? curr.timestamp : Math.round(curr.timestamp / ms) * ms;
         let offsetedDate: Date;
