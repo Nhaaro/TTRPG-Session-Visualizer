@@ -1,12 +1,12 @@
 import './App.css';
 
 import Tabs, { Tab } from 'Components/Tabs';
-import Messages from 'Components/Messages';
+import Modules from 'Components/Modules';
 import Sessions from 'Components/Sessions';
 
 import React, { useState } from 'react';
 import type { Message } from 'Types/Messages';
-import { key } from 'Components/Messages/utils';
+import { key } from 'Components/Modules/utils';
 import { EventTracker } from './context/EventPathContext';
 
 interface selectedModule {
@@ -31,7 +31,7 @@ export const ModuleContext = React.createContext<
 
 function App() {
   const items: Tab[] = [
-    { label: 'Messages', Component: Messages },
+    { label: 'Modules', Component: Modules },
     { label: 'Sessions', Component: Sessions },
   ];
 

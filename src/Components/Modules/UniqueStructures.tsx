@@ -1,7 +1,7 @@
 import React, { Key, useContext } from 'react';
 import { ReactNode, CSSProperties } from 'react';
 import { EventPathContext } from '../../context/EventPathContext';
-import { JSONValue, ObjectStructure } from './utils';
+import { JSONValue, ObjectStructure } from '.';
 
 interface UniqueStructuresProps {
   src: ObjectStructure;
