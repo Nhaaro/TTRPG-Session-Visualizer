@@ -46,7 +46,7 @@ export function useArrayIterator<T, D extends DependencyList>(
           clearInterval(interval);
           onComplete?.(setup.array);
         }
-      }, 100);
+      }, 10);
 
       return () => {
         clearInterval(interval);
