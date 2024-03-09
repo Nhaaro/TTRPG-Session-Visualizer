@@ -27,7 +27,7 @@ export const paths = Object.keys(jsonModules).reduce((paths, modulePath) => {
   });
 }, [] as [string, string[]][]);
 
-export type key = {
+export type SessionMetadata = {
   timestamp: number;
   diff?: number;
   sources: Record<string, Message>;

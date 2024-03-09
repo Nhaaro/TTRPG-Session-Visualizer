@@ -1,7 +1,7 @@
 import { useContext } from 'react';
 import styled from 'styled-components';
 import { MS, offset, useArrayIterator } from 'Utils/utils';
-import type { key } from '.';
+import type { SessionMetadata } from '.';
 import { ModuleContext } from '../../App';
 
 export const SessionsSection = () => {
@@ -11,21 +11,21 @@ export const SessionsSection = () => {
   }
   const { selectedModule } = messagesContext;
 
-  const { days, setDays } = messagesContext;
+  const { sessions, setSessions } = messagesContext;
   useArrayIterator(
-    { array: selectedModule.module, deps: [setDays, selectedModule.module] as const },
-    (index, curr, [setDays]) => {
+    { array: selectedModule.module, deps: [setSessions, selectedModule.module] as const },
+    (index, curr, [setSessions]) => {
       const difference = 0;
       const ms = MS.day;
 
       if ('$$delete' in curr) return;
 
-      setDays((groups) => {
+      setSessions((groups) => {
         const timestamp = difference ? curr.timestamp : Math.round(curr.timestamp / ms) * ms;
         let offsetedDate: Date;
 
         const keys = [...groups.keys()];
-        let key: key;
+        let key: SessionMetadata;
         const keyIndex = keys.findIndex((key) => key.timestamp === timestamp);
         let diff;
         if (difference && keys.length > 0) {
@@ -78,7 +78,7 @@ export const SessionsSection = () => {
         return map;
       });
     },
-    () => setDays(new Map())
+    () => setSessions(new Map())
   );
 
   return (
@@ -91,19 +91,19 @@ export const SessionsSection = () => {
         </div>
         <div style={{ fontSize: '0.75em', alignSelf: 'center', color: 'gray' }}>
           {(!!selectedModule.length &&
-            days.size &&
-            `${[...days.keys()][days.size - 1].endIndex}/${selectedModule.length} - ${Math.round(
-              ([...days.keys()][days.size - 1].endIndex! / selectedModule.length) * 100
+            sessions.size &&
+            `${[...sessions.keys()][sessions.size - 1].endIndex}/${selectedModule.length} - ${Math.round(
+              ([...sessions.keys()][sessions.size - 1].endIndex! / selectedModule.length) * 100
             )}%`) ||
             ''}
         </div>
       </h3>
       <ul>
-        {[...days.keys()].map((key, i) => (
+        {[...sessions.keys()].map((key, i) => (
           <Details
             key={key.date}
             style={{ display: 'contents' }}
-            open={i === days.size - 1 && key.endIndex != selectedModule.length}
+            open={i === sessions.size - 1 && key.endIndex != selectedModule.length}
           >
             <summary>
               <span style={{ color: 'gray', fontStyle: 'italic' }}>{key.timestamp.toString().slice(0, 8)}</span>
