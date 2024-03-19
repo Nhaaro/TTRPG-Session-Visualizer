@@ -1,10 +1,10 @@
 import styled from 'styled-components';
-import { LogsSection, SessionsSection, StructuresSection, ValuesSection } from '.';
+import { ModulesSection, SessionsSection, StructuresSection, ValuesSection } from '.';
 
 const Modules = () => {
   return (
     <Grid>
-      <LogsSection />
+      <ModulesSection />
       <SessionsSection />
       <StructuresSection />
       <ValuesSection />
