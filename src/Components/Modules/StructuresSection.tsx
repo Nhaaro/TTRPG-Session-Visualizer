@@ -32,7 +32,10 @@ export const StructuresSection = () => {
         }
       });
     },
-    () => setStructures(new Set())
+    () => {
+      structuresMap.clear();
+      setStructures(new Set());
+    }
   );
 
   return (
