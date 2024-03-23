@@ -33,8 +33,6 @@ export const ModulesSection = () => {
   const [isPending, startTransition] = useTransition();
 
   const loadMessages = (group: string, log: string) => async () => {
-    setSelectedModule({ log, group, file: `${group}/${log}`, length: 0, module: [] });
-
     const modulePath = `${prefix}${group}/${log}${sufix}`;
     const module = (await jsonModules[modulePath]()) as { default: Message[] };
 
