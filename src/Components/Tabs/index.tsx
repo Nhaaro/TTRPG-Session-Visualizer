@@ -1,5 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 import styled, { css } from 'styled-components';
+import { useLocalStorage } from 'usehooks-ts';
 
 export type Tab = {
   label: string;
@@ -12,7 +13,7 @@ interface TabsProps {
 const Tabs = (props: TabsProps) => {
   const { items } = props;
 
-  const [activeTab, setActiveTab] = useState<number>(0);
+  const [activeTab, setActiveTab] = useLocalStorage<number>('activeTab', 0);
 
   const handleClick = (index: number) => () => setActiveTab(index);
 

@@ -14,7 +14,8 @@
     "classnames": "^2.5.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "styled-components": "^5.3.9"
+    "styled-components": "^5.3.9",
+    "usehooks-ts": "^3.0.1"
   },
   "devDependencies": {
     "@types/eslint": "^8.37.0",
