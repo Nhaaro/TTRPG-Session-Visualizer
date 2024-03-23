@@ -20,7 +20,18 @@ export const SessionsSection = () => {
       </h3>
       <ul>
         {[...sessions.keys()].map((key) => (
-          <Details key={key.date} open={selectedSession.includes(key.timestamp)}>
+          <Details
+            key={key.date}
+            open={selectedSession.includes(key.timestamp)}
+            onClick={(e) => {
+              e.preventDefault();
+              setSelectedSession((selected) => {
+                if (!e.currentTarget.attributes.getNamedItem('open')) {
+                  return [...selected, key.timestamp].sort();
+                } else return selected.filter((s) => s !== key.timestamp);
+              });
+            }}
+          >
             <summary>
               <span>{new Date(key.timestamp - offset * 60 * 1000).toISOString().split('T')[0]}</span>
               &nbsp;

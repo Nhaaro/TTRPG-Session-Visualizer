@@ -1,10 +1,11 @@
 import styled from 'styled-components';
-import { SessionsSection } from '.';
+import { MessagesSection, SessionsSection } from '.';
 
 const Modules = () => {
   return (
     <Grid>
       <SessionsSection />
+      <MessagesSection />
     </Grid>
   );
 };

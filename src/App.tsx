@@ -10,7 +10,7 @@ import { SessionMetadata } from 'Components/Modules/utils';
 import { EventTracker } from './context/EventPathContext';
 import { useLocalStorage } from 'usehooks-ts';
 
-interface selectedModule {
+export interface selectedModule {
   log: string;
   group: string;
   file: string;
@@ -26,6 +26,8 @@ export const ModuleContext = React.createContext<
       setSessions: React.Dispatch<React.SetStateAction<Map<SessionMetadata, Message[]>>>;
       structures: Set<string>;
       setStructures: React.Dispatch<React.SetStateAction<Set<string>>>;
+      selectedSession: number[];
+      setSelectedSession: React.Dispatch<React.SetStateAction<number[]>>;
     }
   | undefined
 >(undefined);
@@ -46,6 +48,7 @@ function App() {
 
   const [sessions, setSessions] = useState(new Map<SessionMetadata, Message[]>());
   const [structures, setStructures] = useState(new Set<string>());
+  const [selectedSession, setSelectedSession] = useLocalStorage<number[]>('selectedSession', []);
 
   (globalThis as any).moduleContext = {
     selectedModule,
@@ -56,7 +59,16 @@ function App() {
   return (
     <EventTracker>
       <ModuleContext.Provider
-        value={{ selectedModule, setSelectedModule, sessions, setSessions, structures, setStructures }}
+        value={{
+          selectedModule,
+          setSelectedModule,
+          sessions,
+          setSessions,
+          structures,
+          setStructures,
+          selectedSession,
+          setSelectedSession,
+        }}
       >
         <Tabs items={items} />
       </ModuleContext.Provider>
